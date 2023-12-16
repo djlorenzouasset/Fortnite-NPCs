@@ -1,0 +1,84 @@
+----- NPC: Vengeance Jones -----
+Default Dialogue: Where are you, buddy? Oh...hi...
+First Interaction: There's no doubt in my mind The Society's to blame for Peely's disappearance.
+With Valeria: You! Where's Peely? What have you done with him?
+With Oscar: You look tough, but no one's keeping me from finding my friend.
+With Nisha: En garde!
+With Montague: You're The Society's thief, huh? Ever take a person before? A banana, maybe?...
+With Hope: I know why I'm fighting The Society. What's your reason?
+Random Dialogue: Where are you, buddy? Oh...hi...
+Random Dialogue: The Society is going to pay.
+Random Dialogue: Sometimes you gotta throw your support behind the right side.
+Random Dialogue: Greetings from The Underground, friend.
+
+
+----- NPC: Hope -----
+Default Dialogue: Ready to dismantle a villianous power structure?
+First Interaction: The Society's been a problem for too long. They need to be taken down.
+With Valeria: When will you get it? I'm not your little sister anymore.
+With Oscar: You weren't always part of The Society. I'm still holding out hope.
+With Nisha: You're going to have to use that sword if you want to stop me.
+With Montague: Every thief gets caught one day. Even you.
+With Vengeance Jones: I get it, this is personal for you. It is for me, too.
+Random Dialogue: Ready to dismantle a villianous power structure?
+Random Dialogue: Most of The Society would do anything for more power.
+Random Dialogue: I hope Valeria will forgive me... and maybe even see that I'm right.
+Random Dialogue: The Society isn't unstoppable. They can't be.
+
+
+----- NPC: [CardboardCrew_Holiday] -----
+Default Dialogue: Default conversation.
+First Interaction: First ever conversation.
+With Malik: Outfit reaction.
+
+
+----- NPC: [BunnyPurple_Festive] -----
+Default Dialogue: Default conversation.
+First Interaction: First ever conversation.
+With Malik: Outfit reaction.
+
+
+----- NPC: Snow Striker -----
+Default Dialogue: Lose something?
+First Interaction: Stay in the shadows.
+With Malik: Outfit reaction.
+
+
+----- NPC: Metal Mouth -----
+Default Dialogue: No one ever talks about the downside to having a metal mouth. The rust.
+First Interaction: What, something in my teeth?
+With Malik: Outfit reaction.
+
+
+----- NPC: Steelsight -----
+Default Dialogue: This Island's in chaos. But chaos means more work for someone like me.
+First Interaction: If you're good at something, never do it for free.
+With Valeria: Hope's not here. Leave me out of your family drama, thanks.
+With Hope: You're never gonna take down The Society if you won't even take down your sister.
+Random Dialogue: This Island's in chaos. But chaos means more work for someone like me.
+Random Dialogue: The Society? The Underground? More like a family feud.
+Random Dialogue: My friend Hope lets me stay here between gigs. It's a good spot for laying low.
+Random Dialogue: This place belongs to Hope, the leader of the Underground.
+Random Dialogue: Don't tell The Society about this place. It's Hope's secret getaway.
+
+
+----- NPC: Mecha Team Shadow -----
+Default Dialogue: I am available to hire, if you need something blown up.
+First Interaction: I love stealth. I love explosions. I contain multitudes.
+With Malik: Outfit reaction.
+
+
+----- NPC: Sun Tan Specialist -----
+Default Dialogue: Lookin' to charge some heavy bombs, bro?
+First Interaction: I thought I caught my last wave, bro. But if you need my help...
+With Sun Strider: I know, I know, I should put down the board. But have you seen the bombs out there, bro?
+With TBD: I was told you know some radical tricks. Ever snap off-the-lip?
+With Purradise Meowscles, Oscar: Woah, bro. Something tells me you don't like water.
+
+
+----- NPC: Contract Giller -----
+Default Dialogue: The Society is still out there, murking up the water.
+First Interaction: The fish bowl was nice, but The Society needs to be stopped.
+With Malik: Outfit reaction.
+
+
