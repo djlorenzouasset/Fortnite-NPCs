@@ -1,0 +1,1074 @@
+[
+  {
+    "TagName": "AISpawnerData.Type.Tandem.UndergroundRebel",
+    "DisplayName": "Vengeance Jones",
+    "Description": "The Society's involvement in Peely's sudden disappearance has put them at the top of Jones' list. He knows they took his friend. The question is, where are they hiding him?",
+    "ShortDescription": "Iconic renegade on a mission for retribution.",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/S28/T-AthenaSoldiers-Character-UndergroundRebel-Fashion.T-AthenaSoldiers-Character-UndergroundRebel-Fashion",
+    "Services": [
+      {
+        "ServiceName": "Prop Disguise",
+        "ServiceTag": "Tandem.Service.PropDisguise",
+        "Price": 50,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Intel.T_UI_NPC_Intel"
+      }
+    ],
+    "Weapons": [
+      {
+        "Name": "Cluster Clinger",
+        "Id": "WID_Paprika_ClusterBomb",
+        "Rarity": "Common",
+        "Price": 200,
+        "SellCount": 2,
+        "ObjectPath": "/ClusterBombGameplay/Gameplay/WID_Paprika_ClusterBomb.WID_Paprika_ClusterBomb"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "Where are you, buddy? Oh...hi..."
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "There's no doubt in my mind The Society's to blame for Peely's disappearance."
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "You! Where's Peely? What have you done with him?",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Valeria",
+            "Id": "Character_MadameMoth_Posh",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_MadameMoth_Posh.Character_MadameMoth_Posh",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S28/Characters/T-Soldier-Hero-MadameMoth-Ember-L.T-Soldier-Hero-MadameMoth-Ember-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "You look tough, but no one's keeping me from finding my friend.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Oscar",
+            "Id": "Character_BengalBasher_Suit",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_BengalBasher_Suit.Character_BengalBasher_Suit",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-BengalBasher-Suit--L.T-Soldier-Hero-BengalBasher-Suit--L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "En garde!",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Nisha",
+            "Id": "Character_CeremonialGuard_Fencer",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_CeremonialGuard_Fencer.Character_CeremonialGuard_Fencer",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-CeremonialGuardFencer-L.T-Soldier-Hero-CeremonialGuardFencer-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "You're The Society's thief, huh? Ever take a person before? A banana, maybe?...",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Montague",
+            "Id": "Character_DiamondHeart_Chic",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_DiamondHeart_Chic.Character_DiamondHeart_Chic",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-DiamondHeart-Chic-L.T-Soldier-Hero-DiamondHeart-Chic-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "I know why I'm fighting The Society. What's your reason?",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Hope",
+            "Id": "Character_VoidRedemption_Rebel",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          }
+        ]
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Where are you, buddy? Oh...hi..."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "The Society is going to pay."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Sometimes you gotta throw your support behind the right side."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Greetings from The Underground, friend."
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Tandem.VoidRedemption",
+    "DisplayName": "Hope",
+    "Description": "The idealistic founder of The Underground, Hope is on a mission to help Jones save his friend, as long as he's willing to support her fight against The Society... and her own sister, Valeria.",
+    "ShortDescription": "Make some trouble. Change the world.",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/S28/T-AthenaSoldiers-Character-VoidRedemption-Rebel.T-AthenaSoldiers-Character-VoidRedemption-Rebel",
+    "Services": [
+      {
+        "ServiceName": "Rift To Go",
+        "ServiceTag": "Tandem.Service.RiftToGo",
+        "Price": 250,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Rift.T_UI_NPC_Rift"
+      }
+    ],
+    "Weapons": [
+      {
+        "Name": "Grapple Blade",
+        "Id": "WID_GrappleKnife_VR",
+        "Rarity": "Epic",
+        "Price": 400,
+        "SellCount": 1,
+        "ObjectPath": "/GrappleWeapon/Items/GrappleKnife/V2/WID_GrappleKnife_VR.WID_GrappleKnife_VR"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "Ready to dismantle a villianous power structure?"
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "The Society's been a problem for too long. They need to be taken down."
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "When will you get it? I'm not your little sister anymore.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Valeria",
+            "Id": "Character_MadameMoth_Posh",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_MadameMoth_Posh.Character_MadameMoth_Posh",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S28/Characters/T-Soldier-Hero-MadameMoth-Ember-L.T-Soldier-Hero-MadameMoth-Ember-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "You weren't always part of The Society. I'm still holding out hope.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Oscar",
+            "Id": "Character_BengalBasher_Suit",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_BengalBasher_Suit.Character_BengalBasher_Suit",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-BengalBasher-Suit--L.T-Soldier-Hero-BengalBasher-Suit--L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "You're going to have to use that sword if you want to stop me.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Nisha",
+            "Id": "Character_CeremonialGuard_Fencer",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_CeremonialGuard_Fencer.Character_CeremonialGuard_Fencer",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-CeremonialGuardFencer-L.T-Soldier-Hero-CeremonialGuardFencer-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "Every thief gets caught one day. Even you.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Montague",
+            "Id": "Character_DiamondHeart_Chic",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_DiamondHeart_Chic.Character_DiamondHeart_Chic",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-DiamondHeart-Chic-L.T-Soldier-Hero-DiamondHeart-Chic-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "I get it, this is personal for you. It is for me, too.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Vengeance Jones",
+            "Id": "Character_UndergroundRebel_Fashion",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Ready to dismantle a villianous power structure?"
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Most of The Society would do anything for more power."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "I hope Valeria will forgive me... and maybe even see that I'm right."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "The Society isn't unstoppable. They can't be."
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Specialist.Scout.ArcticCamo",
+    "DisplayName": "Snow Striker",
+    "Specialization": "Scout Specialist",
+    "Description": "Scout Specialist. There are few things Snow Striker can't see. Like polka dots.",
+    "ShortDescription": "Master of snow and ice. ",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-666-Athena-Commando-M-ArcticCamo.T-AthenaSoldiers-CID-666-Athena-Commando-M-ArcticCamo",
+    "Services": [
+      {
+        "ServiceName": "Hire",
+        "ServiceTag": "Tandem.Service.Hire",
+        "Price": 250,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "Weapons": [
+      {
+        "Name": "Ammo: Heavy Bullets",
+        "Id": "AthenaAmmoDataBulletsHeavy",
+        "Rarity": "Common",
+        "Price": 6,
+        "SellCount": 6,
+        "ObjectPath": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "Lose something?"
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "Stay in the shadows."
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Specialist.Heavy.PinkTrooper",
+    "DisplayName": "Metal Mouth",
+    "Specialization": "Heavy Specialist",
+    "Description": "Heavy Specialist. Metal Mouth is a simple man. He sees a target, he shoots.",
+    "ShortDescription": "What lies beyond that sinister smile?",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-626-Athena-Commando-M-PinkTrooper_01.T-AthenaSoldiers-CID-626-Athena-Commando-M-PinkTrooper_01",
+    "Services": [
+      {
+        "ServiceName": "Hire",
+        "ServiceTag": "Tandem.Service.Hire",
+        "Price": 200,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "Weapons": [
+      {
+        "Name": "Cluster Clinger",
+        "Id": "WID_Paprika_ClusterBomb",
+        "Rarity": "Common",
+        "Price": 200,
+        "SellCount": 2,
+        "ObjectPath": "/ClusterBombGameplay/Gameplay/WID_Paprika_ClusterBomb.WID_Paprika_ClusterBomb"
+      },
+      {
+        "Name": "Ammo: Medium Bullets",
+        "Id": "AthenaAmmoDataBulletsMedium",
+        "Rarity": "Common",
+        "Price": 10,
+        "SellCount": 10,
+        "ObjectPath": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "No one ever talks about the downside to having a metal mouth. The rust."
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "What, something in my teeth?"
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Specialist.Supply.Robo",
+    "DisplayName": "Steelsight",
+    "Specialization": "Supply Specialist",
+    "Description": "Supply Specialist. Steelsight will reward you with some valuable ammo. If you've got the bars.",
+    "ShortDescription": "Victory demands nerves of steel.",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-111-Athena-Commando-F-Robo.T-AthenaSoldiers-CID-111-Athena-Commando-F-Robo",
+    "Services": [
+      {
+        "ServiceName": "Hire",
+        "ServiceTag": "Tandem.Service.Hire",
+        "Price": 200,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "Weapons": [
+      {
+        "Name": "Grapple Blade",
+        "Id": "WID_GrappleKnife_VR",
+        "Rarity": "Epic",
+        "Price": 400,
+        "SellCount": 1,
+        "ObjectPath": "/GrappleWeapon/Items/GrappleKnife/V2/WID_GrappleKnife_VR.WID_GrappleKnife_VR"
+      },
+      {
+        "Name": "Ammo: Shells",
+        "Id": "AthenaAmmoDataShells",
+        "Rarity": "Common",
+        "Price": 4,
+        "SellCount": 4,
+        "ObjectPath": "/Game/Athena/Items/Ammo/AthenaAmmoDataShells.AthenaAmmoDataShells"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "This Island's in chaos. But chaos means more work for someone like me."
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "If you're good at something, never do it for free."
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "Hope's not here. Leave me out of your family drama, thanks.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Valeria",
+            "Id": "Character_MadameMoth_Posh",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_MadameMoth_Posh.Character_MadameMoth_Posh",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S28/Characters/T-Soldier-Hero-MadameMoth-Ember-L.T-Soldier-Hero-MadameMoth-Ember-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "You're never gonna take down The Society if you won't even take down your sister.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Hope",
+            "Id": "Character_VoidRedemption_Rebel",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          }
+        ]
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "This Island's in chaos. But chaos means more work for someone like me."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "The Society? The Underground? More like a family feud."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "My friend Hope lets me stay here between gigs. It's a good spot for laying low."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "This place belongs to Hope, the leader of the Underground."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Don't tell The Society about this place. It's Hope's secret getaway."
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Specialist.Heavy.MultibotStealth",
+    "DisplayName": "Mecha Team Shadow",
+    "Specialization": "Heavy Specialist",
+    "Description": "Heavy Specialist. Mecha Team Shadow is immune to fire and is equipped with explosives.",
+    "ShortDescription": "Shadow assembly required.",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-827-Athena-Commando-M-MultibotStealth.T-AthenaSoldiers-CID-827-Athena-Commando-M-MultibotStealth",
+    "Services": [
+      {
+        "ServiceName": "Hire",
+        "ServiceTag": "Tandem.Service.Hire",
+        "Price": 200,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "Weapons": [
+      {
+        "Name": "Anvil Rocket Launcher",
+        "Id": "WID_Launcher_HomingRocket_Athena_VR",
+        "Rarity": "Epic",
+        "Price": 250,
+        "SellCount": 1,
+        "ObjectPath": "/ResolveGameplay/Items/Guns/HomingRocket/WIDs/WID_Launcher_HomingRocket_Athena_VR.WID_Launcher_HomingRocket_Athena_VR"
+      },
+      {
+        "Name": "Ammo: Medium Bullets",
+        "Id": "AthenaAmmoDataBulletsMedium",
+        "Rarity": "Common",
+        "Price": 10,
+        "SellCount": 10,
+        "ObjectPath": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "I am available to hire, if you need something blown up."
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "I love stealth. I love explosions. I contain multitudes."
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Specialist.Scout.TeriyakiFishAssassin",
+    "DisplayName": "Contract Giller",
+    "Specialization": "Scout Specialist",
+    "Description": "Scout Specialist. Retirement was nice for Contract Giller. All you can eat fish food, a nice big tank, a treasure chest filled with bubbles. Then the Society showed up and 'dirtied the water'. It's time to clean the tank. ",
+    "ShortDescription": "Send in the fish. ",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-722-Athena-M-TeriyakiFishAssassin-Bling.T-AthenaSoldiers-CID-722-Athena-M-TeriyakiFishAssassin-Bling",
+    "Services": [
+      {
+        "ServiceName": "Rift To Go",
+        "ServiceTag": "Tandem.Service.RiftToGo",
+        "Price": 250,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Rift.T_UI_NPC_Rift"
+      },
+      {
+        "ServiceName": "Hire",
+        "ServiceTag": "Tandem.Service.Hire",
+        "Price": 250,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "Weapons": [
+      {
+        "Name": "Ammo: Heavy Bullets",
+        "Id": "AthenaAmmoDataBulletsHeavy",
+        "Rarity": "Common",
+        "Price": 6,
+        "SellCount": 6,
+        "ObjectPath": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "The Society is still out there, murking up the water."
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "The fish bowl was nice, but The Society needs to be stopped."
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Specialist.Medic.GoldenPleats",
+    "DisplayName": "Dara",
+    "Specialization": "Medic Specialist",
+    "Description": "Medical Specialist. Dara lives by three rules: be prepared for everything, trust no one, and... well, she doesn't know what the third rule is yet, but she's prepared to figure it out.",
+    "ShortDescription": "Don't lose focus.",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/S28/T-AthenaSoldiers-Character-GoldenPleats.T-AthenaSoldiers-Character-GoldenPleats",
+    "Services": [
+      {
+        "ServiceName": "Hire",
+        "ServiceTag": "Tandem.Service.Hire",
+        "Price": 250,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "Weapons": [
+      {
+        "Name": "Shield Breaker EMP",
+        "Id": "WID_Athena_Grenade_EMP",
+        "Rarity": "Rare",
+        "Price": 150,
+        "SellCount": 3,
+        "ObjectPath": "/EMPGameplay/Items/EMPGrenade/WID_Athena_Grenade_EMP.WID_Athena_Grenade_EMP"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "You're back? But, no one ever comes back..."
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "Look out for yourself out there. No one else will."
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "So, you found another crew. Wonder when you'll leave THEM behind.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Antonia",
+            "Id": "Character_BlazerVeil",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_BlazerVeil.Character_BlazerVeil",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S26/Characters/T-Soldier-Character-BlazerVeil-JacketOff.T-Soldier-Character-BlazerVeil-JacketOff"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "I told you, Jones. I'll help you this once, but I work alone.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Vengeance Jones",
+            "Id": "Character_UndergroundRebel_Fashion",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "You used to be a nomad. Why'd you give it up?",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Trace",
+            "Id": "Character_ZirconSweep",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_ZirconSweep.Character_ZirconSweep",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S25/T-Soldier-Hero-ZirconSweep-L.T-Soldier-Hero-ZirconSweep-L"
+          }
+        ]
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "You're back? But, no one ever comes back..."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Nothing can stand up to The Society. They're too powerful."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Most people look up to The Society. Fools."
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Tandem.SparkArcher",
+    "DisplayName": "Starr Oakley",
+    "Description": "Crafty, clever, and careful, Starr Oakley's made a name for herself doing what she does best: putting on a show with her incredible archery trickshots.",
+    "ShortDescription": "Hit your mark.",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/S28/T-AthenaSoldiers-Character-SparkArcher.T-AthenaSoldiers-Character-SparkArcher",
+    "Services": [
+      {
+        "ServiceName": "Patch Up",
+        "ServiceTag": "Tandem.Service.PatchUp",
+        "Price": 100,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_medic.T_UI_NPC_medic"
+      }
+    ],
+    "Weapons": [
+      {
+        "Name": "Shockwave Grenade",
+        "Id": "Athena_ShockGrenade",
+        "Rarity": "Epic",
+        "Price": 250,
+        "SellCount": 2,
+        "ObjectPath": "/Game/Athena/Items/Consumables/ShockwaveGrenade/Athena_ShockGrenade.Athena_ShockGrenade"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "Here to challenge me again? What, you didn't learn your lesson?"
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "You can bet against me if you want. Just know you'll lose."
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "I'll give you this: it's brave to meet me face-to-face.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Valeria",
+            "Id": "Character_MadameMoth_Posh",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_MadameMoth_Posh.Character_MadameMoth_Posh",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S28/Characters/T-Soldier-Hero-MadameMoth-Ember-L.T-Soldier-Hero-MadameMoth-Ember-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "Your reputation doesn't scare me. My arrows are faster than your fists.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Oscar",
+            "Id": "Character_BengalBasher_Suit",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_BengalBasher_Suit.Character_BengalBasher_Suit",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-BengalBasher-Suit--L.T-Soldier-Hero-BengalBasher-Suit--L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "Fencing? Real fighting doesn't stop when you score a point.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Nisha",
+            "Id": "Character_CeremonialGuard_Fencer",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_CeremonialGuard_Fencer.Character_CeremonialGuard_Fencer",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-CeremonialGuardFencer-L.T-Soldier-Hero-CeremonialGuardFencer-L"
+          }
+        ]
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Here to challenge me again? What, you didn't learn your lesson?"
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "The Society are in charge of everything. I can't stand it."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Someday, Valeria will miss her mark in her hunt for power... and I'll be ready."
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Specialist.Scout.AbstractMirror",
+    "DisplayName": "Solid Snake",
+    "Specialization": "Scout Specialist",
+    "Description": "Scout Specialist. The man who makes the impossible possible, Solid Snake has plenty of experience saving the world from crisis time and time again.",
+    "ShortDescription": "A master of stealth, unrivaled in covert ops.",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-Character-AbstractMirror-Rogue.T-AthenaSoldiers-Character-AbstractMirror-Rogue",
+    "Services": [
+      {
+        "ServiceName": "Hire",
+        "ServiceTag": "Tandem.Service.Hire",
+        "Price": 250,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "Weapons": [
+      {
+        "Name": "Small Shield Potion (OG)",
+        "Id": "Athena_ShieldSmall",
+        "Rarity": "Common",
+        "Price": 30,
+        "SellCount": 3,
+        "ObjectPath": "/Game/Athena/Items/Consumables/ShieldSmall/Athena_ShieldSmall.Athena_ShieldSmall"
+      },
+      {
+        "Name": "Small Shield Potion (OG)",
+        "Id": "Athena_ShieldSmall",
+        "Rarity": "Common",
+        "Price": 30,
+        "SellCount": 3,
+        "ObjectPath": "/Game/Athena/Items/Consumables/ShieldSmall/Athena_ShieldSmall.Athena_ShieldSmall"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "I'm no hero. Never was, never will be"
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "Kept you waiting, huh?"
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "There's no winning or losing for a mercenary.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Solid Snake",
+            "Id": "Character_AbstractMirror_Rogue",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_AbstractMirror_Rogue.Character_AbstractMirror_Rogue",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-AbstractMirror-Rogue-L.T-Soldier-Hero-AbstractMirror-Rogue-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "Find something to believe in.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Raiden",
+            "Id": "Character_FalseVulture",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_FalseVulture.Character_FalseVulture",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-FalseVulture-L.T-Soldier-Hero-FalseVulture-L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Tandem.SerpentCoil",
+    "DisplayName": "Silas Hesk",
+    "Description": "The mysterious heir to the Hesk fortune is perhaps the last elite still defying The Society's reign. Silas Hesk is willing to quietly assist The Underground's efforts. Just don't ask about the snake.",
+    "ShortDescription": "Cold-blooded heir to a venomous dynasty.",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/S28/T-AthenaSoldiers-Character-SerpentCoil.T-AthenaSoldiers-Character-SerpentCoil",
+    "Services": [
+      {
+        "ServiceName": "Prop Disguise",
+        "ServiceTag": "Tandem.Service.PropDisguise",
+        "Price": 50,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Intel.T_UI_NPC_Intel"
+      }
+    ],
+    "Weapons": [
+      {
+        "Name": "Shield Potion",
+        "Id": "WID_Paprika_ShieldPot",
+        "Rarity": "Rare",
+        "Price": 125,
+        "SellCount": 1,
+        "ObjectPath": "/PaprikaConsumables/Gameplay/ShieldRefresh/WID_Paprika_ShieldPot.WID_Paprika_ShieldPot"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "I'm not one of you Underground foolsssss, but I can help you out now and again."
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "So you're the one ssssstanding against The Society. Unwise, but brave."
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "You're playing a dangerousssss game, Hope. You'd better be successful.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Hope",
+            "Id": "Character_VoidRedemption_Rebel",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "I have no interest in joining your Society, so sssssstop asking me.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Montague",
+            "Id": "Character_DiamondHeart_Chic",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_DiamondHeart_Chic.Character_DiamondHeart_Chic",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-DiamondHeart-Chic-L.T-Soldier-Hero-DiamondHeart-Chic-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "I know you're hunting for ancient ssssecrets. But what might they be...?",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Valeria",
+            "Id": "Character_MadameMoth_Posh",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_MadameMoth_Posh.Character_MadameMoth_Posh",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S28/Characters/T-Soldier-Hero-MadameMoth-Ember-L.T-Soldier-Hero-MadameMoth-Ember-L"
+          }
+        ]
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "I'm not one of you Underground foolsssss, but I can help you out now and again."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "The Sssssociety is arrogant. The only arrogance I find charming is mine."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Don't ask about my ssssnake friend. He is just a pet, and definitely not possessssssing this body."
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Tandem.BunnyPurple",
+    "DisplayName": "Leelah",
+    "Description": "Leelah has come for one thing and one thing only. FRIENDS! She knows the Island isn't necessarily the best place to find them, but she has high hopes!",
+    "ShortDescription": "The bunny's got her back.",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-A-359-Athena-Commando-F-BunnyPurple.T-AthenaSoldiers-CID-A-359-Athena-Commando-F-BunnyPurple",
+    "Services": [
+      {
+        "ServiceName": "Rift To Go",
+        "ServiceTag": "Tandem.Service.RiftToGo",
+        "Price": 250,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Rift.T_UI_NPC_Rift"
+      }
+    ],
+    "Weapons": [
+      {
+        "Name": "Crash Pad Jr.",
+        "Id": "WID_Athena_AppleSunSmall",
+        "Rarity": "Common",
+        "Price": 150,
+        "SellCount": 3,
+        "ObjectPath": "/HopscotchWeaponsGameplay/Items/Proto/WID_Athena_AppleSunSmall.WID_Athena_AppleSunSmall"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "You know, extra arms REALLY come in handy. Just saying."
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "Hey! What's better, red and green, or green and red?"
+      },
+      {
+        "IsDefaultDialogue": true,
+        "Message": "Heyya best friend, what can I do for you?"
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "Oooh, a new friend. HI!"
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Heyya best friend, what can I do for you?"
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Has anyone tried BEFRIENDING The Society yet?"
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Have you seen the Underground's hideout? So. Cool."
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Tandem.CardboardCrew",
+    "DisplayName": "Boxy",
+    "Description": "Ready and reporting for duty! Boxy heard about the beef between The Society and the Underground, and she's here to help unpack the problem.",
+    "ShortDescription": "Ship out and send 'em packing.",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-740-Athena-Commando-F-CardboardCrew_01.T-AthenaSoldiers-CID-740-Athena-Commando-F-CardboardCrew_01",
+    "Services": [],
+    "Weapons": [
+      {
+        "Name": "Med Kit",
+        "Id": "WID_Paprika_MedBox",
+        "Rarity": "Common",
+        "Price": 125,
+        "SellCount": 1,
+        "ObjectPath": "/PaprikaConsumables/Gameplay/MedRefresh/WID_Paprika_MedBox.WID_Paprika_MedBox"
+      },
+      {
+        "Name": "FlowBerry Fizz",
+        "Id": "WID_Paprika_TeamSpray_LowGrav",
+        "Rarity": "Rare",
+        "Price": 150,
+        "SellCount": 1,
+        "ObjectPath": "/PaprikaConsumables/Gameplay/TeamSpray/WID_Paprika_TeamSpray_LowGrav.WID_Paprika_TeamSpray_LowGrav"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "Aw, you didn't get me anything?"
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "I got you a present! ME!"
+      },
+      {
+        "IsDefaultDialogue": true,
+        "Message": "You need to think inside the box."
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "Wow, that storm really boxes you in, huh?"
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "You need to think inside the box."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "Time to send them packing."
+      },
+      {
+        "IsRandomDialogue": true,
+        "Message": "What a six-sided standoff."
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Tandem.PalmTree",
+    "DisplayName": "April O'Neil",
+    "Description": "Nothing fazes April, not even four mutated Turtles who know ninjutsu. Okay, maybe that fazed her a little. But now, she's here to help the Turtles take down the Foot Clan.",
+    "ShortDescription": "Channel 6 News' investigative reporter in the field.",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/S28/T-AthenaSoldiers-Character-PalmTree.T-AthenaSoldiers-Character-PalmTree",
+    "Services": [],
+    "Weapons": [
+      {
+        "Name": "Shockwave Grenade",
+        "Id": "Athena_ShockGrenade",
+        "Rarity": "Epic",
+        "Price": 250,
+        "SellCount": 2,
+        "ObjectPath": "/Game/Athena/Items/Consumables/ShockwaveGrenade/Athena_ShockGrenade.Athena_ShockGrenade"
+      },
+      {
+        "Name": "Bandage",
+        "Id": "WID_Paprika_Bandage",
+        "Rarity": "Common",
+        "Price": 125,
+        "SellCount": 5,
+        "ObjectPath": "/PaprikaConsumables/Gameplay/BandageRefresh/WID_Paprika_Bandage.WID_Paprika_Bandage"
+      },
+      {
+        "Name": "Small Shield Potion",
+        "Id": "WID_Paprika_ShieldSmall",
+        "Rarity": "Common",
+        "Price": 150,
+        "SellCount": 3,
+        "ObjectPath": "/PaprikaConsumables/Gameplay/ShieldSmallRefresh/WID_Paprika_ShieldSmall.WID_Paprika_ShieldSmall"
+      }
+    ],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "Let's show the Foot Clan who they're messing with."
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "I really thought I had seen everything."
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "I won't let you give up!",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Leonardo",
+            "Id": "Character_QuietPeanuts",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_QuietPeanuts.Character_QuietPeanuts",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-QuietPeanuts-L.T-Soldier-Hero-QuietPeanuts-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "Time to do what you do best, Raph. Brawn over brains.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Raphael",
+            "Id": "Character_PowerfulDozen",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_PowerfulDozen.Character_PowerfulDozen",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-PowerfulDozen-L.T-Soldier-Hero-PowerfulDozen-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "Thanks for always being there for me, Donnie.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Donatello",
+            "Id": "Character_QualityCreek",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_QualityCreek.Character_QualityCreek",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-QualityCreek-L.T-Soldier-Hero-QualityCreek-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "Oh, Mikey. Don't you ever think about anything besides pizza?",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Michelangelo",
+            "Id": "Character_JoyfulGrin",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_JoyfulGrin.Character_JoyfulGrin",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-JoyfulGrin-L.T-Soldier-Hero-JoyfulGrin-L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "TagName": "AISpawnerData.Type.Specialist.Medic.Lifeguard",
+    "DisplayName": "Sun Tan Specialist",
+    "Specialization": "Medic Specialist",
+    "Description": "Medical Specialist. Hire Sun Tan Specialist if you need help staying alive. Especially out on the waves.",
+    "ShortDescription": "Don't get burned.",
+    "SidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-176-Athena-Commando-M-Lifeguard.T-AthenaSoldiers-CID-176-Athena-Commando-M-Lifeguard",
+    "Services": [
+      {
+        "ServiceName": "Patch Up",
+        "ServiceTag": "Tandem.Service.PatchUp",
+        "Price": 100,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_medic.T_UI_NPC_medic"
+      },
+      {
+        "ServiceName": "Hire",
+        "ServiceTag": "Tandem.Service.Hire",
+        "Price": 250,
+        "ServiceIcon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "Weapons": [],
+    "Dialogues": [
+      {
+        "IsDefaultDialogue": true,
+        "Message": "Lookin' to charge some heavy bombs, bro?"
+      },
+      {
+        "IsFirstInteractionDialogue": true,
+        "Message": "I thought I caught my last wave, bro. But if you need my help..."
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "I know, I know, I should put down the board. But have you seen the bombs out there, bro?",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Sun Strider",
+            "Id": "CID_166_Athena_Commando_F_Lifeguard",
+            "ObjectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_166_Athena_Commando_F_Lifeguard.CID_166_Athena_Commando_F_Lifeguard",
+            "HeroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-166-Athena-Commando-F-Lifeguard-L.T-Soldier-HID-166-Athena-Commando-F-Lifeguard-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "I was told you know some radical tricks. Ever snap off-the-lip?",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Starr Oakley",
+            "Id": "Character_SparkArcher",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_SparkArcher.Character_SparkArcher",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-SparkArcher-L.T-Soldier-Hero-SparkArcher-L"
+          }
+        ]
+      },
+      {
+        "IsSpecialCharacterNeeded": true,
+        "Message": "Woah, bro. Something tells me you don't like water.",
+        "SpecialCharactersNeeded": [
+          {
+            "DisplayName": "Purradise Meowscles",
+            "Id": "Character_BuffCatCruise",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_BuffCatCruise.Character_BuffCatCruise",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S25/T-Soldier-Hero-BuffCatCruise-L.T-Soldier-Hero-BuffCatCruise-L"
+          },
+          {
+            "DisplayName": "Oscar",
+            "Id": "Character_BengalBasher_Suit",
+            "ObjectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_BengalBasher_Suit.Character_BengalBasher_Suit",
+            "HeroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-BengalBasher-Suit--L.T-Soldier-Hero-BengalBasher-Suit--L"
+          }
+        ]
+      }
+    ]
+  }
+]
