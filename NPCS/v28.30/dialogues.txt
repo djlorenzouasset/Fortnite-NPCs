@@ -1,0 +1,209 @@
+----- NPC: Vengeance Jones -----
+Default Dialogue: Where are you, buddy? Oh...hi...
+First Interaction: It's time for our final face-off with The Society.
+With Valeria: I don't know anything about this relic you're looking for. You should've left Peely out of this.
+With Oscar: You thought it was funny to pick on a poor, defenseless banana?
+With Nisha: Hope thinks you're better than The Society. I think you're all the same.
+With Montague: Everything you've built is gonna shatter.
+With Hope: We make a good team. I'm glad I didn't have to do this alone.
+Random Dialogue: The Society is going to pay.
+Random Dialogue: Sometimes you gotta throw your support behind the right side.
+Random Dialogue: Greetings from The Underground, friend.
+Random Dialogue: Trust me. There's a reason they don't call me Friendship Jones. 
+Random Dialogue: It's all been building up to this. Time to confront The Society.
+Random Dialogue: Hope was right. This whole Island needs help. 
+Random Dialogue: With my best bud rescued, I'll be ready for anything...
+Random Dialogue: They took Peely because of my history. They thought they could use me.
+
+
+----- NPC: Hope -----
+Default Dialogue: Time to dismantle a villainous power structure!
+First Interaction: We... might actually stand a chance of taking down The Society.
+With Valeria: What is this mysterious project of yours? I'm worried about you, Valy.
+With Oscar: You weren't always part of The Society. I'm still holding out hope.
+With Nisha: You're going to have to use that sword if you want to stop me.
+With Montague: Every thief gets caught one day. Even you.
+With Vengeance Jones: I'll always have your back. And I'm glad to know you have mine.
+Random Dialogue: Most of The Society would do anything for more power.
+Random Dialogue: I hope Valeria will forgive me... and maybe even see that I'm right.
+Random Dialogue: What is Valeria searching for? I need to know.
+Random Dialogue: The Society is on the back foot. It's time to strike.
+Random Dialogue: Time to dismantle a villainous power structure!
+Random Dialogue: Valeria doesn't seem worried. She seems... excited. Why?
+
+
+----- NPC: Snow Striker -----
+Default Dialogue: Lose something?
+First Interaction: Stay in the shadows.
+
+
+----- NPC: Metal Mouth -----
+Default Dialogue: No one ever talks about the downside to having a metal mouth. The rust.
+First Interaction: What, something in my teeth?
+
+
+----- NPC: Steelsight -----
+Default Dialogue: This Island's in chaos. But chaos means more work for someone like me.
+First Interaction: If you're good at something, never do it for free.
+With Valeria: Hope's not here. Leave me out of your family drama, thanks.
+With Hope: You're never gonna take down The Society if you won't even take down your sister.
+Random Dialogue: This Island's in chaos. But chaos means more work for someone like me.
+Random Dialogue: The Society? The Underground? More like a family feud.
+Random Dialogue: My friend Hope lets me stay here between gigs. It's a good spot for laying low.
+Random Dialogue: This place belongs to Hope, the leader of the Underground.
+Random Dialogue: Don't tell The Society about this place. It's Hope's secret getaway.
+Random Dialogue: The Society are getting nervous. Hope and Jones are making progress.
+
+
+----- NPC: Mecha Team Shadow -----
+Default Dialogue: I am available to hire, if you need something blown up.
+First Interaction: I love stealth. I love explosions. I contain multitudes.
+
+
+----- NPC: Contract Giller -----
+Default Dialogue: Sounds like it's time to clean the tank.
+First Interaction: The fish bowl was nice, but The Society needs to be stopped.
+
+
+----- NPC: Dara -----
+Default Dialogue: You're back? But, no one ever comes back...
+First Interaction: Look out for yourself out there. No one else will.
+With Antonia: So, you found another crew. Wonder when you'll leave THEM behind.
+With Vengeance Jones: I told you, Jones. I'll help you this once, but I work alone.
+With Trace: You used to be a nomad. Why'd you give it up?
+Random Dialogue: You're back? But, no one ever comes back...
+Random Dialogue: The Society is falling apart. I guess change really is possible.
+
+
+----- NPC: Starr Oakley -----
+Default Dialogue: Here to challenge me again? What, you didn't learn your lesson?
+First Interaction: You can bet against me if you want. Just know you'll lose.
+With Valeria: I'll give you this: it's brave to meet me face-to-face.
+With Oscar: Your reputation doesn't scare me. My arrows are faster than your fists.
+With Nisha: Fencing? Real fighting doesn't stop when you score a point.
+With Hope: Don't be naive, Hope. Valeria won't stop for anyone, even you.
+Random Dialogue: Here to challenge me again? What, you didn't learn your lesson?
+Random Dialogue: Let The Society keep fighting amongst themselves. That's how we'll win.
+Random Dialogue: The Society's losing control. Let's hope they don't make any desperate moves.
+Random Dialogue: Valeria would betray anyone to find those answers she's looking for.
+
+
+----- NPC: Solid Snake -----
+Default Dialogue: I'm no hero. Never was, never will be
+First Interaction: Kept you waiting, huh?
+With Solid Snake: There's no winning or losing for a mercenary.
+With Raiden: Find something to believe in.
+
+
+----- NPC: Silas Hesk -----
+Default Dialogue: I'm not one of you Underground foolsssss, but I can help you out now and again.
+First Interaction: So you're the one ssssstanding against The Society. Unwise, but brave.
+With Hope: You're playing a dangerousssss game, Hope. You'd better be successful.
+With Montague: I have no interest in joining your Society, so sssssstop asking me.
+With Valeria: I know you're hunting for ancient ssssecrets. But what might they be...?
+Random Dialogue: I'm not one of you Underground foolsssss, but I can help you out now and again.
+Random Dialogue: The Sssssociety is arrogant. The only arrogance I find charming is mine.
+Random Dialogue: Don't ask about my ssssnake friend. He is just a pet, and definitely not possessssssing this body.
+Random Dialogue: I knew it was ssssmart to bet against The Society.
+Random Dialogue: Whatever Valeria wassss looking for... I think she found it.
+
+
+----- NPC: Leelah -----
+Default Dialogue: Heyya best friend, what can I do for you?
+First Interaction: Oooh, a new friend. HI!
+Random Dialogue: Heyya best friend, what can I do for you?
+Random Dialogue: Has anyone tried BEFRIENDING The Society yet?
+Random Dialogue: Have you seen the Underground's hideout? So. Cool.
+Default Dialogue: You know, extra arms REALLY come in handy. Just saying.
+First Interaction: Hey! What's better, red and green, or green and red?
+
+
+----- NPC: Boxy -----
+Default Dialogue: Aw, you didn't get me anything?
+First Interaction: I got you a present! ME!
+Default Dialogue: You need to think inside the box.
+First Interaction: Wow, that storm really boxes you in, huh?
+Random Dialogue: You need to think inside the box.
+Random Dialogue: Time to send them packing.
+Random Dialogue: What a six-sided standoff.
+
+
+----- NPC: April O'Neil -----
+Default Dialogue: Let's show the Foot Clan who they're messing with.
+First Interaction: I really thought I had seen everything.
+With Leonardo: I won't let you give up!
+With Raphael: Time to do what you do best, Raph. Brawn over brains.
+With Donatello: Thanks for always being there for me, Donnie.
+With Michelangelo: Oh, Mikey. Don't you ever think about anything besides pizza?
+With Splinter: Don't worry, Master Splinter. I'll take care of them.
+
+
+----- NPC: Master Splinter -----
+Default Dialogue: Remember why you fight.
+First Interaction: The path ahead is blocked only by the first step.
+With Leonardo: I made you leader for one simple reason. You asked.
+With Raphael: Remember, my son, anger is self-destructive.
+With Donatello: We must fall many times before we learn to stand.
+With Michelangelo: A creative mind must be balanced by discipline.
+With April O'Neil: You only fail if you give up.
+
+
+----- NPC: Snowheart -----
+Default Dialogue: When the storm comes, find safety.
+First Interaction: Nothing shall deter me.
+Random Dialogue: When the storm comes, find safety.
+Random Dialogue: Ice can burn, if you are not careful.
+Random Dialogue: The road I travel is my own.
+
+
+----- NPC: Odyssey -----
+Default Dialogue: Someone on this Island has been chasing powers they don't understand.
+First Interaction: I can feel an ancient power growing on this Island...
+With Hope: Hope! The whispers were true...
+With Vengeance Jones: You have wandered from your true path... but destiny is not yet done with you.
+With Montague: Even diamond will shatter when its weaknesses are exploited.
+With Valeria: I will not give you the answers you seek. Walk the path you have sought, and bear its consequences.
+Random Dialogue: Someone on this Island has been chasing powers they don't understand.
+Random Dialogue: The Mosaic is the key to what is coming. It bears a warning.
+Random Dialogue: Mundane powers like The Society always believe their influence is eternal, even just before they fall.
+Random Dialogue: I am Odyssey. I am merely a traveler, following the path of ancient insight.
+Random Dialogue: No destiny is certain... but yours hums with potential.
+Random Dialogue: These "Medallions" are shards of mysterious power, dug out from long-gone history.
+
+
+----- NPC: Lana Llane -----
+Default Dialogue: Who's your favorite person on the island? It's okay, I'll wait.
+First Interaction: Have you seen any vending machines around? Just curious.
+With Llambro: I LOVE your style.
+Random Dialogue: Who's your favorite person on the island? It's okay, I'll wait.
+Random Dialogue: What's MY favorite weapon? Can't I just say all of them?
+Random Dialogue: What's a Llama got to do to get a weapon around here?
+Random Dialogue: Can I call you bestie, or is that like, so cringe?
+Random Dialogue: How's the battle going? Need a pep talk?
+Default Dialogue: Who's your favorite person on the island? It's okay, I'll wait.
+First Interaction: Have you seen any vending machines around? Just curious.
+With Llambro: I LOVE your style.
+Random Dialogue: Who's your favorite person on the island? It's okay, I'll wait.
+Random Dialogue: What's MY favorite weapon? Can't I just say all of them?
+Random Dialogue: What's a Llama got to do to get a weapon around here?
+Random Dialogue: Can I call you bestie, or is that like, so cringe?
+Random Dialogue: How's the battle going? Need a pep talk?
+
+
+----- NPC: Sonor -----
+Default Dialogue: The Island's got its own rhythm. Just gotta know how to listen.
+First Interaction: Hey, you feel that beat? Listen.
+Random Dialogue: The Island's got its own rhythm. Just gotta know how to listen.
+Random Dialogue: Everything's got a beat. This Island, me, even you.
+Random Dialogue: Stayin' safe out there? The beat's goin' wild today.
+Random Dialogue: The Society may be falling, but somethin' else will pick up the beat. Trust me.
+
+
+----- NPC: Sun Tan Specialist -----
+Default Dialogue: Lookin' to charge some heavy bombs, bro?
+First Interaction: I thought I caught my last wave, bro. But if you need my help...
+With Sun Strider: I know, I know, I should put down the board. But have you seen the bombs out there, bro?
+With Starr Oakley: I was told you know some radical tricks. Ever snap off-the-lip?
+With Purradise Meowscles, Oscar: Woah, bro. Something tells me you don't like water.
+
+
