@@ -13,7 +13,8 @@ All the informations are stored in the [NPCS folder](./NPCS/). Every update has 
     - [v28.00](./NPCS/v28.00/)
     - [v28.01](./NPCS/v28.01/)
 	- [v28.01.01](./NPCS/v28.01.01/) (no changes)
-    - [v28.10](./NPCS/V28.10/)
+    - [v28.10](./NPCS/v28.10/)
+    - [v28.20](./NPCS/v28.20/)
 
 ## Authors
 - [ᴅᴊʟᴏʀ3xᴢo](https://twitter.com/djlorenzouasset)
