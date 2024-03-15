@@ -1,0 +1,239 @@
+----- NPC: Laguna -----
+Default Dialogue: Need any help out there?
+First Interaction: Oh hey! You look, uh... like you could use a hand.
+With Poseidon: I hear you host amazing beach parties. Awesome.
+With Cerberus: Who's a good pup?!
+Random Dialogue: Need any help out there?
+Random Dialogue: Staying safe? I hear the waves are getting choppy.
+Random Dialogue: Don't forget your Slurpscreen!
+
+
+----- NPC: Brutus -----
+Default Dialogue: You been keeping safe out there?
+First Interaction: Been a minute, rook.
+With Meowscles, TNTina, Skye: Yeah, I've been running the crew since we all went our separate ways. It's been... alright.
+With Jules: Yeah, I've been running the crew since we all went our separate ways. It's been... alright.
+Random Dialogue: You been keeping safe out there?
+Random Dialogue: The gang's all here. Only reason that could be.
+Random Dialogue: I don't know if I like all these gods out here.
+Random Dialogue: I bet I could be the god of muscles.
+Random Dialogue: Dontcha worry, I'm not here for trouble.
+
+
+----- NPC: TNTina -----
+Default Dialogue: I just wanna make things go BOOM!
+First Interaction: Heya, I'm TNTina. The original short fuse.
+With Meowscles, Jules, Brutus, Skye, Marigold: Ain't you a sight for sore eyes.
+With Marigold: Thanks for sending up a flare.
+Random Dialogue: I just wanna make things go BOOM!
+Random Dialogue: It's nice to be back.
+Random Dialogue: Looking forward to seeing the team back together. 
+Random Dialogue: Stick with me, I bet we could really blow up.
+Random Dialogue: GRENADE!! Ha, just kidding.
+
+
+----- NPC: Ascendant Midas -----
+Default Dialogue: Make it worth my time.
+First Interaction: You've heard right. I'm back.
+With Marigold: It's... very nice to see you again.
+With Jules: I see you've grown beyond my shadow. I hope you haven't left me behind.
+With Brutus, Skye, TNTina, Meowscles: Good, you're back. Let's get to work.
+Random Dialogue: Make it worth my time.
+Random Dialogue: You have my attention. Don't waste it.
+Random Dialogue: This Island was always too small for my ambitions.
+Random Dialogue: I don't fear these gods. No power is absolute.
+Random Dialogue: Hades thought he could keep me trapped. He would have been the first.
+Random Dialogue: It seems I've missed quite a bit in my time away.
+Random Dialogue: Nothing lasts forever. Except gold.
+Random Dialogue: In the myths they tell of me, they never quite get the details right.
+
+
+----- NPC: Bravo Leader -----
+Default Dialogue: Your ammo pouch is looking a little parched.
+First Interaction: Name's Bravo Leader, but my friends call me BL.
+
+
+----- NPC: Hope -----
+Default Dialogue: I don't regret taking on The Society... but I wish things could've been different.
+First Interaction: Hey. How are you doing, after everything?
+With Vengeance Jones: First The Society, and now GODS? When do we catch a break?
+With Valeria: No more poking around in grandpa's ancient maps, or so help me...
+With Nisha, Oscar: Not gonna say "I told you so", but...
+With Montague: Go steal yourself a new life. Your little Society is done.
+With Zeus, Hades, Cerberus: I don't want any trouble.
+Random Dialogue: I don't regret taking on The Society... but I wish things could've been different.
+Random Dialogue: We wanted to change the world. I guess we did.
+Random Dialogue: The Underground is done for now... but I'm betting not for long.
+Random Dialogue: Fighting The Society was one thing. Now there's actual gods.
+Random Dialogue: I think I just... need a minute.
+Default Dialogue: I'll share what information I can.
+Default Dialogue: The Underground was a success.
+Default Dialogue: Even before the gods arrived, The Society was in shambles.
+Default Dialogue: But Valeria is not the type to be upstaged. So... gods.
+Default Dialogue: The Society realized they weren't gods once actual gods showed up.
+Default Dialogue: They're gone. Good riddance.
+Default Dialogue: Not like the gods are much better, though...
+Default Dialogue: Leave it to my sister to literally open Pandora's Box...
+Default Dialogue: ...and then leave me to clean up the mess.
+Default Dialogue: Valeria always liked to make a dramatic exit.
+
+
+----- NPC: Myna -----
+Default Dialogue: You shouldn't fear the gods. They should fear you.
+First Interaction: You're lucky you're not a god. I might have hurt you.
+With Artemis: You, above all, should understand why I hunt.
+With Zeus: When this is over, I'll wield your power as a trophy.
+With Hades: I wonder, have your chains ever held you?
+With Aphrodite: Hearts were meant to be broken. I am simply the hammer.
+With Poseidon: The sea's tempests don't hold a candle to me.
+
+
+----- NPC: Skye -----
+Default Dialogue: This Island is always an adventure!
+First Interaction: Hi! I'm Skye. Nice to meet you!
+With Meowscles, TNTina, Jules, Brutus: Hey!! It's been forever!
+With Marigold: I hope you're right. The boss has been gone a long time.
+Random Dialogue: This Island is always an adventure!
+Random Dialogue: I think you'd like my friend Ollie - and he'd like you!
+Random Dialogue: Nervous to see the old crew again. What if we've just... grown apart?
+Random Dialogue: A new adventure is always on the horizon!
+
+
+----- NPC: Meowscles -----
+Default Dialogue: What do you wanna know, bud?
+Default Dialogue: That whole situation got really messy.
+Default Dialogue: When you start picking sides, everything falls apart.
+Default Dialogue: I hope we can all move on, as friends and professionals.
+Default Dialogue: Midas was my boss. But we were also buds.
+Default Dialogue: I didn't really talk back then. But I didn't need to.
+Default Dialogue: He's sweeter than he seems.
+Default Dialogue: Mrrow, so much has happened since I last saw the crew...
+First Interaction: Mrrow... I was having such a good nap...
+With Marigold: I got your call. You really think you can find him?
+With Brutus, Jules, Skye, TNTina: Been a while, mrrow. Oh yeah! I talk now!
+With Katt: So you're the kid of, uh, a different me? That's... cool. I like your mech!
+Random Dialogue: Mrrow, so much has happened since I last saw the crew...
+Random Dialogue: Secret Agent Meowscles, back in action!
+Random Dialogue: Seems like my vacation has come to an end.
+Random Dialogue: My past has come calling, mrrow. I'd prefer the dinner bell.
+
+
+----- NPC: Aphrodite -----
+Default Dialogue: What would you like to know more about?
+Default Dialogue: He wasn't always like this. My father, I mean. Zeus.
+Default Dialogue: I remember, eons ago, he would give mortals gifts!
+Default Dialogue: Then something...changed in him. He's grown more distant ever since.
+Default Dialogue: I've kept peace between him and the mortals, but now...
+Default Dialogue: Now I worry no one can stop his wrath.
+Default Dialogue: I don't really know how I became the advocate for mortals among the gods.
+Default Dialogue: Things just didn't seem... fair. And I made sure the other gods knew that.
+Default Dialogue: After a while, I guess I developed a reputation.
+Default Dialogue: I don't regret it. I'm proud of standing up for my beliefs.
+Default Dialogue: What can the god of the squad do for you today?
+First Interaction: Hmm? Oh! Do you need any help?
+With Hope: Listen to your heart. It will tell you the truth of what you truly are...
+With Zeus: Why are you doing this, father? Mortals deserve a fair chance.
+With Hades: You've always valued mortals. In your own way.
+With Medusa: I wish we could see eye to eye, because our goals are so similar.
+With Cerberus: What do you think, Cerberus? Can we reason with my father?
+Random Dialogue: What can the god of the squad do for you today?
+Random Dialogue: I hope you have some ideas for handling Zeus.
+Random Dialogue: One day I'll make everyone get along. I hope.
+Random Dialogue: You mortals deserve better than my father's wrath.
+Random Dialogue: Mortals have made such wondrous things. Have you tried "ice cream"?
+
+
+----- NPC: Poseidon -----
+Default Dialogue: You wanna hear a classic Poseidon beach story, mortal?
+Default Dialogue: It's like this right? Phinster, my pet dolphin, entered himself into a competition.
+Default Dialogue: I didn't know about it, of course. Not till he dragged me into it.
+Default Dialogue: Anyways, we're there, at the starting line, and guess who we see next to us? Go on, guess!
+Default Dialogue: HADES! SURFIN' CERBERUS!
+Default Dialogue: Phinster and I won, of course. God of the sea, here.
+Default Dialogue: But let me tell you, that Cerberus can SWIM!
+Default Dialogue: Mortal! Lookin' beachy-keen.
+First Interaction: Wassup mortal? Looks like you're ready to party!
+With Hope: Whoa. You glow like sunken treasure. What ARE you?
+With Zeus: Zeus, hey! Listen, bro, could you tone down the lightning a bit? You're scaring the fish.
+With Cerberus: The best hound in the world! Ready to go for a swim, Cerber-buddy?
+With Artemis: Artemis, hey! Catch anything good lately? This place has some awesome fishing spots.
+With Medusa: Hey, uh, Medusa. I'm glad you got the invite...
+Random Dialogue: Mortal! Lookin' beachy-keen.
+Random Dialogue: Hey, I ever tell you about the dolphin surfing championship?
+Random Dialogue: If you see Zeus, could you tell him to tone it down?
+
+
+----- NPC: Jules -----
+Default Dialogue: With the right amount of elbow grease, you can fix anything.
+First Interaction: Hey.
+With Marigold: You really think he's here, on this Island?
+With Brutus: Been a minute, traitor.
+With Meowscles, TNTina, Skye: Oh, uhh... Hey. Long time no see.
+Random Dialogue: With the right amount of elbow grease, you can fix anything.
+Random Dialogue: Hard work, focus, luck. That's the key to success.
+Random Dialogue: I don't want any family drama... but it keeps finding me.
+Random Dialogue: I'm giving those gods a wide berth... even if their weapons are intriguing.
+
+
+----- NPC: Marigold -----
+Default Dialogue: What do you want to know?
+Default Dialogue: I've been tracking Midas ever since he went offline.
+Default Dialogue: The Underworld was beyond the scope of that search.
+Default Dialogue: I won't make that mistake again.
+Default Dialogue: I told you I'd have some work for you. Be ready... soon.
+First Interaction: It's been a while, hasn't it?
+With Brutus, Skye, TNTina, Meowscles: I think I've found him. He's close.
+With Jules: Your father is on this Island. I just know it.
+Random Dialogue: I told you I'd have some work for you. Be ready... soon.
+Random Dialogue: I suspect my search is nearing its conclusion.
+Random Dialogue: There is only one person out there who understands the Golden Touch like I do.
+Random Dialogue: I've brought the gang back together. I hope I can keep my promise to them.
+
+
+----- NPC: Spartan Assassin -----
+Default Dialogue: Careful not to stray into my sights.
+First Interaction: Is there something I can do for you?
+
+
+----- NPC: Medusa -----
+Default Dialogue: The gods have harmed many. I seek to put a stop to it.
+First Interaction: Well-met, mortal. 
+With Hope: You carry a great potential in you, mortal. I should know, I was much the same...
+With Zeus: Someday you gods, and all the pain you've caused, will merely be a myth.
+With Aphrodite: I would love to trust you. But in the end, you're a god, just like them.
+Random Dialogue: The gods have harmed many. I seek to put a stop to it.
+Random Dialogue: I presume you've heard of me. The gods love their little myths.
+Random Dialogue: If you ever feel like, oh, ending the rule of the pantheon? Give me a call.
+Random Dialogue: The gods have taken much from me. But they will never take my fury.
+Random Dialogue: If you see Zeus, ask him to return my trinkets. He knows what he stole.
+Random Dialogue: Whatever you've heard about me, it's probably a lie.
+Default Dialogue: What curiosity of yours can I sate, mortal?
+Default Dialogue: They call me monster. They say the hero Perseus slew me.
+Default Dialogue: Nonsense. I stood up to the gods.
+Default Dialogue: And the hero Perseus... He saved my life.
+Default Dialogue: Perseus is my closest ally. I hope you get to meet him.
+Default Dialogue: They call it a curse, but I call it power.
+Default Dialogue: I reached out to something deep and strong, and accepted its gift.
+Default Dialogue: Now, I can stand against the gods to protect mortals. Someone has to.
+
+
+----- NPC: Artemis -----
+Default Dialogue: What are you curious about, little mouse?
+Default Dialogue: I honor Zeus as our leader... but I have doubts.
+Default Dialogue: His hatred for you mortals is, well, a bit much.
+Default Dialogue: And his desire to destroy your kind is dishonorable at its heart.
+Default Dialogue: Few things in life are as pure as the Hunt.
+Default Dialogue: The chase, the thrill. For both predator and prey.
+Default Dialogue: Perhaps I will show you, little mouse. If you can adhere to the rules.
+Default Dialogue: It's impressive how loud you are, little mouse. Truly.
+First Interaction: It seems stealth is not your strong suit, little mouse.
+With Hope: Tell me, why does a hunter like you help the prey?
+With Zeus: Why do you rob our quarry of their right as prey?
+With Aphrodite: How do you stand being around mortals all day? They're so... loud.
+With Myna: You show promise, little hunter. But you are not my equal yet.
+With Cerberus: You would offer a mighty hunt. Why do you serve a god like Hades?
+Random Dialogue: It's impressive how loud you are, little mouse. Truly.
+Random Dialogue: Keep practicing, little mouse. I almost didn't hear you.
+Random Dialogue: Perhaps, with time, you can become a hunter. Not prey.
+
+

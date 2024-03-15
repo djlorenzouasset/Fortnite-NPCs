@@ -10,11 +10,14 @@ All the informations are stored in the [NPCS folder](./NPCS/). Every update has 
 
 ## Content
 - [NPCS](./NPCS/)
-    - [v28.00](./NPCS/v28.00/)
-    - [v28.01](./NPCS/v28.01/)
-    - [v28.10](./NPCS/v28.10/)
-    - [v28.20](./NPCS/v28.20/)
-    - [v28.30](./NPCS/v28.30/)
+    - [Chapter 5 Season 1](./NPCS/Chapter%205%20Season%201/)
+        - [v28.00](./NPCS/Chapter%205%20Season%201/v28.00/)
+        - [v28.01](./NPCS/Chapter%205%20Season%201/v28.01/)
+        - [v28.10](./NPCS/Chapter%205%20Season%201/v28.10/)
+        - [v28.20](./NPCS/Chapter%205%20Season%201/v28.20/)
+        - [v28.30](./NPCS/Chapter%205%20Season%201/v28.30/)
+    - [Chapter 5 Season 2](./NPCS/Chapter%205%20Season%202/)
+        - [v29.00](./NPCS/Chapter%205%20Season%202/v29.00/)
 
 ## Authors
 - [ᴅᴊʟᴏʀ3xᴢo](https://twitter.com/djlorenzouasset)
