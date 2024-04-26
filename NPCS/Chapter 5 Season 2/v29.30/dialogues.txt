@@ -1,0 +1,363 @@
+----- NPC: Charon -----
+Default Dialogue: New place, new me. Might take up whittling.
+First Interaction: Sorry, mate. I'm retired.
+Wearing Hades: I told you, boss. I'm retired, and I'm not coming back.
+Wearing Cerberus: Aw, who's a good boy?? You, and you, and you...
+Random Dialogue: New place, new me. Might take up whittling.
+Random Dialogue: You don't know how nice it is to finally see the SUN, mate!
+Random Dialogue: I'm loving this Island, mate. Fresh air. FOOD? It's the dream.
+Random Dialogue: Name's Charon. I used to run shades across the Styx to the Underworld.
+Random Dialogue: You ever been to the Elysian Fields? Beautiful place. Very clean.
+Random Dialogue: You ever been to the Asphodel Meadows? It's... a lot of ashes, mostly.
+Random Dialogue: You been to Tartarus, mate? Fun for visitors, not for residents.
+
+
+----- NPC: Apollo -----
+Default Dialogue: What would you like to know, hm?
+Default Dialogue: Ah, yes! My chosen Oracle. Odd duck, that one.
+Default Dialogue: She has a natural talent for seeing things clearly, and a strange affection for you specifically. You can trust her.
+Default Dialogue: She was a mortal once too, you know! A shame, that. Nobody's perfect, I suppose!
+Default Dialogue: I try to stay out of the petty squabbles of my immortal family.
+Default Dialogue: Most think Zeus has long tired of mortalkind's hubris, and your Society pushed him over the edge.
+Default Dialogue: But I see all prophecies. I know his reign is destined to end, by a mortal's hand.
+Default Dialogue: I am Apollo, god of the sun... and a FEW other things.
+First Interaction: Greetings, mortal.
+Random Dialogue: I am Apollo, god of the sun... and a FEW other things.
+Random Dialogue: My To Do list: direct the muses, consult the oracles, heal the wounded, keep the sun in the sky...
+Random Dialogue: Of course Ares has the free time to scrap with every mortal who challenges him. *sigh*
+Random Dialogue: Where does Zeus have TIME for a vendetta against mortalkind??
+Random Dialogue: At my request, the muses inspired the invention of the spreadsheet. How would I function without it?
+Random Dialogue: If you appreciate the sun, music, dance, healing, prophecies, etc... I wouldn't mind a thank you.
+Random Dialogue: You should meet my Oracle at her scrying pools. She's very fun.
+Wearing Artemis: Sister. How fares the Eternal Hunt?
+Wearing Ares: I can't imagine being the god of only one thing. It must be terribly boring.
+Wearing Aphrodite: You have my support. The mortals deserve protection.
+
+
+----- NPC: Clara -----
+Default Dialogue: You lack grace. But your form is adequate.
+First Interaction: You are lucky to meet me.
+Wearing Valeria: Another assignment for me, then? Make it quick.
+Wearing Hope: You were always too naive for this vicious world, little Hope.
+Wearing Montague: You are beneath me now, thief. Perhaps you always were.
+Wearing Nisha, Oscar, Kavel: Without The Society behind you, you are useless to me.
+Random Dialogue: You lack grace. But your form is adequate.
+Random Dialogue: Do not bore me.
+Random Dialogue: Strike so quietly, even a god could not hear you.
+Random Dialogue: My respect is not given. It is earned.
+Random Dialogue: The end comes to everyone. But it comes first to the foolish.
+Default Dialogue: From my dossiers to your ears, it seems.
+Default Dialogue: I've known Hope as long as I've known her sister.
+Default Dialogue: That is, a very, very long time.
+Default Dialogue: She still thinks someone can save the world, poor thing.
+Default Dialogue: The Society gave this island much-needed stability.
+Default Dialogue: Though offering a spot to riffraff like Oscar... Hmph.
+Default Dialogue: This Island will always crave a strong hand. 
+Default Dialogue: Do you expect to defeat these gods and rule yourself?
+Default Dialogue: Do you really think I'll inform on my top client?
+Default Dialogue: She's the only one of those Society brats whose calls I'll still take.
+Default Dialogue: Am I on a job for her now? You'd love to know, wouldn't you.
+
+
+----- NPC: Meowscles -----
+Default Dialogue: What do you wanna know, bud?
+Default Dialogue: That whole situation got really messy.
+Default Dialogue: When you start picking sides, everything falls apart.
+Default Dialogue: I hope we can all move on, as friends and professionals.
+Default Dialogue: Midas was my boss. But we were also buds.
+Default Dialogue: I didn't really talk back then. But I didn't need to.
+Default Dialogue: He's sweeter than he seems.
+Default Dialogue: Mrrow, so much has happened since I last saw the crew...
+First Interaction: Mrrow... I was having such a good nap...
+Wearing Marigold: I can't believe you were right, mrrow. He's really back.
+Wearing Brutus, Jules, Skye, TNTina: I think the boss needs our help.
+Wearing Lynx, Kit, Meow Skulls: I might need to leave town for a bit, mrrow. To help an old buddy.
+Wearing Katt: So you're the kid of, uh, a different me? That's... cool. I like your mech!
+Wearing Ascendant Midas: Good to see you, boss. Give me a skritch for old time's sake?
+Random Dialogue: Mrrow, so much has happened since I last saw the crew...
+Random Dialogue: Secret Agent Meowscles, back in action!
+Random Dialogue: Seems like my vacation has come to an end.
+Random Dialogue: My past has come calling, mrrow. I'd prefer the dinner bell.
+
+
+----- NPC: Katara -----
+Default Dialogue: Don't let anyone take away your courage.
+First Interaction: I'm Katara. You haven't seen my brother around, have you?
+Wearing Zuko: I should have known you'd follow Aang. Even here.
+Wearing Aang: Hey, how come you never call me Sifu Katara, anyway?
+Wearing Toph Beifong: Maybe you should wash up? You've got a little dirt on your...everywhere, actually.
+Random Dialogue: Don't let anyone take away your courage.
+Random Dialogue: Keep fighting, even if you don't think you'll win.
+Random Dialogue: Waterbending is hard. Don't be frustrated if you don't get it right away.
+Random Dialogue: Stay safe out there. Don't give up hope.
+
+
+----- NPC: Zuko -----
+Default Dialogue: I must capture the Avatar.
+First Interaction: Hey. Zuko here.
+Wearing Katara: I understand what it's like to have the Fire Nation take something from you.
+Wearing Toph Beifong: Hey, I'm, uh, sorry about burning your feet.
+Wearing Aang: I've spent years training for this day, and you're just a child!
+Random Dialogue: I must capture the Avatar.
+Random Dialogue: I wish Uncle Iroh was here. He'd know what to do.
+Random Dialogue: I will regain my honor. One day.
+Random Dialogue: Finding the Avatar is my destiny.
+
+
+----- NPC: Toph -----
+Default Dialogue: Toph, you rule.
+First Interaction: My name's Toph. Sounds like tough.
+Wearing Zuko: I met your uncle once. He really cares about you.
+Wearing Katara: Hey Katara. What do you say we bring back The Runaway?
+Wearing Aang: What're you doing here, Twinkle Toes?
+Random Dialogue: Toph, you rule.
+Random Dialogue: I'm the greatest Earthbender who ever lived, and don't you forget it!
+Random Dialogue: I was born blind, but I see with earthbending.
+Random Dialogue: Don't worry about me. I carry my own weight.
+
+
+----- NPC: Etheria -----
+Default Dialogue: Default conversation.
+First Interaction: Hail, from the Fallen Oasis.
+Random Dialogue: There is a greater power at play here than mere gods...
+Random Dialogue: My souls see a warrior within you.
+Random Dialogue: These gods are like any other powerful being: breakable, with the right tool.
+Random Dialogue: My oasis was made a wasteland, eons ago. Beware dark strangers.
+Random Dialogue: I seek rest after multiple lifetimes of strife. If peace is even possible...
+
+
+----- NPC: Poseidon -----
+Default Dialogue: Mortal! Lookin' beachy-keen.
+First Interaction: Wassup mortal? Looks like you're ready to party!
+Wearing Hope: Whoa. You glow like sunken treasure. What ARE you?
+Wearing Zeus: Zeus, hey! Listen, bro, could you tone down the lightning a bit? You're scaring the fish.
+Wearing Cerberus: The best hound in the world! Ready to go for a swim, Cerber-buddy?
+Wearing Artemis: Artemis, hey! Catch anything good lately? This place has some awesome fishing spots.
+Wearing Medusa: Hey, uh, Medusa. I'm glad you got the invite...
+Random Dialogue: Mortal! Lookin' beachy-keen.
+Random Dialogue: Hey, I ever tell you about the dolphin surfing championship?
+Random Dialogue: If you see Zeus, could you tell him to tone it down?
+Default Dialogue: You wanna hear a classic Poseidon beach story, mortal?
+Default Dialogue: It's like this right? Phinster, my pet dolphin, entered himself into a competition.
+Default Dialogue: I didn't know about it, of course. Not till he dragged me into it.
+Default Dialogue: Anyways, we're there, at the starting line, and guess who we see next to us? Go on, guess!
+Default Dialogue: HADES! SURFIN' CERBERUS!
+Default Dialogue: Phinster and I won, of course. God of the sea, here.
+Default Dialogue: But let me tell you, that Cerberus can SWIM!
+
+
+----- NPC: Khari -----
+Default Dialogue: Trust me. I never miss.
+First Interaction: Nice to meet you. I'm Khari.
+Wearing Artemis: Oh. Uhhh. Hi! It's... It's a wonder to meet you.
+Wearing Myna: The gods aren't all bad... I mean, Artemis seems pretty cool...
+Random Dialogue: Trust me. I never miss.
+Random Dialogue: If Artemis called... I could be persuaded to join her.
+Random Dialogue: Have you ever held destiny in the palm of your hand?
+Random Dialogue: I'll never trust other weapons like I do my own bow.
+
+
+----- NPC: Artemis -----
+Default Dialogue: What are you curious about, little mouse?
+Default Dialogue: I honor Zeus as our leader... but I have doubts.
+Default Dialogue: His hatred for you mortals is, well, a bit much.
+Default Dialogue: And his desire to destroy your kind is dishonorable at its heart.
+Default Dialogue: Few things in life are as pure as the Hunt.
+Default Dialogue: The chase, the thrill. For both predator and prey.
+Default Dialogue: Perhaps I will show you, little mouse. If you can adhere to the rules.
+Default Dialogue: It's impressive how loud you are, little mouse. Truly.
+First Interaction: It seems stealth is not your strong suit, little mouse.
+Wearing Hope: Tell me, why does a hunter like you help the prey?
+Wearing Zeus: Why do you rob our quarry of their right as prey?
+Wearing Aphrodite: How do you stand being around mortals all day? They're so... loud.
+Wearing Myna: You show promise, little hunter. But you are not my equal yet.
+Wearing Cerberus: You would offer a mighty hunt. Why do you serve a god like Hades?
+Wearing Apollo: You are so overworked. I never see you any more, brother. 
+Random Dialogue: It's impressive how loud you are, little mouse. Truly.
+Random Dialogue: Keep practicing, little mouse. I almost didn't hear you.
+Random Dialogue: Perhaps, with time, you can become a hunter. Not prey.
+
+
+----- NPC: Aphrodite -----
+Default Dialogue: What can the god of the squad do for you today?
+First Interaction: Hmm? Oh! Do you need any help?
+Wearing Hope: Listen to your heart. It will tell you the truth of what you truly are...
+Wearing Zeus: Why are you doing this, father? Mortals deserve a fair chance.
+Wearing Hades: You've always valued mortals. In your own way.
+Wearing Medusa: I wish we could see eye to eye, because our goals are so similar.
+Wearing Cerberus: What do you think, Cerberus? Can we reason with my father?
+Random Dialogue: What can the god of the squad do for you today?
+Random Dialogue: I hope you have some ideas for handling Zeus.
+Random Dialogue: One day I'll make everyone get along. I hope.
+Random Dialogue: You mortals deserve better than my father's wrath.
+Random Dialogue: Mortals have made such wondrous things. Have you tried "ice cream"?
+Default Dialogue: What would you like to know more about?
+Default Dialogue: He wasn't always like this. My father, I mean. Zeus.
+Default Dialogue: I remember, eons ago, he would give mortals gifts!
+Default Dialogue: Then something...changed in him. He's grown more distant ever since.
+Default Dialogue: I've kept peace between him and the mortals, but now...
+Default Dialogue: Now I worry no one can stop his wrath.
+Default Dialogue: I don't really know how I became the advocate for mortals among the gods.
+Default Dialogue: Things just didn't seem... fair. And I made sure the other gods knew that.
+Default Dialogue: After a while, I guess I developed a reputation.
+Default Dialogue: I don't regret it. I'm proud of standing up for my beliefs.
+
+
+----- NPC: Noorah -----
+Default Dialogue: Every myth, every story, carries a kernel of truth at its heart.
+First Interaction: May the moon walk with you, stranger.
+Wearing Medusa: I have heard the myths, Medusa. But I'd love to hear your story from you.
+Wearing Hope: Many stories end with hope. But your story is just beginning.
+Wearing Vengeance Jones: What mysterious, wonderful stories I see in your eyes, stranger.
+Wearing Zeus: You say mortality is no threat to you... but your actions betray your fear.
+Random Dialogue: Every myth, every story, carries a kernel of truth at its heart.
+Random Dialogue: I write down the stories so they are not forgotten by those to come.
+Random Dialogue: Mythology is merely another form of memory.
+Random Dialogue: Stories contain power. They tell us who we are, and help us shape the world.
+Default Dialogue: What story would you like to hear, stranger?
+Default Dialogue: Eons ago and very far away, the stars blinked out, one by one. Until there were only a few left.
+Default Dialogue: Then, a brilliant owl helped a clever fox chew a hole through the world.
+Default Dialogue: And that tear ripped open all of space, filling the vast emptiness with an eternity of new stars.
+Default Dialogue: One day, a mouse was being hunted by a hawk.
+Default Dialogue: As it swooped down, claws outstretched, the clever mouse darted towards the lake's edge.
+Default Dialogue: The hawk, seeing its reflection, turned away. It did not want to compete for its food.
+Default Dialogue: And the clever mouse returned home, safe and sound.
+Default Dialogue: The moon and sun are playmates, taking chase after one another.
+Default Dialogue: It is said that if one ever slows, so does the other.
+Default Dialogue: Neither wants their game to end, ever.
+
+
+----- NPC: Medusa -----
+Default Dialogue: The gods have harmed many. I seek to put a stop to it.
+First Interaction: Well-met, mortal. 
+Wearing Hope: You carry a great potential in you, mortal. I should know, I was much the same...
+Wearing Zeus: Someday you gods, and all the pain you've caused, will merely be a myth.
+Wearing Aphrodite: I would love to trust you. But in the end, you're a god, just like them.
+Wearing Ares: Leave me be, warmonger. I prefer more subtle methods of combat.
+Random Dialogue: The gods have harmed many. I seek to put a stop to it.
+Random Dialogue: I presume you've heard of me. The gods love their little myths.
+Random Dialogue: If you ever feel like, oh, ending the rule of the pantheon? Give me a call.
+Random Dialogue: The gods have taken much from me. But they will never take my fury.
+Random Dialogue: If you see Zeus, ask him to return my trinkets. He knows what he stole.
+Random Dialogue: Whatever you've heard about me, it's probably a lie.
+Default Dialogue: What curiosity of yours can I sate, mortal?
+Default Dialogue: They call me monster. They say the hero Perseus slew me.
+Default Dialogue: Nonsense. I stood up to the gods.
+Default Dialogue: And the hero Perseus... He saved my life.
+Default Dialogue: Perseus is my closest ally. I hope you get to meet him.
+Default Dialogue: They call it a curse, but I call it power.
+Default Dialogue: I reached out to something deep and strong, and accepted its gift.
+Default Dialogue: Now, I can stand against the gods to protect mortals. Someone has to.
+
+
+----- NPC: Jittershock -----
+Default Dialogue: Oh wow... THIS PLACE IS SO COOL!
+First Interaction: I'm not jittery, bud. I'm Jittershock!
+Wearing Sunspot: Buddy, I think this place is gonna make our dreams come true.
+Random Dialogue: Oh wow... THIS PLACE IS SO COOL!
+Random Dialogue: I wonder what neat metals they got down in that Underworld.
+Random Dialogue: What's your favorite snack? Nickel's really sweet, but gold... mmm...
+Random Dialogue: I bet that Pandora's Box tastes realllly good. Or maybe it would just blow me up.
+
+
+----- NPC: Myna -----
+Default Dialogue: You shouldn't fear the gods. They should fear you.
+First Interaction: You're lucky you're not a god. I might have hurt you.
+Wearing Artemis: You, above all, should understand why I hunt.
+Wearing Zeus: When this is over, I'll wield your power as a trophy.
+Wearing Hades: I wonder, have your chains ever held you?
+Wearing Aphrodite: Hearts were meant to be broken. I am simply the hammer.
+Wearing Poseidon: The sea's tempests don't hold a candle to me.
+
+
+----- NPC: Graveheart -----
+Default Dialogue: Hush, child. There is beauty in the silence.
+First Interaction: I am Graveheart, protector of this place.
+Random Dialogue: Hush, child. There is beauty in the silence.
+Random Dialogue: What do you see, when you gaze upon me? A monster?
+Random Dialogue: I watch over the lost, and sometimes, guide them back home.
+Random Dialogue: I will always love the gentle strummings of the musicians.
+Random Dialogue: I fear nothing, except perhaps snakes. They unnerve me.
+Random Dialogue: I was known by another name, very long ago. That name is lost to the Styx.
+Wearing Hades: Leave me be, deathly trickster.
+Wearing Medusa: Your blood runs cold as stone, but your heart burns hot.
+Wearing Peely: Once lost, now returned home. You are luckier than most.
+
+
+----- NPC: Spartan Assassin -----
+Default Dialogue: Careful not to stray into my sights.
+First Interaction: Is there something I can do for you?
+
+
+----- NPC: Bravo Leader -----
+Default Dialogue: Your ammo pouch is looking a little parched.
+First Interaction: Name's Bravo Leader, but my friends call me BL.
+
+
+----- NPC: Aang -----
+Default Dialogue: Ever been penguin sledding?
+First Interaction: Hi, I'm Aang!
+Wearing Zuko: Do you think, if things were different, we could have been friends?
+Wearing Katara: Katara! Have you seen Momo?
+Wearing Toph Beifong: Good to see you, Toph! Or, um, well, you know.
+Random Dialogue: Ever been penguin sledding?
+Random Dialogue: I never asked to be the Avatar...
+Random Dialogue: I laugh at gravity all the time. Haha, gravity.
+Random Dialogue: It's not magic, it's airbending.
+
+
+----- NPC: Laguna -----
+Default Dialogue: Need any help out there?
+First Interaction: Oh hey! You look, uh... like you could use a hand.
+Wearing Poseidon: I hear you host amazing beach parties. Awesome.
+Wearing Cerberus: Who's a good pup?!
+Random Dialogue: Need any help out there?
+Random Dialogue: Staying safe? I hear the waves are getting choppy.
+Random Dialogue: Don't forget your Slurpscreen!
+
+
+----- NPC: Peely -----
+Default Dialogue: (Peely Bone's ribs clatter as he waves furiously.)
+First Interaction: (Peely Bone widens his signature extra-toothy grin.)
+Wearing Peely: (Peely Bone regards your right arm curiously.)
+Wearing Potassius Peels: (Peely Bone bows deeply.)
+Wearing Polar Peely: (Peely Bone takes in your bone-chilling stature.)
+Wearing Unpeely: (Peely Bone seems envious. Maybe it's your hat?)
+Wearing P-1000: (Peely Bone compares your exoskeleton to his skeleton-skeleton.)
+Default Dialogue: (Peely shivers a bit, but pretends he isn't.)
+First Interaction: (Peely gives you a big, happy grin.)
+Wearing Vengeance Jones: (Peely gives you a big hug, then shoos you away to your next big adventure.)
+Wearing Hope: (Peely grins and makes himself little cat ears with his fingers. It looks weird on a banana.)
+Wearing Valeria, Oscar, Nisha, Montague: (Peely scowls.)
+Random Dialogue: (Peely shivers a bit, but pretends he isn't.)
+Random Dialogue: (Peely marvels at the beauty of nature around him.)
+Random Dialogue: (Peely sighs, and looks at his little tent dejectedly.)
+Random Dialogue: (Peely mimes driving and honking a horn.)
+Random Dialogue: (Peely does a little dance, thankful to be free.)
+
+
+----- NPC: Hope -----
+Default Dialogue: I'll share what information I can.
+Default Dialogue: The Underground was a success.
+Default Dialogue: Even before the gods arrived, The Society was in shambles.
+Default Dialogue: But Valeria is not the type to be upstaged. So... gods.
+Default Dialogue: The Society realized they weren't gods once actual gods showed up.
+Default Dialogue: They're gone. Good riddance.
+Default Dialogue: Not like the gods are much better, though...
+Default Dialogue: Leave it to my sister to literally open Pandora's Box...
+Default Dialogue: ...and then leave me to clean up the mess.
+Default Dialogue: Valeria always liked to make a dramatic exit.
+Default Dialogue: I don't regret taking on The Society... but I wish things could've been different.
+First Interaction: Hey. How do you feel about taking down some gods?
+Wearing Vengeance Jones: Taking down Zeus is the right thing to do. I hope you'll help us.
+Wearing Valeria: No more poking around in grandpa's ancient maps, or so help me...
+Wearing Nisha, Oscar: Not gonna say "I told you so", but...
+Wearing Montague: Go steal yourself a new life. Your little Society is done.
+Wearing Zeus, Hades, Cerberus: You know what? I'm fine with a little trouble, actually.
+Random Dialogue: I've realized, I can't stand back and watch bulllies misuse their power. 
+Random Dialogue: I thought my rebel days were done, but Zeus needs to be taken down.
+Random Dialogue: The Underground changed the world for the better. I believe that.
+Random Dialogue: I'm not afraid of Zeus, or any god. 
+Random Dialogue: The powerful should always be a little afraid of the weak.
+
+
