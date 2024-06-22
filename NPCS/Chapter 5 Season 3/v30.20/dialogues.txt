@@ -1,0 +1,509 @@
+----- NPC: Chopper -----
+Default Dialogue: Expecting something?
+First Interaction: Whatever it is, figure it out yourself.
+
+
+----- NPC: The Underwriter -----
+Default Dialogue: Our policies do not cover damage incurred at the Nitrodrome
+First Interaction: All Sweat Insurance has your back! As long as you're insured.
+Wearing Vengeance Jones: I can't find any policies under the name 'Jones.'
+Wearing Hope: I believe your sister left quite a debt on your family's account when she... took her vacation.
+Wearing Peabody: If you think you can survive this wasteland without insurance? Good luck.
+Wearing Ringmaster Scarr: Thanks for recommending me some enforcers. Good help is so hard to find.
+Random Dialogue: Our policies do not cover damage incurred at the Nitrodrome
+Random Dialogue: It would be a shame if something happened to you out there.
+Random Dialogue: Let's hope your policy is current, friend. I'd hate to see your plans get 'derailed' like other clients.
+
+
+----- NPC: Oscar -----
+Default Dialogue: Hrm. What do you want to know?
+Default Dialogue: I didn't grow up a Society brat, like Nisha and Hope.
+Default Dialogue: I fought for everything I got. I earned it.
+Default Dialogue: First on the streets. Then in the ring. Then in The Society.
+Default Dialogue: And whatever comes next, I'll earn that too.
+Default Dialogue: We survived the wrath of the gods. Barely.
+Default Dialogue: Montague and Valeria both ran off. Good riddance.
+Default Dialogue: And Nisha... poor little rich girl will have to build a life for herself, now.
+Default Dialogue: There's a brutal poetry to this wasteland. I like it.
+First Interaction: If you don't know my name, you're not worth my time.
+Random Dialogue: There's a brutal poetry to this wasteland. I like it.
+Random Dialogue: The Society was the pointless dream of a feckless thief.
+Random Dialogue: I came up from nothing before, and I'll do it again.
+Random Dialogue: You want my respect, you had better earn it.
+Random Dialogue: The powerful set the terms. The weak accept them.
+Wearing Hope: I don't hold a grudge. Anything you can topple doesn't deserve to stand.
+Wearing Vengeance Jones: I hear you recovered your precious banana. Don't let him spoil, now.
+Wearing Megalo Don: Tiger vs. shark. I have to admit, I'm curious how that bout would go.
+
+
+----- NPC: Hope -----
+Default Dialogue: I'm gonna keep knocking down these villains until they stop getting up.
+First Interaction: Hey. Here we go again, right?
+Wearing Vengeance Jones: Sometimes I feel like if I stop being angry, I'll just sit down and stop fighting entirely.
+Wearing Valeria: I'm still mad at you... but I also wish you'd just come home.
+Wearing Nisha: Now that everything's changed... don't you want to be part of something good?
+Wearing Brite Raider, Rust: This wasteland is... a lot. Thanks for having my back.
+Wearing Oscar: I guess I was wrong. You're always going to put yourself first, aren't you?
+Random Dialogue: I'm gonna keep knocking down these villains until they stop getting up.
+Random Dialogue: I have this sneaking suspicion that there's more going on than we know...
+Random Dialogue: Things used to be so simple. But this is better.
+Default Dialogue: If I'm honest, my head's still spinning. But I'll tell you what I know.
+Default Dialogue: There's no way my sister could have known that all of this was going to happen...
+Default Dialogue: ... But at the same time, she did this. She brought this upon us.
+Default Dialogue: I love her. I'm mad at her. She'd BETTER be sorry... (sigh) And I miss her.
+Default Dialogue: There's no way a magical water lady saved the Island, okay?
+Default Dialogue: I don't know who started that rumor. 
+Default Dialogue: And if she's so magical, where's her water now, huh?
+Default Dialogue: I used to think the Society was the worst thing there was.
+Default Dialogue: Getting attacked by angry gods will change your perspective pretty quickly, though.
+Default Dialogue: Don't get me wrong, they're both bad. But I really wasn't a fan of getting electrocuted.
+
+
+----- NPC: Rust -----
+Default Dialogue: Shred it.
+First Interaction: Yeah, I'm Rust. What's it to you?
+Random Dialogue: Shred it.
+Random Dialogue: Let's thrash it out.
+Random Dialogue: This wasteland's awesome. Why would I live anywhere else?
+Random Dialogue: Someday I'm gonna be the lord of this whole wasteland.
+Random Dialogue: Megalo Don can't have this Island. It's ours!
+Random Dialogue: I consider myself pretty wastelandcore.
+Wearing Dummy: So, do you listen to, like... mathcore?
+Default Dialogue: Yeah, I can spare a clang. What's up?
+Default Dialogue: If you can believe it, yeah.
+Default Dialogue: Wasteland's full of weirdness. Some call it the weirdland.
+Default Dialogue: But recently there's been this...figure. In the distance?
+Default Dialogue: They don't scare me, of course. But I've heard they scare other people...
+
+
+----- NPC: Triage Trooper -----
+Default Dialogue: If there's something I can help with, I'm there!
+Default Dialogue: I've been looking over my shoulder for a while now.
+Default Dialogue: I'm always on edge these days.
+Default Dialogue: Every so often, though, I feel like I'm being watched.
+Default Dialogue: But there's never anything there.
+Default Dialogue: Need something? I'm pretty good in a pinch.
+First Interaction: Ready to help! So long as I'm safe...
+Random Dialogue: Need something? I'm pretty good in a pinch.
+Random Dialogue: Be on the lookout. I think someone's on my trail...
+Random Dialogue: I help people. I can't help it!
+Random Dialogue: Some people don't appreciate a Medic Specialist like me.
+Random Dialogue: Did you hear something? Guess I'm a little jumpy...
+Random Dialogue: She's coming. I know she is.
+Random Dialogue: Know anywhere I can lie low?
+
+
+----- NPC: Artemis -----
+Default Dialogue: Stealth is still not your strong suit, little mouse.
+First Interaction: Well met, little mouse.
+Wearing Hope: With Zeus humbled, the gods can go our separate ways. I don't mind it.
+Wearing Apollo: You should take a vacation, brother. There's nothing like letting loose to calm the spirit.
+Wearing Cerberus: Ah, you stayed as well! With your master away, we should have a mighty hunt together.
+Random Dialogue: Stealth is still not your strong suit, little mouse.
+Random Dialogue: I am enjoying my vacation, now that Zeus' iron grip has relaxed.
+Random Dialogue: This wasteland is so... energetic! I appreciate the change of pace.
+Random Dialogue: My kin have dispersed, but I... I like this Island, and its chaos.
+Random Dialogue: I am getting used to how loud mortals are. I'm even growing fond of it.
+Default Dialogue: What are you curious about, little mouse?
+Default Dialogue: I honor Zeus as our leader... but I have doubts.
+Default Dialogue: His hatred for you mortals is, well, a bit much.
+Default Dialogue: And his desire to destroy your kind is dishonorable at its heart.
+Default Dialogue: Few things in life are as pure as the Hunt.
+Default Dialogue: The chase, the thrill. For both predator and prey.
+Default Dialogue: Perhaps I will show you, little mouse. If you can adhere to the rules.
+
+
+----- NPC: Wastelander Magneto -----
+Default Dialogue: Tell me, what can I do?
+Default Dialogue: More strangeness than you could possibly imagine.
+Default Dialogue: But recently...I've seen something on the horizon.
+Default Dialogue: Visions of a stranger. Of an impending evil.
+Default Dialogue: And I am not alone.
+Default Dialogue: I have been known by many names.
+Default Dialogue: Max Eisenhardt, Erik Lehnsherr, Magnus, Magneto.
+Default Dialogue: Each name marks its own failure, and one day I will answer for them.
+Default Dialogue: But today, only my actions hold any real meaning.
+Default Dialogue: Actions I perform in the name of all mutants.
+Default Dialogue: Some think me a monster simply because of what I am. A mutant.
+Default Dialogue: They fear me, and with good reason. They see me as evil.
+Default Dialogue: The truth is, however, I am just a man.
+Default Dialogue: There is no place to hide.
+First Interaction: I am Magneto, mightiest of all mutants!
+Random Dialogue: There is no place to hide.
+Random Dialogue: Now is the time for change.
+Random Dialogue: I am power!
+Wearing Rogue: We must put those who mean the most to us first.
+Wearing Gambit: I find scars are more vivid reminders than memories.
+Wearing Hope: Perhaps now is the time for heroes.
+Wearing Scarlet Witch: I only ask, Wanda, for your acceptance.
+
+
+----- NPC: Ruckus -----
+Default Dialogue: Want to join Ruckus's Rabbles?
+First Interaction: Ruckus is soooo BOOOORED!
+Random Dialogue: Want to join Ruckus's Rabbles?
+Random Dialogue: You're Ruckus's friend, right? Right??
+Random Dialogue: WHEN DO THE EXPLOSIONS START!?
+Wearing Backbone: IT'S RABBLES, NOT RIDERS! Ruckus name best!
+Wearing Power Chord: Slides is TERRIBLE name! Rabbles much better!
+Wearing Riot: You play music for Ruckus? LOUD MUSIC!?
+Wearing Chiara: Rabbles was only suggestion... CHIARA PICK NAME!
+Default Dialogue: What can Ruckus do for wastelander?
+Default Dialogue: Megalo Don thinks controlling Nitro means he controls the island.
+Default Dialogue: Ruckus knows better. Ruckus knows PEOPLE are more important than Nitro.
+Default Dialogue: Without WASTELANDERS, wasteland is just...wasteland.
+Default Dialogue: Rabbles was a bad name. Ruckus was wrong.
+Default Dialogue: Chiara's Chums is way better.
+Default Dialogue: Chums bring peace to wasteland! Chums take Nitro from Megalo Don!
+Default Dialogue: Or, whatever Chiara tells Chums to do.
+
+
+----- NPC: Brite Raider -----
+Default Dialogue: I've got the britest ideas around.
+Default Dialogue: That guy seems like a class-A jerk.
+Default Dialogue: Hoarding all the nitro for his ship is just wrong!
+Default Dialogue: I think I'd like to introduce him to my pal, Bitey...
+Default Dialogue: Did Ringmaster Scarr send you?
+Default Dialogue: I have no idea how I keep putting up record times at the Drome, okay?!
+Default Dialogue: I just sort of... hit the gas, close my eyes, and hope for the best.
+Default Dialogue: Well... um... it's everywhere...
+Default Dialogue: Not much we can do about it, is there?
+Default Dialogue: I just dump out my shoes every couple of feet, and hope for rain!
+Default Dialogue: The world looks brite. And not just because of the constant explosions!
+First Interaction: I didn't plan to become a wastelander, but I'm embracing it!
+Wearing Brite Bomber: You look so... hydrated!
+Wearing Ringmaster Scarr: I'd love to race at the Nitrodrome again! Um, later, I think!
+Wearing Valeria: I hope you learned your lesson about opening boxes that don't belong to you.
+Wearing Sun Tan Specialist: Please tell me you brought sunscreen.
+Random Dialogue: The world looks brite. And not just because of the constant explosions!
+Random Dialogue: There's nothing like the acidic burn of Nitro! It's a real acquired taste!
+Random Dialogue: Burn brite, wastelander.
+Random Dialogue: I hope the llamacorns are staying hydrated.
+
+
+----- NPC: Persephone -----
+Default Dialogue: What's on your mind?
+Wearing Peely, Peely Bone, Agent Peely, Unpeely, P33LY, Polar Peely, Toon Peely, KAWSPEELY, Adventure Peely: Well then, seedling, what would you like to know?
+Default Dialogue: I don't know why the pantheon has a reputation for infighting.
+Default Dialogue: Sure, my husband doesn't like my mother...
+Default Dialogue: ...and Poseidon doesn't like Medusa...
+Default Dialogue: ...And Zeus doesn't like... anybody, really.
+Default Dialogue: But we all get along when commanded or forced!
+Default Dialogue: All dogs are good, but my dog is the best.
+Default Dialogue: If anyone ever harmed a hair on his snout...
+Default Dialogue: ...They'd suffer the full wrath of the Underworld.
+Default Dialogue: Luckily, you'd never do anything like that!
+Default Dialogue: Most Gods marry for love or for power. I married for both.
+Default Dialogue: I can still remember the day we eloped...
+Default Dialogue: The ceremony was in the Underworld, surrounded by beloved wailing spirits.
+Default Dialogue: The air smelled of moist soil and decay. Charon cried so hard his jaw fell off.
+Default Dialogue: It was... Perfect. *sigh*
+Default Dialogue: What can the queen of the Underworld do for you?
+First Interaction: Sup, mortal?
+Wearing Hades: You missed me, right? I missed you too.
+Wearing Cerberus: Who's a good boy?
+Wearing Megalo Don: Sail that Leviathan down the River Styx, mortal. See what happens.
+Wearing Medusa: So you finally got back at Zeus. Wish I'd been here to see it, heh.
+Wearing Hope: So you're...? Huh. All I can say is good luck.
+
+
+----- NPC: Centurion -----
+Default Dialogue: This place is kind of a lot, huh?
+First Interaction: Uh. Hey. Hi. I'm Centurion.
+Random Dialogue: This place is kind of a lot, huh?
+Random Dialogue: Marauders, wastelanders. What about, like, a regular helpful soldier?
+Random Dialogue: ATTENTION! No, that was for me, not you. I miss structure.
+
+
+----- NPC: Backbone -----
+Default Dialogue: Out here, the road's all that matters.
+First Interaction: The road's the only home I need.
+Random Dialogue: Out here, the road's all that matters.
+Random Dialogue: You look like a good fit for the Riders. Interested?
+Random Dialogue: Don't let the wastelands claim you.
+Random Dialogue: Ride fast. Ride Hard. Live free.
+Wearing Power Chord: Never was one for that noise you call music.
+Wearing Ruckus: How many times do I need to tell you, it's Riders, not Rabbles.
+Wearing Riot: Another noise maker? Hope you can ride.
+Wearing Chiara: You might be just the leader we're looking for...
+Default Dialogue: Need some riding advice?
+Default Dialogue: Sometimes, I'll be out on a ride.
+Default Dialogue: Just me and the breeze.
+Default Dialogue: And then...something else. SOMEONE else.
+Default Dialogue: But every time I look around, no one's there.
+Default Dialogue: Megalo Don's all about the Nitro. Rest of us don't seem to matter much.
+Default Dialogue: Ain't no way to be leader. Even in this wasteland.
+Default Dialogue: Someone needs to show him that.
+Default Dialogue: The wasteland needs someone dedicated to making life better. For everyone.
+Default Dialogue: Megalo Don and his marauders think that's them.
+Default Dialogue: But its Chiara's Chums that'll make the difference.
+Default Dialogue: Power Chord, Ruckus, Riot. We're all on the same page.
+Default Dialogue: Just need Chiara to be our leader.
+
+
+----- NPC: Cerberus -----
+Default Dialogue: WHAT DO YOU WANT, LITTLE PUP??
+Default Dialogue: HA HA HA. I WILL BEAT YOU IF YOU DESIRE.
+Default Dialogue: YOU ARE A LITTLE NOTHING. A TASTY MORSEL.
+Default Dialogue: IT WILL KEEP ME BUSY. I AM SO BORED! BORK BORK.
+Default Dialogue: SHE WILL ARRIVE ON THE SWEET SUMMER WIND.
+Default Dialogue: DO NOT TALK TO THE QUEEN. DO NOT BOTHER THE QUEEN.
+Default Dialogue: SHE IS TAKING A LITTLE VACATION AND NEEDS HER REST.
+Default Dialogue: ZEUS FELL DOWN HA HA HA.
+Default Dialogue: THE GODS HAVE GONE TO FIND NEW DOMAINS.
+Default Dialogue: MY MASTER LEFT ME HERE TO PREPARE FOR HER ARRIVAL.
+Default Dialogue: I AM THE STRONG HEAD OF CERBERUS. WHAT DO YOU WANT, PUP?
+First Interaction: HA HA HA, WHAT WEAKLING CALLS UPON THE HOUNDS OF HADES??
+Random Dialogue: I AM THE STRONG HEAD OF CERBERUS. WHAT DO YOU WANT, PUP?
+Random Dialogue: Oh good, my other heads are napping. What do you need, hero?
+Random Dialogue: YOU ARE SMALL AND LOOK TASTY. WHAT DO YOU NEED.
+Random Dialogue: BEHOLD THE UNDERWORLD! READY TO MOVE IN? HA HA HA.
+Random Dialogue: My other heads are... loud and mean. But I will help if I can.
+Random Dialogue: YOU'D BETTER CLEAR OUT BEFORE SHE ARRIVES, OR I MIGHT BITE YA, HA HA HA.
+Wearing Hades: MASTER! BORK BORK BORK!!
+
+
+----- NPC: Chiara -----
+Default Dialogue: Looking to change the world?
+First Interaction: Let's change the world, yeah?
+Random Dialogue: Looking to change the world?
+Random Dialogue: Please tell me you're not one of Ruckus's Rabbles.
+Random Dialogue: You with Power Chord and Riot?
+Random Dialogue: Backbone calls his people the Riders. You one of them?
+Random Dialogue: Here for a little peace and quiet?
+Wearing Power Chord: You seem pretty punk rock. Cool.
+Wearing Ruckus: You're, uh, kind of a lot, aren't you?
+Wearing Backbone: The wasteland's lucky to have someone like you.
+Wearing Riot: I dig the hair. Could maybe turn the music down though.
+Default Dialogue: You wanted to ask me something?
+Default Dialogue: Now that you mention it, yeah.
+Default Dialogue: I mean, the wasteland is strange enough as is.
+Default Dialogue: But lately...I don't know. I feel like someone's watching me.
+Default Dialogue: He's...a lot. And not in the good way. If there is a good way.
+Default Dialogue: Seems like Megalo Don doesn't care about anything except Nitro.
+Default Dialogue: In my experience? That can only end badly.
+Default Dialogue: Not a full day on this island and I got swarmed by people.
+Default Dialogue: Power Chord, Backbone, Riot, even Ruckus.
+Default Dialogue: They all want me to lead their group or something?
+Default Dialogue: I don't know, maybe. People need to stick together in the wasteland.
+
+
+----- NPC: Riot -----
+Default Dialogue: Hey, as long as I can keep rockin'.
+Default Dialogue: You know, sometimes? I'll be alone shredding on my guitar.
+Default Dialogue: And I'll get this vibe.
+Default Dialogue: Like I'm not so alone anymore. You know?
+Default Dialogue: Ruins the rockin'. And...it ain't the same after.
+Default Dialogue: We've been rockin' with a couple of names. Slides, Riders, Rabbles.
+Default Dialogue: With Chiara as our leader though? Well, we need a name change.
+Default Dialogue: And alliteration is SO punk rock!
+Default Dialogue: Oh, yeah, Chiara's great!
+Default Dialogue: A real rocker, even if she doesn't know it yet.
+Default Dialogue: Hopefully Power Chord and the others see it, too.
+Default Dialogue: The wasteland's pretty hardcore.
+First Interaction: Ready to rock?
+Random Dialogue: The wasteland's pretty hardcore.
+Random Dialogue: You looking to rock out?
+Random Dialogue: That Megalo Don's such a poser.
+Random Dialogue: I'm rolling and ready to rock!
+Wearing Power Chord: Yes! Rock on!
+Wearing Ruckus: Not sure what you're saying but I dig the energy!
+Wearing Backbone: Name a better duo than rock and bikes.
+Wearing Chiara: Hey, you seem to have a pretty level head.
+
+
+----- NPC: Dummy -----
+Default Dialogue: Isn't this wasteland TOTALLY AWESOME?!
+First Interaction: Look out! Ha, just kidding. But seriously, this place is AWESOME!
+Random Dialogue: Isn't this wasteland TOTALLY AWESOME?!
+Random Dialogue: My advice? Go find a car and HAVE SOME FUN!
+Random Dialogue: Axle's promised me the ultimate wastelander makeover... after about a thousand hours of busy work...
+Random Dialogue: Explosions. Nitro. BIG HONKIN CARS! This wasteland is PERFECT!
+Random Dialogue: This wasteland is like a 24/7 Crash Tour! It's THE BEST!
+Wearing Peabody: I'm tired of waitin', pea man! I want my wastelander glow-up!
+Wearing Vengeance Jones: Watch who you call a Dummy, dummy.
+
+
+----- NPC: Peabody -----
+Default Dialogue: You've got Earl. Need something?
+First Interaction: Pea Bois, this is Phil. How can I help ya?
+Random Dialogue: You've got Earl. Need something?
+Random Dialogue: Mmfffphff--(gasp) AXLE! I'm Axle. Hi.
+Random Dialogue: Welcome to Pea Bois. How can I help?
+Random Dialogue: My name's Phil. I'll be your service pea today.
+Wearing Megalo Don: Sorry, pal. We don't have the parts you need.
+Wearing Ringmaster Scarr: You need ANOTHER timing belt? It's been 3 days.
+Wearing The Machinist: I told your boss, I don't have the parts. Sorry.
+Wearing Hope: Megalo's been askin' about pipeline parts. A LOT. Just FYI.
+Default Dialogue: Who'd you like to s-pea-k to?
+Default Dialogue: Mfmffhfmmf--
+Default Dialogue: --ffmfmffmdff--
+Default Dialogue: *gasp* sorry. Got stuck in the pod flaps. Whaddya want?
+Default Dialogue: I don't mind being the middle pea.
+Default Dialogue: I'm not the strong foundation, or the face of the business...
+Default Dialogue: I'm just me. Earl. How's it goin'?
+Default Dialogue: Yeah, I'm the top pea around here.
+Default Dialogue: The boys thought I had the right charm to be the face of this operation.
+Default Dialogue: And I mean... are they wrong? *wink*
+
+
+----- NPC: T-60 Power Armor -----
+Default Dialogue: Steel be with you!
+First Interaction: Ad Victoriam, my friend! That means "To victory," by the way... 
+Random Dialogue: Steel be with you!
+Random Dialogue: Ad Victoriam!
+Random Dialogue: You being careful out there?
+Random Dialogue: Remember, you need armor AND a weapon.
+Random Dialogue: Good to see you, friend of steel.
+Wearing T-60 Power Armor: Well look at you. Shiny!
+Wearing T-60 Power Armor: So you're one of us now. Good.
+Wearing T-60 Power Armor: We are united in steel!
+Default Dialogue: What can the Brotherhood do for you?
+Default Dialogue: That's what we call... all of this.
+Default Dialogue: You know, any place where humans run around destroying stuff.
+Default Dialogue: Really keeps you on your fusion-core-powered toes.
+Default Dialogue: We collect ancient tech.
+Default Dialogue: Like vacuum cleaners and outdated graphics cards.
+Default Dialogue: I even found a toaster once. Got a promotion.
+Default Dialogue: Cold, refreshing, and slightly radioactive.
+Default Dialogue: Best drink in the Wasteland!
+Default Dialogue: And you get a cap in your pocket. What's not to like?
+
+
+----- NPC: Peelosopher Bananocrates -----
+Default Dialogue: NaNa, NaNa Na!
+First Interaction: NaNa Na?
+Random Dialogue: NaNa, NaNa Na!
+Random Dialogue: NaNa Na. Na?
+Random Dialogue: NaNaNa Na Na? Na!
+Wearing Peely, Peely Bone, Agent Peely, Unpeely, P33LY, Polar Peely, Toon Peely, KAWSPEELY, Adventure Peely, P-1000, Lil Split: You look well, young banana.
+Wearing Peelosopher Bananocrates: What cursed trick is the cave playing on me now??
+Default Dialogue: NaNa, NaNaNaNaNa Na?
+Wearing Peely, Peely Bone, Agent Peely, Unpeely, P33LY, Polar Peely, Toon Peely, KAWSPEELY, Adventure Peely: Well then, seedling, what would you like to know?
+Default Dialogue: NaNa Na NaNaNa.
+Default Dialogue: NaNa Na, Na Na.
+Default Dialogue: Na NaNaNaNa, NaNaNa.
+Default Dialogue: NaNaNa NaNa Na.
+Default Dialogue: NaNa Na, NaNaNaNa Na.
+Default Dialogue: Na, NaNaNaNaNa, NaNa.
+Default Dialogue: I understand you meet few of our kin here.
+Default Dialogue: It can be very lonely, yes.
+Default Dialogue: Know that you can always talk to me when you feel alone, young seedling.
+Default Dialogue: True wisdom, seedling, is embracing your limits.
+Default Dialogue: We cannot know everything in this world.
+Default Dialogue: But we can open our hearts to everything all the same.
+
+
+----- NPC: Power Chord -----
+Default Dialogue: Who would want to be a marauder, anyway?
+First Interaction: You know what this island needs? MORE MUSIC!
+Random Dialogue: Who would want to be a marauder, anyway?
+Random Dialogue: SHHH, you hear that? The wind's got some serious tempo!
+Random Dialogue: Megalo Don? Nah, the Slides are where it's at.
+Random Dialogue: This storm is SERIOUSLY punk rock!
+Wearing Backbone: You gotta LISTEN. The Slides is SUCH a better name!
+Wearing Ruckus: Ruckus...sometimes I wonder about you.
+Wearing Riot: FINALLY, someone who gets MUSIC!
+Wearing Chiara: Woah, wait. Who're you?
+Default Dialogue: Got any requests? I can play pretty much anything.
+Default Dialogue: I've been getting pretty creeped out, actually!
+Default Dialogue: I keep thinking I see some kind of hooded figure in the distance.
+Default Dialogue: Or out the corner of my eye.
+Default Dialogue: But they always disappear before I get a good look.
+Default Dialogue: Megalo Don's a poser for sure.
+Default Dialogue: He thinks people are gonna rock with him because he has Nitro?
+Default Dialogue: HE'S NOT EVEN A REAL SHARK!
+Default Dialogue: The marauders think they're all that.
+Default Dialogue: But the Chums are where the REAL punk rock is gonna be.
+Default Dialogue: I just gotta make sure Chiara's on board.
+Default Dialogue: Pretty soon, though? WE'LL be the ones rocking the wasteland!
+
+
+----- NPC: Bravo Leader -----
+Default Dialogue: Here to stock up?
+First Interaction: Resupply inbound.
+
+
+----- NPC: Drakon Steel Rider -----
+Default Dialogue: If you're looking for a fight, let's be quick about it.
+First Interaction: Ready to ride, or are you walking?
+Wearing Hard Charger : Finally, a challenge. Looking for a race?
+Wearing Burnout: I've never lost a race. I won't start now.
+Wearing Redline: Think you're faster than me? Let's find out!
+Wearing Payback: Take a look. I'm what REAL speed looks like.
+Default Dialogue: Hurry up, I've got places to be.
+Default Dialogue: Nothing's better than racing through the wasteland.
+Default Dialogue: Except, maybe...racing against friends.
+Default Dialogue: But I'm Drakon Steel Rider. I don't need friends!
+
+
+----- NPC: Elizabeth Swann -----
+Default Dialogue: What would you like to know?
+Default Dialogue: The Pirate King is voted on by the members of Brethren Court.
+Default Dialogue: I was told every pirate only votes for themselves. So I did.
+Default Dialogue: And then...Jack... Well, he did something curious.
+Default Dialogue: And I had two votes while all the other Pirate Lords only had one.
+Default Dialogue: Please, call me Elizabeth.
+First Interaction: Hoist the colors!
+Wearing Captain Barbossa: I hardly believe in ghost stories anymore, Captain Barbossa.
+Wearing Davy Jones: You have betrayed your duty, Davy Jones.
+Wearing Jack Sparrow: There will come a moment when you have the chance to do the right thing.
+
+
+----- NPC: Captain Barbossa -----
+Default Dialogue: It be too late to alter course now, matey!
+Default Dialogue: A curse was placed on 882 identical gold pieces.
+Default Dialogue: Any mortal that removed but a single piece was to be punished for eternity.
+Default Dialogue: I thought I was too old to believe in such tales.
+Default Dialogue: And that was my mistake.
+Default Dialogue: You're off the edge of the map, mate.
+First Interaction: So tell me, what's become of my ship?
+Wearing Jack Sparrow: You can't beat me, Jack!
+Wearing Davy Jones: There's more than one way to live forever, mate.
+Wearing Elizabeth Swann: You'd best start believing in ghost stories...
+
+
+----- NPC: Jack Sparrow -----
+Default Dialogue: Is this a dream? No? Thought not.
+First Interaction: I'm Captain Jack Sparrow. Savvy?
+Wearing Captain Barbossa: The world's still the same, Hector. There's just...less in it.
+Wearing Davy Jones: My debt was paid, mate.
+Wearing Elizabeth Swann: I saved your life, you saved mine. We're square.
+Default Dialogue: Now what can I do for you, mate?
+Default Dialogue: The Pearl's my ship, but she's more than just a ship.
+Default Dialogue: She's not just a keel and a hull and a deck and sails.
+Default Dialogue: That's what a ship NEEDS, but what a ship IS...
+Default Dialogue: What the Black Pearl is...is freedom.
+Default Dialogue: Shocking how often others are surprised when I tell the truth.
+Default Dialogue: I do it quite a lot, actually.
+Default Dialogue: I'm dishonest. And a dishonest man you can always trust to be dishonest.
+Default Dialogue: Honestly.
+
+
+----- NPC: Davy Jones -----
+Default Dialogue: Survive the Black Mark
+Default Dialogue: I am the sea.
+First Interaction: I cannot be summoned like some pup!
+Wearing Captain Barbossa: Do you fear the dark abyss? I can offer you...an escape.
+Wearing Jack Sparrow: You have a debt to pay!
+Wearing Elizabeth Swann: You'll see no mercy from me!
+Default Dialogue: Ha! You afraid to get wet?
+Default Dialogue: She charged me with a duty.
+Default Dialogue: For ten years I looked after those who were lost to the sea.
+Default Dialogue: And finally, when we could be together again...
+Default Dialogue: She. Wasn't. There.
+
+
+----- NPC: Vengeance Jones -----
+Default Dialogue: Society, down. Zeus, down. Who's NEXT?!
+First Interaction: Yeah. You're talking to the unstoppable Vengeance Jones.
+Wearing Hope: I'll follow your lead... but we've got this.
+Wearing Nisha: Hope really believes in you. Don't squander that.
+Random Dialogue: Society, down. Zeus, down. Who's NEXT?!
+Random Dialogue: We took down a god. What chance does Megalo Don stand?
+Random Dialogue: Yeah, I'm pretty impressive.
+Random Dialogue: I've been told I'm the strong and silent type. I think that's pretty accurate.
+Random Dialogue: I could get used to this whole hero thing.
+Random Dialogue: You need a brooding, handsome hero of vengeance? I'm your man.
+
+

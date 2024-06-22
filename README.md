@@ -25,6 +25,7 @@ All the informations are stored in the [NPCS folder](./NPCS/). Every update has 
     - [Chapter 5 Seaon 3](./NPCS/Chapter%205%20Season%203/)
         - [v30.00](./NPCS/Chapter%205%20Season%203/v30.00/)
         - [v30.10](./NPCS/Chapter%205%20Season%203/v30.10/)
+        - [v30.20](./NPCS/Chapter%205%20Season%203/v30.20/)
 
 ## Authors
 - [ᴅᴊʟᴏʀ3xᴢo](https://twitter.com/djlorenzouasset)
