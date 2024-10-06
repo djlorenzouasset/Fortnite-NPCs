@@ -1,0 +1,2151 @@
+[
+  {
+    "tagName": "AISpawnerData.Type.Tandem.MoosePorch",
+    "displayName": "War Machine",
+    "shortDescription": "Ace pilot, military veteran, and trusted ally of Tony Stark.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S31/TAthenaSoldiersCharacterMoosePorchMathHelmet_Off.TAthenaSoldiersCharacterMoosePorchMathHelmet_Off",
+    "position": {
+      "x": 80968.0,
+      "y": 36696.0,
+      "z": 4928.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Season31.Found.GreenTown.Q02c",
+      "Conversation.Entry.Season31.Story.P02.Q04",
+      "Conversation.Entry.MoosePorch.Dialogue",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "You got questions for me?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Being in this suit? I feel unstoppable. But... ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'd be lying if I said I enjoyed it all the time.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "In here, I can be the hero I need to be.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But I miss just sitting at the controls. I miss being a pilot.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Trust me, I won't rust.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Looks like I really stepped in it this time.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Trust me, I won't rust.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I gotta get out there. Test my new toys.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Here I am, ready to save the day.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Nanamantium, huh? That's not contagious, right?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Peelverine",
+            "characterId": "Character_TroutWrist_Spine",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_TroutWrist_Spine.Character_TroutWrist_Spine",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierTroutWristSpineL.TSoldierTroutWristSpineL"
+          }
+        ]
+      },
+      {
+        "message": "Did your prophecy mention anything about this?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          }
+        ]
+      },
+      {
+        "message": "Well, look at you! A real tin can off the old block.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "War Machine",
+            "characterId": "Character_MoosePorch_Math",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MoosePorch_Math.Character_MoosePorch_Math",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierMoosePorchHelmetOnL.TSoldierMoosePorchHelmetOnL"
+          }
+        ]
+      },
+      {
+        "message": "Vengeance is sweet, but what comes next?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "Nice to see you're ready for a fight. Old habits, right?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shuri",
+            "characterId": "Character_SnapFreeze_Hunt",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SnapFreeze_Hunt.Character_SnapFreeze_Hunt",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S31/TSoldierSnapFreezeHuntL.TSoldierSnapFreezeHuntL"
+          }
+        ]
+      },
+      {
+        "message": "I'll have to call you Captain. Cap's reserved for someone else.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Captain Jones",
+            "characterId": "Character_HerbHutch_Breath",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_HerbHutch_Breath.Character_HerbHutch_Breath",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierHerbHutchBreatheL.TSoldierHerbHutchBreatheL"
+          }
+        ]
+      },
+      {
+        "message": "Still going on about those 'comics?'",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Gwenpool",
+            "characterId": "Character_PillowMill_Mastery",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PillowMill_Mastery.Character_PillowMill_Mastery",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S31/TSoldierPillowMillMasteryL.TSoldierPillowMillMasteryL"
+          }
+        ]
+      },
+      {
+        "message": "Don't let me do all the heroing for you, pal.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Iron Man Mk 45",
+            "characterId": "Character_BikeMold",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BikeMold.Character_BikeMold",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/T_Soldier_BikeMold_L.T_Soldier_BikeMold_L"
+          }
+        ]
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Dual Micro SMGs",
+        "itemId": "WID_FlexLegend_DualSMGs_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/FlexLegendWeaponGameplay/Gameplay/DualSMGs/WID_FlexLegend_DualSMGs_Athena_VR.WID_FlexLegend_DualSMGs_Athena_VR"
+      },
+      {
+        "displayName": "Shield Bubble Jr.",
+        "itemId": "Athena_SilverBlazer_Mini_UC",
+        "rarity": "Common",
+        "price": 120,
+        "sellCount": 2,
+        "objectPath": "/ShieldBubble/Gameplay/ShieldBubbleJr/Athena_SilverBlazer_Mini_UC.Athena_SilverBlazer_Mini_UC"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.SnapFreeze",
+    "displayName": "Shuri",
+    "shortDescription": "The genius Princess of Wakanda and current Black Panther.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S31/TAthenaSoldiersCharacterSnapFreezeHunt.TAthenaSoldiersCharacterSnapFreezeHunt",
+    "position": {
+      "x": -46852.0,
+      "y": 10424.0,
+      "z": 4940.0
+    },
+    "dialogues": [
+      {
+        "message": "I miss Wakanda.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Doom thinks he can stop us. Let's show him he's wrong.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "I miss Wakanda.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Nothing can stop us. Not even Doom.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Do not upset me, or I'll show you the claws of Wakanda.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "All those weapons are nothing compared to my claws.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "War Machine",
+            "characterId": "Character_MoosePorch_Math",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MoosePorch_Math.Character_MoosePorch_Math",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierMoosePorchHelmetOnL.TSoldierMoosePorchHelmetOnL"
+          }
+        ]
+      },
+      {
+        "message": "Enjoying the shield? There's nothing quite like vibranium.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Captain Jones",
+            "characterId": "Character_HerbHutch_Breath",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_HerbHutch_Breath.Character_HerbHutch_Breath",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierHerbHutchBreatheL.TSoldierHerbHutchBreatheL"
+          }
+        ]
+      },
+      {
+        "message": "You really listen to a pool of water? What's that like?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          },
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          }
+        ]
+      },
+      {
+        "message": "I've heard a lot about you. What would win, my vibranium, or your nanamantium?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Peelverine",
+            "characterId": "Character_TroutWrist_Spine",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_TroutWrist_Spine.Character_TroutWrist_Spine",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierTroutWristSpineL.TSoldierTroutWristSpineL"
+          }
+        ]
+      },
+      {
+        "message": "T'Challa! It is good to see you, brother.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Black Panther",
+            "characterId": "CID_986_Athena_Commando_M_PlumRetro_4AJA2",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_986_Athena_Commando_M_PlumRetro_4AJA2.CID_986_Athena_Commando_M_PlumRetro_4AJA2",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-986-Athena-Commando-M-PlumRetro-L.T-Soldier-HID-986-Athena-Commando-M-PlumRetro-L"
+          }
+        ]
+      },
+      {
+        "message": "When are you going to let me give you an upgrade?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Iron Man Mk 45",
+            "characterId": "Character_BikeMold",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BikeMold.Character_BikeMold",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/T_Soldier_BikeMold_L.T_Soldier_BikeMold_L"
+          }
+        ]
+      },
+      {
+        "message": "What can I do for you?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "My brother was the Black Panther before me. He was kind, strong, and driven.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "After our last encounter with Doom, he almost fell.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "So I took on the mantle of Black Panther.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I am grateful my brother survived. I know of great warriors who were not so lucky.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Vibranium is a metal found all over Wakanda.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It's strong, and can absorb and reflect kinetic energy like nothing else.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Though I've heard of another metal here that is quite strong.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Have you heard of nanamantium?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You would not believe how many people call it a 'catsuit.'",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The Black Panther is a mantle. A responsibility to protect Wakanda and her people.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It is not a costume.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.RiftToGo",
+        "name": "Rift To Go",
+        "price": 250,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Rift.T_UI_NPC_Rift"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Bandage",
+        "itemId": "WID_Paprika_Bandage",
+        "rarity": "Common",
+        "price": 125,
+        "sellCount": 5,
+        "objectPath": "/PaprikaConsumables/Gameplay/BandageRefresh/WID_Paprika_Bandage.WID_Paprika_Bandage"
+      },
+      {
+        "displayName": "FlowBerry",
+        "itemId": "WID_Paprika_SlapShot",
+        "rarity": "Common",
+        "price": 50,
+        "sellCount": 2,
+        "objectPath": "/PaprikaConsumables/Gameplay/SlapShot/WID_Paprika_SlapShot.WID_Paprika_SlapShot"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.TroutWrist",
+    "displayName": "Peelverine",
+    "shortDescription": "Nanamantium infused skeleton with a ripen-eration mutant ability.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S31/TAthenaSoldiersCharacterTroutWristSpine.TAthenaSoldiersCharacterTroutWristSpine",
+    "position": {
+      "x": 1128.0,
+      "y": -5160.0,
+      "z": 3180.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Season31.Found.TroutWrist.AskAbout"
+    ],
+    "dialogues": [
+      {
+        "message": "(Peelverine flexes his nanmantium claws.)",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Try your luck against me, bub. I dare you.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "(Peelverine flexes his nanamantium claws.)",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "My ripen-eration mutation keeps me bruise free.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "What do you got to say there, bub?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "(Peelverine smirks at the man in a suit of gizmos.)",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "War Machine",
+            "characterId": "Character_MoosePorch_Math",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MoosePorch_Math.Character_MoosePorch_Math",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierMoosePorchHelmetOnL.TSoldierMoosePorchHelmetOnL"
+          }
+        ]
+      },
+      {
+        "message": "(Peelverine stares into his own reflection. He flexes.)",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Peelverine",
+            "characterId": "Character_TroutWrist_Spine",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_TroutWrist_Spine.Character_TroutWrist_Spine",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierTroutWristSpineL.TSoldierTroutWristSpineL"
+          }
+        ]
+      },
+      {
+        "message": "Ready to go to work?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          }
+        ]
+      },
+      {
+        "message": "There's a time for scrappin'. I know that better than anyone.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "I know you. You have a beast inside, same as me.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shuri",
+            "characterId": "Character_SnapFreeze_Hunt",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SnapFreeze_Hunt.Character_SnapFreeze_Hunt",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S31/TSoldierSnapFreezeHuntL.TSoldierSnapFreezeHuntL"
+          }
+        ]
+      },
+      {
+        "message": "(Peelverine smiles, happy to see a friend free from vengeance.)",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Captain Jones",
+            "characterId": "Character_HerbHutch_Breath",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_HerbHutch_Breath.Character_HerbHutch_Breath",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierHerbHutchBreatheL.TSoldierHerbHutchBreatheL"
+          }
+        ]
+      },
+      {
+        "message": "(Peelverine laughs at the joke he doesn't quite understand.)",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Gwenpool",
+            "characterId": "Character_PillowMill_Mastery",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PillowMill_Mastery.Character_PillowMill_Mastery",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S31/TSoldierPillowMillMasteryL.TSoldierPillowMillMasteryL"
+          }
+        ]
+      },
+      {
+        "message": "I'm an 'iron man', too you know. Well, nanamantium.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Iron Man Mk 45",
+            "characterId": "Character_BikeMold",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BikeMold.Character_BikeMold",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/T_Soldier_BikeMold_L.T_Soldier_BikeMold_L"
+          }
+        ]
+      },
+      {
+        "message": "Meowtooth... *snikt snikt* I've been waiting for you.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Meowtooth",
+            "characterId": "Character_CattleJar",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CattleJar.Character_CattleJar",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/T_Soldier_CattleJar_L.T_Soldier_CattleJar_L"
+          }
+        ]
+      },
+      {
+        "message": "(Peelverine squints and nods.)",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "(Peelverine looks off into the distance.)",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "(He sighs, then pats himself on the peel.)",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It's hard knowing you're as ferocious and wild as a wolverine.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Yet as soft and delicious as a banana.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.RiftToGo",
+        "name": "Rift To Go",
+        "price": 250,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Rift.T_UI_NPC_Rift"
+      },
+      {
+        "tag": "Tandem.Service.PatchUp",
+        "name": "Patch Up",
+        "price": 100,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_medic.T_UI_NPC_medic"
+      }
+    ],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.BrightDisk",
+    "displayName": "Heroic Hope",
+    "shortDescription": "See a brighter future.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S31/TAthenaSoldiersCharacterBrightDisk.TAthenaSoldiersCharacterBrightDisk",
+    "position": {
+      "x": -73176.0,
+      "y": -64736.0,
+      "z": 4904.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.BrightDisk.Dialogue",
+      "Conversation.Entry.Season31.Story.P06.Q06",
+      "Conversation.Entry.Season31.Story.P03.Q07b",
+      "Conversation.Entry.Season31.Story.P01.Q03",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "How can I help?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I can't say I recommend being the subject of a prophecy.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It's... pretty terrifying.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Plus, now I have to run all of my life decisions past a sentient glass of water. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "A very wise glass of water. But a glass of water nonetheless.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Any news?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Doom won't get away with this.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Any news?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "You got something for me?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "You're back. What's up?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Come to give me ANOTHER pep talk? ",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "I'm glad you're here. Are you ready for The Underground's final ride?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Starr Oakley",
+            "characterId": "Character_SparkArcher",
+            "objectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_SparkArcher.Character_SparkArcher",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-SparkArcher-L.T-Soldier-Hero-SparkArcher-L"
+          }
+        ]
+      },
+      {
+        "message": "Hey, buddy. Glad you're still fighting at my side.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Rufus",
+            "characterId": "Character_FeralTrash",
+            "objectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_FeralTrash.Character_FeralTrash",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-FeralTrash-L.T-Soldier-Hero-FeralTrash-L"
+          }
+        ]
+      },
+      {
+        "message": "I'm glad to have you, and the rest of The Underground, beside me in this fight.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Blair",
+            "characterId": "Character_SugarBubble",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SugarBubble.Character_SugarBubble",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S30/T-Soldier-SugarBubble-L.T-Soldier-SugarBubble-L"
+          }
+        ]
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Striker Burst Rifle",
+        "itemId": "WID_Assault_Update_StrikerBurst_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/WeaponsUpdated/Gameplay/StrikerBurstAR/WID_Assault_Update_StrikerBurst_Athena_VR.WID_Assault_Update_StrikerBurst_Athena_VR"
+      },
+      {
+        "displayName": "Monarch Pistol",
+        "itemId": "WID_FlexLegend_LightPistol_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/FlexLegendWeaponGameplay/Gameplay/RATT_Pistol/WID_FlexLegend_LightPistol_Athena_VR.WID_FlexLegend_LightPistol_Athena_VR"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Specialist.Scout.SeleneCobra",
+    "displayName": "Artemis",
+    "specialization": "Scout Specialist",
+    "shortDescription": "Goddess of the moonlit hunt.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S29/T-AthenaSoldiers-Character-SeleneCobra-Stride-HoodOn.T-AthenaSoldiers-Character-SeleneCobra-Stride-HoodOn",
+    "position": {
+      "x": 45968.0,
+      "y": -58048.0,
+      "z": 3836.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.SeleneCobra.Dialogue",
+      "Conversation.Entry.Season29.Snapshot.P02.Q12",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "Ask away, mortal.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The story of their lineage is not mine to tell.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Suffice to say, every family in The Society had their ties to the pantheon.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Diluted into myth over eons, fragile as gossamer, and ultimately pointless.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Hope will need more than an ancient lineage to recapture this Island from Doom.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Doom is powerful and brilliant, but arrogant.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The Oracle and her pet mortal, Hope, will defang him.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "And if they do not, well... I will find other hunting grounds to stalk.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "My family have scattered to the infinite corners of reality.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Humbled, but free of Zeus' tyranny. It will be good for them.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "For Zeus, too, though his pride and vanity cost him his immortality.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I have grown fond of this Island and its denizens. I will stay.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You're getting quieter, little mouse. I'm impressed.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Well met, little mouse.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "You and The Oracle have developed a kinship. Seems appropriate given your... lineage.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          },
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          }
+        ]
+      },
+      {
+        "message": "You have been a joy to hunt. Let's not end this dance prematurely.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Oscar",
+            "characterId": "Character_BengalBasher_Suit",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BengalBasher_Suit.Character_BengalBasher_Suit",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-BengalBasher-Suit--L.T-Soldier-Hero-BengalBasher-Suit--L"
+          }
+        ]
+      },
+      {
+        "message": "You have changed the world, Medusa. Be ready to shape a better one.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Medusa",
+            "characterId": "Character_ReptilianOcean_Sleek",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_ReptilianOcean_Sleek.Character_ReptilianOcean_Sleek",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S29/T-Soldier-Hero-ReptilianOceanSleek-L.T-Soldier-Hero-ReptilianOceanSleek-L"
+          }
+        ]
+      },
+      {
+        "message": "You're getting quieter, little mouse. I'm impressed.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "The hunt awaits us. ",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I have not taken mortals as hunting companions in eons. Mayhaps I will change that...",
+        "bRandomDialogue": true
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.Hire",
+        "name": "Hire",
+        "price": 200,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Striker AR",
+        "itemId": "WID_Assault_Paprika_DPS_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_DPS/WID_Assault_Paprika_DPS_Athena_VR.WID_Assault_Paprika_DPS_Athena_VR"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.QuickBurst",
+    "displayName": "Rust",
+    "shortDescription": "Shred the wasteland.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S30/T-AthenaSoldiers-Character-QuickBurst-Plains.T-AthenaSoldiers-Character-QuickBurst-Plains",
+    "position": {
+      "x": -50220.0,
+      "y": -99380.0,
+      "z": 3736.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Season31.Story.P04.Q03",
+      "Conversation.Entry.Season30.Story.P06.Q01.QB",
+      "Conversation.Entry.QuickBurst.Dialogue",
+      "Conversation.Entry.Season30.Story.P02.01.QuickBurst",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "Yeah, I can spare a clang. What's up?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Sure, he got rid of Megalo Don...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "...but he crushed the spirit of the Wasteland along the way.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "He'll pay for that. I'll do whatever it takes to help Hope take him down.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The spirit of the Wasteland blew up with the pipeline.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Sure the sand is still there, but... it's just not the same.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'll find somewhere else that gives me that rowdy feeling... I just know it.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I miss the thrashin', scrappin' sands...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The wasteland is gone... in spirit, at least...",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "I miss the thrashin', scrappin' sands...",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "This place is so different now.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "*sigh* I got sand in my teeth again. Just like old times.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Doom took down the wasteland. So we gotta take down Doom.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Dummy",
+            "characterId": "CID_795_Athena_Commando_M_Dummeez",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_795_Athena_Commando_M_Dummeez.CID_795_Athena_Commando_M_Dummeez",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-795-Athena-Commando-M-Dummeez-L.T-Soldier-HID-795-Athena-Commando-M-Dummeez-L"
+          }
+        ]
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Sovereign Shotgun",
+        "itemId": "WID_Shotgun_Lever_FlexLegend_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/FlexLegendWeaponGameplay/Gameplay/LeverShotgun/WID_Shotgun_Lever_FlexLegend_Athena_VR.WID_Shotgun_Lever_FlexLegend_Athena_VR"
+      },
+      {
+        "displayName": "Shockwave Grenade",
+        "itemId": "Athena_ShockGrenade",
+        "rarity": "Epic",
+        "price": 100,
+        "sellCount": 2,
+        "objectPath": "/Game/Athena/Items/Consumables/ShockwaveGrenade/Athena_ShockGrenade.Athena_ShockGrenade"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Specialist.Supply.LionSoldier",
+    "displayName": "Centurion",
+    "specialization": "Supply Specialist",
+    "shortDescription": "Hazard Platoon's extraction expert and munitions master.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-A-035-Athena-Commando-M-LionSoldier.T-AthenaSoldiers-CID-A-035-Athena-Commando-M-LionSoldier",
+    "position": {
+      "x": 116810.89,
+      "y": -6746.9717,
+      "z": 1541.949
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "Now THIS is more like it!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'm Centurion. And I'm ready to help you take on Doom.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Now THIS is more like it!",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I was a terrible wastelander. It's good to feel like a soldier again.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "A hopeless war against a terrifying villain? WAY more my jam than some big chaotic wasteland.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I got bored of the wasteland aesthetic pretty fast anyhow.",
+        "bRandomDialogue": true
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.Hire",
+        "name": "Hire",
+        "price": 200,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Striker Burst Rifle",
+        "itemId": "WID_Assault_Update_StrikerBurst_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/WeaponsUpdated/Gameplay/StrikerBurstAR/WID_Assault_Update_StrikerBurst_Athena_VR.WID_Assault_Update_StrikerBurst_Athena_VR"
+      },
+      {
+        "displayName": "Monarch Pistol",
+        "itemId": "WID_FlexLegend_LightPistol_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/FlexLegendWeaponGameplay/Gameplay/RATT_Pistol/WID_FlexLegend_LightPistol_Athena_VR.WID_FlexLegend_LightPistol_Athena_VR"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.HerbHutch",
+    "displayName": "Captain Jones",
+    "shortDescription": "Take up the shield of justice.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S31/TAthenaSoldiersCharacterHerbHutchBreath.TAthenaSoldiersCharacterHerbHutchBreath",
+    "position": {
+      "x": -20016.0,
+      "y": -3392.0,
+      "z": 3136.0
+    },
+    "dialogues": [
+      {
+        "message": "I think I'm done with vengeance. Time for some justice.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I guess it's us vs. Doom, huh? Bring it on!",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "I think I'm done with vengeance. Time for some justice.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I figured out that there's more to life than vengeance.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "It felt really good to be mad, for a long time. But I'm done with that.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "It's been a minute since I've had to face down an apocalypse. Ah, nostalgia...",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "You can call me Captain Jones. And check out... wait, where'd I put that shield...?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Hope's facing down her proper supervillain. I'm so proud!",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "You're doing great, kiddo. Keep up the fine work.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          },
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          }
+        ]
+      },
+      {
+        "message": "See what 'a strong hand' gets you? Villains, every time. Duh.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Nisha",
+            "characterId": "Character_CeremonialGuard_Fencer",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CeremonialGuard_Fencer.Character_CeremonialGuard_Fencer",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-CeremonialGuardFencer-L.T-Soldier-Hero-CeremonialGuardFencer-L"
+          }
+        ]
+      },
+      {
+        "message": "What would ya like to know?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "If I never get sassed by that sentient bowl of soup again, it'll be too soon.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "That said, I respect her... even if her 'prophecies' don't tell us much.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "At least THIS ally isn't going to betray us and try to shoot me. I hope.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Though honestly, I'd love to see her try.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Hope's coming into her own as a hero, and I'm really proud of her.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I remember those pressures. Saving the world is a heavy burden to bear. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I was like, \"Why me?\" \"I'm just a guy!\" \"Who are all these heroes flying around in hi-tech suits?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "She's ready. I know she is. And we'll have her back every step of the way.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I can't say I'm a big fan of the guy, for obvious reasons.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "He's not gonna win. I don't think. You always expect one of these to be your last, I guess.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But Hope and the Avengers and the whole team, have got that. I believe in us.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.PatchUp",
+        "name": "Patch Up",
+        "price": 100,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_medic.T_UI_NPC_medic"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Bandage",
+        "itemId": "WID_Paprika_Bandage",
+        "rarity": "Common",
+        "price": 125,
+        "sellCount": 5,
+        "objectPath": "/PaprikaConsumables/Gameplay/BandageRefresh/WID_Paprika_Bandage.WID_Paprika_Bandage"
+      },
+      {
+        "displayName": "Monarch Pistol",
+        "itemId": "WID_FlexLegend_LightPistol_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/FlexLegendWeaponGameplay/Gameplay/RATT_Pistol/WID_FlexLegend_LightPistol_Athena_VR.WID_FlexLegend_LightPistol_Athena_VR"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.SpeedyPeas",
+    "displayName": "Peabody",
+    "shortDescription": "Phil, Earl and Axle. Three peas in a podcoat.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S30/T-AthenaSoldiers-Character-SpeedyPeas-Sprig.T-AthenaSoldiers-Character-SpeedyPeas-Sprig",
+    "position": {
+      "x": -78288.0,
+      "y": -7544.0,
+      "z": 4864.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.SpeedyPeas.Dialogue",
+      "Conversation.Entry.Season31.Story.P04.Q03",
+      "Conversation.Entry.Season30.Story.P05.Q01.SpeedyPeas",
+      "Conversation.Entry.Season30.Story.P04.Q01.SpeedyPeas",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "Who'd you like to s-pea-k to?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Mfmffhfmmf--",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "--ffmfmffmdff--",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "*gasp* sorry. Got stuck in the pod flaps. Whaddya want?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I don't mind being the middle pea.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'm not the strong foundation, or the face of the business...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'm just me. Earl. How's it goin'?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Yeah, I'm the top pea around here.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The boys thought I had the right charm to be the face of this operation.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "And I mean... are they wrong? *wink*",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "How can Phil help you today?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Phil, Earl and Axle, at your service!",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "How can Phil help you today?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Earl, here. Looking for a tune up?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Mffphffis - UGH! Listen, it's Axle! I need-",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "You and fighting-evil-in-the-name-of-good. Like two peas in a pod.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          }
+        ]
+      },
+      {
+        "message": "Still seeking vengence, huh? Earl can understand that.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "Mmmff! Mfff - Ruckus? What happened to the Chums?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Ruckus",
+            "characterId": "CID_262_Athena_Commando_M_MadCommander",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_262_Athena_Commando_M_MadCommander.CID_262_Athena_Commando_M_MadCommander",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-262-Athena-Commando-M-MadCommander-L.T-Soldier-HID-262-Athena-Commando-M-MadCommander-L"
+          }
+        ]
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Hammer Pump Shotgun",
+        "itemId": "WID_Shotgun_Pump_Paprika_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/PaprikaCoreWeapons/Items/Weapons/PaprikaShotgun_Pump/WID_Shotgun_Pump_Paprika_Athena_VR.WID_Shotgun_Pump_Paprika_Athena_VR"
+      },
+      {
+        "displayName": "Shield Bubble Jr.",
+        "itemId": "Athena_SilverBlazer_Mini_UC",
+        "rarity": "Common",
+        "price": 120,
+        "sellCount": 2,
+        "objectPath": "/ShieldBubble/Gameplay/ShieldBubbleJr/Athena_SilverBlazer_Mini_UC.Athena_SilverBlazer_Mini_UC"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.ShiverFlame",
+    "displayName": "Brite Raider",
+    "shortDescription": "Drive fast. Burn bright.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S30/T-AthenaSoldiers-Character-ShiverFlame-Ace.T-AthenaSoldiers-Character-ShiverFlame-Ace",
+    "position": {
+      "x": -120976.0,
+      "y": -14796.0,
+      "z": 1004.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Season31.Story.P04.Q03",
+      "Conversation.Entry.Season30.Story.P06.Q01.SF",
+      "Conversation.Entry.Season30.Story.P02.01.ShiverFlame",
+      "Conversation.Entry.ShiverFlame.Dialogue",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "What do you wanna know?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "So, the Wanderer was Doctor Doom this whole time?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I knew there was something up with him! Something BAD!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I have to say, I love that there's less sand on the Island now.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It was in my shoes, my hair, my food...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "...and other places where sand should not go. Yikes.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Oh, my llamacorn from back home? He's a good boy.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "...You know, except for the biting.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It's a brite one today.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "This isn't the wasteland I remember...",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "What do you make of all this \"Doom\" stuff?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Rust",
+            "characterId": "Character_QuickBurst_Plains",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_QuickBurst_Plains.Character_QuickBurst_Plains",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S30/T-Soldier-QuickBurst-Plains-L.T-Soldier-QuickBurst-Plains-L"
+          }
+        ]
+      },
+      {
+        "message": "Hope! I heard you're, um, the subject of a prophecy?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          },
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          }
+        ]
+      },
+      {
+        "message": "It's a brite one today.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Hey there, Wastelander!",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Brite Raider, at your service.",
+        "bRandomDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Dual Micro SMGs",
+        "itemId": "WID_FlexLegend_DualSMGs_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/FlexLegendWeaponGameplay/Gameplay/DualSMGs/WID_FlexLegend_DualSMGs_Athena_VR.WID_FlexLegend_DualSMGs_Athena_VR"
+      },
+      {
+        "displayName": "Shockwave Grenade",
+        "itemId": "Athena_ShockGrenade",
+        "rarity": "Epic",
+        "price": 100,
+        "sellCount": 2,
+        "objectPath": "/Game/Athena/Items/Consumables/ShockwaveGrenade/Athena_ShockGrenade.Athena_ShockGrenade"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.PillowMill",
+    "displayName": "Gwenpool",
+    "shortDescription": "I played the Galactus Event. That makes me an Avenger, right?",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S31/TAthenaSoldiersCharacterPillowMillMastery.TAthenaSoldiersCharacterPillowMillMastery",
+    "position": {
+      "x": 22504.0,
+      "y": 33836.0,
+      "z": 5696.0
+    },
+    "dialogues": [
+      {
+        "message": "Don't tell me Teddy followed me here too...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Gwendolyn Poole, at your service. Maybe. If you're cool.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Don't tell me Teddy followed me here too...",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "THAT'S your loadout? ...Really?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "If I *had* to be an NPC, at least I'm in Fortnite.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Once again, the naming and costume similarities were a clerical error. ",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Ravenpool",
+            "characterId": "CID_745_Athena_Commando_M_RavenQuill",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_745_Athena_Commando_M_RavenQuill.CID_745_Athena_Commando_M_RavenQuill",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-745-Athena-Commando-M-RavenQuill-L.T-Soldier-HID-745-Athena-Commando-M-RavenQuill-L"
+          },
+          {
+            "displayName": "Cuddlepool",
+            "characterId": "CID_746_Athena_Commando_F_FuzzyBear",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_746_Athena_Commando_F_FuzzyBear.CID_746_Athena_Commando_F_FuzzyBear",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-746-Athena-Commando-F-FuzzyBear-L.T-Soldier-HID-746-Athena-Commando-F-FuzzyBear-L"
+          },
+          {
+            "displayName": "Deadpool",
+            "characterId": "CID_705_Athena_Commando_M_Donut",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_705_Athena_Commando_M_Donut.CID_705_Athena_Commando_M_Donut",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-705-Athena-Commando-M-Donut-L.T-Soldier-HID-705-Athena-Commando-M-Donut-L"
+          }
+        ]
+      },
+      {
+        "message": "It's the GwenHive all over again.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Gwenpool",
+            "characterId": "Character_PillowMill_Mastery",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PillowMill_Mastery.Character_PillowMill_Mastery",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S31/TSoldierPillowMillMasteryL.TSoldierPillowMillMasteryL"
+          }
+        ]
+      },
+      {
+        "message": "Sup?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Initially, I did whatever I wanted and let the Avengers deal with it.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But then I realized: Great power comes with... something.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Um, what was it... \"With great power comes...\"",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Whatever. I'm more responsible now. Like a real hero should be.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "That's Pig-Gwen.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "YOU WILL RESPECT PIG-GWEN. Understood?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "She's my little piggy angel.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I dunno. Pick up a weapon, aim it, and win I guess?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "If you can't do that... Skill issue, dude.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.PatchUp",
+        "name": "Patch Up",
+        "price": 100,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_medic.T_UI_NPC_medic"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Gwenpool's Dual Micro SMGs",
+        "itemId": "WID_FlexLegend_DualSMGs_Athena_UR",
+        "rarity": "Mythic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/FlexLegendWeaponGameplay/Gameplay/DualSMGs/WID_FlexLegend_DualSMGs_Athena_UR.WID_FlexLegend_DualSMGs_Athena_UR"
+      },
+      {
+        "displayName": "Shockwave Grenade",
+        "itemId": "Athena_ShockGrenade",
+        "rarity": "Epic",
+        "price": 100,
+        "sellCount": 2,
+        "objectPath": "/Game/Athena/Items/Consumables/ShockwaveGrenade/Athena_ShockGrenade.Athena_ShockGrenade"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.BikeMold",
+    "displayName": "Iron Man",
+    "shortDescription": "The Armored Avenger and creator of a gamma powered Battle Bus.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S31/T_AthenaSoldiers_BikeMold.T_AthenaSoldiers_BikeMold",
+    "position": {
+      "x": 36636.0,
+      "y": -39000.0,
+      "z": 5088.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Season31.Found.GreenTown.Q02b",
+      "Conversation.Entry.BikeMold.Dialogue",
+      "Conversation.Entry.Season31.Story.P05.Q01",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "A question? Excellent. I'm my favorite conversation topic.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Doom's always had some scheme or another up his sleeve.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Doesn't really surprise me he wants to turn your island into his own little Latveria.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Say what you want, but he keeps a tight ship. Latveria's clean as a whistle.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "So long as you don't mind the whole 24/7 surveillance thing.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Yep, that's me. I am Iron Man.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Though, really it's a titanium-gold alloy. Iron just wasn't cutting it strength-wise.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Still, it's got a nice ring to it, don't you think?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The name, I mean. Iron itself actually makes a sort of dull \"clunk\" sound.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Is it a job for Iron Man?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I am Iron Man. Obviously.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Rhodey! What did you do to your suit?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "War Machine",
+            "characterId": "Character_MoosePorch_Math",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MoosePorch_Math.Character_MoosePorch_Math",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierMoosePorchHelmetOnL.TSoldierMoosePorchHelmetOnL"
+          }
+        ]
+      },
+      {
+        "message": "Nice shield. Really adds to the whole ensemble.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Captain Jones",
+            "characterId": "Character_HerbHutch_Breath",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_HerbHutch_Breath.Character_HerbHutch_Breath",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierHerbHutchBreatheL.TSoldierHerbHutchBreatheL"
+          }
+        ]
+      },
+      {
+        "message": "The secret to being a hero? Your brain's your best weapon.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          },
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          }
+        ]
+      },
+      {
+        "message": "I've already told you, Shuri, I can upgrade my own suit.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shuri",
+            "characterId": "Character_SnapFreeze_Hunt",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SnapFreeze_Hunt.Character_SnapFreeze_Hunt",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S31/TSoldierSnapFreezeHuntL.TSoldierSnapFreezeHuntL"
+          }
+        ]
+      },
+      {
+        "message": "I don't care how many walls there are, I can break through anything.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Gwenpool",
+            "characterId": "Character_PillowMill_Mastery",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PillowMill_Mastery.Character_PillowMill_Mastery",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S31/TSoldierPillowMillMasteryL.TSoldierPillowMillMasteryL"
+          }
+        ]
+      },
+      {
+        "message": "So your skeleton is wrapped in... nanamantium? What's that like?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Peelverine",
+            "characterId": "Character_TroutWrist_Spine",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_TroutWrist_Spine.Character_TroutWrist_Spine",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierTroutWristSpineL.TSoldierTroutWristSpineL"
+          }
+        ]
+      },
+      {
+        "message": "Is it a job for Iron Man?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Find any of my tech? Helpful, right?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "What, you've never seen an Iron Man before?",
+        "bRandomDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Bandage",
+        "itemId": "WID_Paprika_Bandage",
+        "rarity": "Common",
+        "price": 125,
+        "sellCount": 5,
+        "objectPath": "/PaprikaConsumables/Gameplay/BandageRefresh/WID_Paprika_Bandage.WID_Paprika_Bandage"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.CeremonialGuardFencer",
+    "displayName": "Nisha",
+    "shortDescription": "An honorable duelist in a dishonorable Society.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S28/TAthenaSoldiersCharacterCeremonialGuardFencerMaskOff.TAthenaSoldiersCharacterCeremonialGuardFencerMaskOff",
+    "position": {
+      "x": -61692.0,
+      "y": -66772.0,
+      "z": 4060.0
+    },
+    "dialogues": [
+      {
+        "message": "I do not miss The Society... but sometimes I miss knowing the hierarchy of things.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I am Nisha, newly of The Underground. Much to my chagrin.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "I do not miss The Society... but sometimes I miss knowing the hierarchy of things.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I thought the Island could use a strong hand. Doom has proven that analysis... flawed.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "This Island is swarming with superheroes. They can be a bit much.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I guess this is the start of my rebellious phase. Hm.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I will work with you, Hope. But that does not make us friends.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          },
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          }
+        ]
+      },
+      {
+        "message": "Our parents would despise The Underground. That... almost makes this fun.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kavel",
+            "characterId": "Character_NovelGuard",
+            "objectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_NovelGuard.Character_NovelGuard",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/S28/Characters/T-Soldier-Hero-NovelGuard-Mask-L.T-Soldier-Hero-NovelGuard-Mask-L"
+          }
+        ]
+      },
+      {
+        "message": "I am sorry about your banana friend. For what that's worth.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "It feels odd to say, but you seem... freer, now that you're on your own.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Oscar",
+            "characterId": "Character_BengalBasher_Suit",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BengalBasher_Suit.Character_BengalBasher_Suit",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-BengalBasher-Suit--L.T-Soldier-Hero-BengalBasher-Suit--L"
+          }
+        ]
+      },
+      {
+        "message": "I've thrown in with The Underground. If you cannot beat them, etc.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Montague",
+            "characterId": "Character_DiamondHeart_Chic",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_DiamondHeart_Chic.Character_DiamondHeart_Chic",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-DiamondHeart-Chic-L.T-Soldier-Hero-DiamondHeart-Chic-L"
+          }
+        ]
+      },
+      {
+        "message": "I heard you helped dethrone a god. You seem like someone I should know.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Medusa",
+            "characterId": "Character_ReptilianOcean_Sleek",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_ReptilianOcean_Sleek.Character_ReptilianOcean_Sleek",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S29/T-Soldier-Hero-ReptilianOceanSleek-L.T-Soldier-Hero-ReptilianOceanSleek-L"
+          }
+        ]
+      },
+      {
+        "message": "I'll put down my foil if you'll put down your bow. Allies?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Starr Oakley",
+            "characterId": "Character_SparkArcher",
+            "objectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_SparkArcher.Character_SparkArcher",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-SparkArcher-L.T-Soldier-Hero-SparkArcher-L"
+          }
+        ]
+      },
+      {
+        "message": "You're part of The Underground? That's... wonderful...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Rufus",
+            "characterId": "Character_FeralTrash",
+            "objectDefinition": "/Game/Athena/Items/Cosmetics/Characters/Character_FeralTrash.Character_FeralTrash",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-FeralTrash-L.T-Soldier-Hero-FeralTrash-L"
+          }
+        ]
+      },
+      {
+        "message": "I'm Nisha. I'm new to The Underground. Which I imagine you'd guessed.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Blair",
+            "characterId": "Character_SugarBubble",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SugarBubble.Character_SugarBubble",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S30/T-Soldier-SugarBubble-L.T-Soldier-SugarBubble-L"
+          }
+        ]
+      },
+      {
+        "message": "Ask away. I cannot afford secrets now anyhow.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You mean, if we win against this Doctor Doom?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "My estate is gone. Kavel and I have been left with nothing.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But I have my brother, my foil, and my keen mind, so...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "We will build a new future, if we have to.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Growing up, Hope was not what you'd call a 'natural leader'.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Once she grew a conscience, she became... unpopular with our peers.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "If her family's background wasn't impeccable... ah, but enough about that.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "She's growing into leadership now, it seems. She'd better not falter.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Yes, I have... reluctantly... joined Hope's little rebellion.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "She has a point. The Society was good to its members. Not so much anyone else.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "And Doom offers a compelling shared villain, of course.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I... don't hate the idea of a better, kinder world.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Hyper SMG",
+        "itemId": "WID_SMG_Paprika_DPS_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_DPS/WID_SMG_Paprika_DPS_Athena_VR.WID_SMG_Paprika_DPS_Athena_VR"
+      },
+      {
+        "displayName": "FlowBerry Fizz",
+        "itemId": "WID_Paprika_TeamSpray_LowGrav",
+        "rarity": "Rare",
+        "price": 100,
+        "sellCount": 1,
+        "objectPath": "/PaprikaConsumables/Gameplay/TeamSpray/WID_Paprika_TeamSpray_LowGrav.WID_Paprika_TeamSpray_LowGrav"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Specialist.Medic.TriageTrooper",
+    "displayName": "Triage Trooper",
+    "specialization": "Medic Specialist",
+    "shortDescription": "No one is beyond saving.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-217-Athena-Commando-M-Medic.T-AthenaSoldiers-CID-217-Athena-Commando-M-Medic",
+    "position": {
+      "x": 7384.0,
+      "y": 81776.0,
+      "z": 5320.0
+    },
+    "dialogues": [
+      {
+        "message": "You hurt? I could fix that.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Happy to lend a healing hand!",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "You hurt? I could fix that.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I'm always here to help! Just ask Field Surgeon.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "If you're looking for some heals, I'm your man!",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Tell Field Surgeon I get the message. I'm done running.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Saskia",
+            "characterId": "Character_Bountress",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_Bountress.Character_Bountress",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S30/T-Soldier-Bountress-L.T-Soldier-Bountress-L"
+          }
+        ]
+      },
+      {
+        "message": "I know we don't agree on what I did, but we can still be friends. Right...?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Field Surgeon",
+            "characterId": "CID_216_Athena_Commando_F_Medic",
+            "objectDefinition": "/Game/Athena/Items/Cosmetics/Characters/CID_216_Athena_Commando_F_Medic.CID_216_Athena_Commando_F_Medic",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-216-Athena-Commando-F-Medic-L.T-Soldier-HID-216-Athena-Commando-F-Medic-L"
+          }
+        ]
+      },
+      {
+        "message": "Zeus! It's... good to see you up and about.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Zeus",
+            "characterId": "Character_StunningMountain_Armor",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_StunningMountain_Armor.Character_StunningMountain_Armor",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S29/T-Soldier-Hero-StunningMountainArmor-L.T-Soldier-Hero-StunningMountainArmor-L"
+          }
+        ]
+      },
+      {
+        "message": "Ask me anything. I'm an open medkit.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Listen, about what I did...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I don't agree with you. Your whole vendetta against mortals.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It kind of goes against my personal interests. You know, as a mortal myself.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But you were hurt. I couldn't just NOT save you. No matter what Field Surgeon thinks.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Field Surgeon hired Saskia to find me.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "She's...not too happy about something I did. Someone I saved.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But even after everything he did? He was still hurt.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "God or not, I help those who need me.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.Hire",
+        "name": "Hire",
+        "price": 200,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Hyper SMG",
+        "itemId": "WID_SMG_Paprika_DPS_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_DPS/WID_SMG_Paprika_DPS_Athena_VR.WID_SMG_Paprika_DPS_Athena_VR"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Specialist.Heavy.MadCommander",
+    "displayName": "Ruckus",
+    "specialization": "Heavy Specialist",
+    "shortDescription": "Bring the bedlam.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-262-Athena-Commando-M-MadCommander_01.T-AthenaSoldiers-CID-262-Athena-Commando-M-MadCommander_01",
+    "position": {
+      "x": -117892.0,
+      "y": 45256.0,
+      "z": 1936.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.MadCommander.Dialogue",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "Hmm?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Long ago, Ruckus belonged to Chiara's Chums!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But the Chums disbanded. Without telling Ruckus.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Now Ruckus is RUCKUS THE RABBLER! And he walks ALONE!!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Unless... you walk with Ruckus for a while...?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Who needs leader when Ruckus can be leader AND follower?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I am Ruckus!! THE LONE RABBLER!!!",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Who needs leader when Ruckus can be leader AND follower?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Cause Ruckus! Rouse rabble! BE FREE!!",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Ruckus the Rabbler follows his own path now!",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "The Chums disbanded without telling Ruckus...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Chiara",
+            "characterId": "CID_A_097_Athena_Commando_F_WastelandWarrior",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_A_097_Athena_Commando_F_WastelandWarrior.CID_A_097_Athena_Commando_F_WastelandWarrior",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-A-097-Athena-Commando-F-WastelandWarrior-L.T-Soldier-HID-A-097-Athena-Commando-F-WastelandWarrior-L"
+          }
+        ]
+      },
+      {
+        "message": "Without the Chums, Ruckus stands alone...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Power Chord",
+            "characterId": "CID_097_Athena_Commando_F_RockerPunk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_097_Athena_Commando_F_RockerPunk.CID_097_Athena_Commando_F_RockerPunk",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-097-Athena-Commando-F-RockerPunk-L.T-Soldier-HID-097-Athena-Commando-F-RockerPunk-L"
+          }
+        ]
+      },
+      {
+        "message": "Ruckus yearns for his Chums... but he must be alone...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Backbone",
+            "characterId": "CID_196_Athena_Commando_M_Biker",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_196_Athena_Commando_M_Biker.CID_196_Athena_Commando_M_Biker",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-196-Athena-Commando-M-Biker-L.T-Soldier-HID-196-Athena-Commando-M-Biker-L"
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.Hire",
+        "name": "Hire",
+        "price": 200,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Hammer Pump Shotgun",
+        "itemId": "WID_Shotgun_Pump_Paprika_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/PaprikaCoreWeapons/Items/Weapons/PaprikaShotgun_Pump/WID_Shotgun_Pump_Paprika_Athena_VR.WID_Shotgun_Pump_Paprika_Athena_VR"
+      }
+    ]
+  }
+]
