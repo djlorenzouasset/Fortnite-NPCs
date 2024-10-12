@@ -1,0 +1,388 @@
+----- NPC: Mephisto -----
+Default Dialogue: No refunds.
+Default Dialogue: No refunds.
+Default Dialogue: What would you give to receive my gift?
+First Interaction: Scrape and bow, mortal. You gaze upon Mephisto! 
+Random Dialogue: What would you give to receive my gift?
+Random Dialogue: My influence is inescapable.
+Random Dialogue: You're in Mephisto's domain. You serve at his pleasure.
+Wearing Doctor Doom, Doom: Your mother's screams echo across my realm.
+Wearing Doctor Strange: A sorceror supreme is no match for Mephisto.
+Wearing Thor, Thor Odinson: Your inner goodness radiates once more. Repulsive.
+Wearing Scarlet Witch: Wanda. How are your boys?
+Wearing Shuri: I will not lose to another Black Panther. 
+Wearing Hope, Heroic Hope: Believe me, kitten: there is no greater joy than defeating Victor Von Doom.
+Wearing Ghost Rider: Are you happy with the bargain you've made?
+Wearing Ghost Ri-Durrr: Our bargain has charred you...
+Default Dialogue: Hmm. Why not? I'll entertain your petty queries. 
+Default Dialogue: Latveria's strong-handed master will dedicate his life to power. Control. Perfection.
+Default Dialogue: But he'll never get what he truly wants.
+Default Dialogue: How lucky I am to witness his eternal torment. It is... delicious!
+Default Dialogue: Cynthia bargained with me for power. And she got it.
+Default Dialogue: She did not ask for *control* over that power... 
+Default Dialogue: That failure is the origin of her doom.
+
+
+----- NPC: Centurion -----
+Default Dialogue: Now THIS is more like it!
+First Interaction: I'm Centurion. And I'm ready to help you take on Doom.
+Random Dialogue: Now THIS is more like it!
+Random Dialogue: I was a terrible wastelander. It's good to feel like a soldier again.
+Random Dialogue: A hopeless war against a terrifying villain? WAY more my jam than some big chaotic wasteland.
+Random Dialogue: I got bored of the wasteland aesthetic pretty fast anyhow.
+
+
+----- NPC: Captain Jones -----
+Default Dialogue: What would ya like to know?
+Default Dialogue: If I never get sassed by that sentient bowl of soup again, it'll be too soon.
+Default Dialogue: That said, I respect her... even if her 'prophecies' don't tell us much.
+Default Dialogue: At least THIS ally isn't going to betray us and try to shoot me. I hope.
+Default Dialogue: Though honestly, I'd love to see her try.
+Default Dialogue: Hope's coming into her own as a hero, and I'm really proud of her.
+Default Dialogue: I remember those pressures. Saving the world is a heavy burden to bear. 
+Default Dialogue: I was like, "Why me?" "I'm just a guy!" "Who are all these heroes flying around in hi-tech suits?
+Default Dialogue: She's ready. I know she is. And we'll have her back every step of the way.
+Default Dialogue: I can't say I'm a big fan of the guy, for obvious reasons.
+Default Dialogue: He's not gonna win. I don't think. You always expect one of these to be your last, I guess.
+Default Dialogue: But Hope and the Avengers and the whole team, have got that. I believe in us.
+Default Dialogue: I think I'm done with vengeance. Time for some justice.
+First Interaction: I guess it's us vs. Doom, huh? Bring it on!
+Random Dialogue: I think I'm done with vengeance. Time for some justice.
+Random Dialogue: I figured out that there's more to life than vengeance.
+Random Dialogue: It felt really good to be mad, for a long time. But I'm done with that.
+Random Dialogue: It's been a minute since I've had to face down an apocalypse. Ah, nostalgia...
+Random Dialogue: You can call me Captain Jones. And check out... wait, where'd I put that shield...?
+Random Dialogue: Hope's facing down her proper supervillain. I'm so proud!
+Wearing Hope, Heroic Hope: You're doing great, kiddo. Keep up the fine work.
+Wearing Nisha: See what 'a strong hand' gets you? Villains, every time. Duh.
+
+
+----- NPC: Triage Trooper -----
+Default Dialogue: You hurt? I could fix that.
+First Interaction: Happy to lend a healing hand!
+Random Dialogue: You hurt? I could fix that.
+Random Dialogue: I'm always here to help! Just ask Field Surgeon.
+Random Dialogue: If you're looking for some heals, I'm your man!
+Wearing Saskia: Tell Field Surgeon I get the message. I'm done running.
+Wearing Field Surgeon: I know we don't agree on what I did, but we can still be friends. Right...?
+Wearing Zeus: Zeus! It's... good to see you up and about.
+Default Dialogue: Ask me anything. I'm an open medkit.
+Default Dialogue: Listen, about what I did...
+Default Dialogue: I don't agree with you. Your whole vendetta against mortals.
+Default Dialogue: It kind of goes against my personal interests. You know, as a mortal myself.
+Default Dialogue: But you were hurt. I couldn't just NOT save you. No matter what Field Surgeon thinks.
+Default Dialogue: Field Surgeon hired Saskia to find me.
+Default Dialogue: She's...not too happy about something I did. Someone I saved.
+Default Dialogue: But even after everything he did? He was still hurt.
+Default Dialogue: God or not, I help those who need me.
+
+
+----- NPC: War Machine -----
+Default Dialogue: You got questions for me?
+Default Dialogue: Being in this suit? I feel unstoppable. But... 
+Default Dialogue: I'd be lying if I said I enjoyed it all the time.
+Default Dialogue: In here, I can be the hero I need to be.
+Default Dialogue: But I miss just sitting at the controls. I miss being a pilot.
+Default Dialogue: Trust me, I won't rust.
+First Interaction: Looks like I really stepped in it this time.
+Random Dialogue: Trust me, I won't rust.
+Random Dialogue: I gotta get out there. Test my new toys.
+Random Dialogue: Here I am, ready to save the day.
+Wearing Peelverine: Nanamantium, huh? That's not contagious, right?
+Wearing Heroic Hope: Did your prophecy mention anything about this?
+Wearing War Machine: Well, look at you! A real tin can off the old block.
+Wearing Vengeance Jones: Vengeance is sweet, but what comes next?
+Wearing Shuri: Nice to see you're ready for a fight. Old habits, right?
+Wearing Captain Jones: I'll have to call you Captain. Cap's reserved for someone else.
+Wearing Gwenpool: Still going on about those 'comics?'
+Wearing Iron Man Mk 45: Don't let me do all the heroing for you, pal.
+
+
+----- NPC: Brite Raider -----
+Default Dialogue: It's a brite one today.
+First Interaction: This isn't the wasteland I remember...
+Wearing Rust: What do you make of all this "Doom" stuff?
+Wearing Heroic Hope, Hope: Hope! I heard you're, um, the subject of a prophecy?
+Random Dialogue: It's a brite one today.
+Random Dialogue: Hey there, Wastelander!
+Random Dialogue: Brite Raider, at your service.
+Default Dialogue: What do you wanna know?
+Default Dialogue: So, the Wanderer was Doctor Doom this whole time?
+Default Dialogue: I knew there was something up with him! Something BAD!
+Default Dialogue: I have to say, I love that there's less sand on the Island now.
+Default Dialogue: It was in my shoes, my hair, my food...
+Default Dialogue: ...and other places where sand should not go. Yikes.
+Default Dialogue: Oh, my llamacorn from back home? He's a good boy.
+Default Dialogue: ...You know, except for the biting.
+
+
+----- NPC: Gwenpool -----
+Default Dialogue: Don't tell me Teddy followed me here too...
+First Interaction: Gwendolyn Poole, at your service. Maybe. If you're cool.
+Random Dialogue: Don't tell me Teddy followed me here too...
+Random Dialogue: THAT'S your loadout? ...Really?
+Random Dialogue: If I *had* to be an NPC, at least I'm in Fortnite.
+Wearing Ravenpool, Cuddlepool, Deadpool: Once again, the naming and costume similarities were a clerical error. 
+Wearing Gwenpool: It's the GwenHive all over again.
+Default Dialogue: Sup?
+Default Dialogue: Initially, I did whatever I wanted and let the Avengers deal with it.
+Default Dialogue: But then I realized: Great power comes with... something.
+Default Dialogue: Um, what was it... "With great power comes..."
+Default Dialogue: Whatever. I'm more responsible now. Like a real hero should be.
+Default Dialogue: That's Pig-Gwen.
+Default Dialogue: YOU WILL RESPECT PIG-GWEN. Understood?
+Default Dialogue: She's my little piggy angel.
+Default Dialogue: I dunno. Pick up a weapon, aim it, and win I guess?
+Default Dialogue: If you can't do that... Skill issue, dude.
+
+
+----- NPC: Artemis -----
+Default Dialogue: Ask away, mortal.
+Default Dialogue: The story of their lineage is not mine to tell.
+Default Dialogue: Suffice to say, every family in The Society had their ties to the pantheon.
+Default Dialogue: Diluted into myth over eons, fragile as gossamer, and ultimately pointless.
+Default Dialogue: Hope will need more than an ancient lineage to recapture this Island from Doom.
+Default Dialogue: Doom is powerful and brilliant, but arrogant.
+Default Dialogue: The Oracle and her pet mortal, Hope, will defang him.
+Default Dialogue: And if they do not, well... I will find other hunting grounds to stalk.
+Default Dialogue: My family have scattered to the infinite corners of reality.
+Default Dialogue: Humbled, but free of Zeus' tyranny. It will be good for them.
+Default Dialogue: For Zeus, too, though his pride and vanity cost him his immortality.
+Default Dialogue: I have grown fond of this Island and its denizens. I will stay.
+Default Dialogue: You're getting quieter, little mouse. I'm impressed.
+First Interaction: Well met, little mouse.
+Wearing Hope, Heroic Hope: You and The Oracle have developed a kinship. Seems appropriate given your... lineage.
+Wearing Oscar: You have been a joy to hunt. Let's not end this dance prematurely.
+Wearing Medusa: You have changed the world, Medusa. Be ready to shape a better one.
+Random Dialogue: You're getting quieter, little mouse. I'm impressed.
+Random Dialogue: The hunt awaits us. 
+Random Dialogue: I have not taken mortals as hunting companions in eons. Mayhaps I will change that...
+
+
+----- NPC: Ruckus -----
+Default Dialogue: Hmm?
+Default Dialogue: Long ago, Ruckus belonged to Chiara's Chums!
+Default Dialogue: But the Chums disbanded. Without telling Ruckus.
+Default Dialogue: Now Ruckus is RUCKUS THE RABBLER! And he walks ALONE!!
+Default Dialogue: Unless... you walk with Ruckus for a while...?
+Default Dialogue: Who needs leader when Ruckus can be leader AND follower?
+First Interaction: I am Ruckus!! THE LONE RABBLER!!!
+Random Dialogue: Who needs leader when Ruckus can be leader AND follower?
+Random Dialogue: Cause Ruckus! Rouse rabble! BE FREE!!
+Random Dialogue: Ruckus the Rabbler follows his own path now!
+Wearing Chiara: The Chums disbanded without telling Ruckus...
+Wearing Power Chord: Without the Chums, Ruckus stands alone...
+Wearing Backbone: Ruckus yearns for his Chums... but he must be alone...
+
+
+----- NPC: Iron Man -----
+Default Dialogue: A question? Excellent. I'm my favorite conversation topic.
+Default Dialogue: Doom's always had some scheme or another up his sleeve.
+Default Dialogue: Doesn't really surprise me he wants to turn your island into his own little Latveria.
+Default Dialogue: Say what you want, but he keeps a tight ship. Latveria's clean as a whistle.
+Default Dialogue: So long as you don't mind the whole 24/7 surveillance thing.
+Default Dialogue: Yep, that's me. I am Iron Man.
+Default Dialogue: Though, really it's a titanium-gold alloy. Iron just wasn't cutting it strength-wise.
+Default Dialogue: Still, it's got a nice ring to it, don't you think?
+Default Dialogue: The name, I mean. Iron itself actually makes a sort of dull "clunk" sound.
+Default Dialogue: Is it a job for Iron Man?
+First Interaction: I am Iron Man. Obviously.
+Wearing War Machine: Rhodey! What did you do to your suit?
+Wearing Captain Jones: Nice shield. Really adds to the whole ensemble.
+Wearing Hope, Heroic Hope: The secret to being a hero? Your brain's your best weapon.
+Wearing Shuri: I've already told you, Shuri, I can upgrade my own suit.
+Wearing Gwenpool: I don't care how many walls there are, I can break through anything.
+Wearing Peelverine: So your skeleton is wrapped in... nanamantium? What's that like?
+Random Dialogue: Is it a job for Iron Man?
+Random Dialogue: Find any of my tech? Helpful, right?
+Random Dialogue: What, you've never seen an Iron Man before?
+
+
+----- NPC: Heroic Hope -----
+Default Dialogue: How can I help?
+Default Dialogue: I can't say I recommend being the subject of a prophecy.
+Default Dialogue: It's... pretty terrifying.
+Default Dialogue: Plus, now I have to run all of my life decisions past a sentient glass of water. 
+Default Dialogue: A very wise glass of water. But a glass of water nonetheless.
+Default Dialogue: Any news?
+First Interaction: Doom won't get away with this.
+Random Dialogue: Any news?
+Random Dialogue: You got something for me?
+Random Dialogue: You're back. What's up?
+Wearing Vengeance Jones: Come to give me ANOTHER pep talk? 
+Wearing Starr Oakley: I'm glad you're here. Are you ready for The Underground's final ride?
+Wearing Rufus: Hey, buddy. Glad you're still fighting at my side.
+Wearing Blair: I'm glad to have you, and the rest of The Underground, beside me in this fight.
+
+
+----- NPC: Pumpkin King -----
+Default Dialogue: Now, what might I do for you on this haunting evening?
+First Interaction: Boo! That is to say, hello! I am Jack Skellington, the Pumpkin King.
+Random Dialogue: Now, what might I do for you on this haunting evening?
+Random Dialogue: Ah, my friend. It's always a pleasure to see you. Ready for some chills?
+Random Dialogue: My, you're looking marvelously ghoulish today.
+Wearing Jack Skellington, Pumpkin King: Why, it's like looking in a mirror!
+Wearing Edward Scissorhands: My, my. I bet you're an exceptional pumpkin carver!
+Default Dialogue: Go on. Ask away!
+Default Dialogue: Why, that's me! Jack Skellington, the Pumpkin King, at your service.
+Default Dialogue: Though, truth be told, I've grown rather weary of my lot.
+Default Dialogue: Make no mistake, I still enjoy scaring children and ghouls alike.
+Default Dialogue: But sometimes, I wonder if there might be something… more.
+Default Dialogue: Ah, Zero! My trusted ghost dog. His nose glows, you know.
+Default Dialogue: You'll never meet a more faithful spectral beast, mark my words.
+Default Dialogue: Oh, and he ADORES playing fetch. If you see him, be sure to remember that!
+
+
+----- NPC: Andy Fangerson -----
+Default Dialogue: *sniffs the air* I sense you have a question. What is it?
+Default Dialogue: Sports are my life.
+Default Dialogue: Yeah, I'm pretty competitive... *smirk*
+Default Dialogue: But I can't resist the thrill of a good match!
+Default Dialogue: Some creatures only shapeshift during a full moon.
+Default Dialogue: NOT ME. This is who I am, 24/7.
+Default Dialogue: If you STAY ready, you ain't gotta GET ready.
+Default Dialogue: Feeling the need to HOWL!
+First Interaction: *sniffs vigorously* Ah, someone new. 'Sup!
+Random Dialogue: Feeling the need to HOWL!
+Random Dialogue: *fist bump* Wanna shoot some hoops?
+Random Dialogue: I run with a wild pack.
+Wearing Knightmare: *hackles rise* Move along, knight. Nothing to see here.
+Wearing Edward Scissorhands: *squints* Keep those hands away from my luxurious mane...
+
+
+----- NPC: Dark Ruby -----
+Default Dialogue: This place is so "spooky", sure.
+First Interaction: Welcome to the nitemare, I guess.
+Random Dialogue: This place is so "spooky", sure.
+Random Dialogue: I'm scarier than anything on this Island.
+Random Dialogue: I've been more scared at the grocery store.
+Random Dialogue: You're looking grave. That's not a pun, are you okay?
+Wearing Ruby: Why do you look so scared?
+
+
+----- NPC: Peabody -----
+Default Dialogue: Who'd you like to s-pea-k to?
+Default Dialogue: Mfmffhfmmf--
+Default Dialogue: --ffmfmffmdff--
+Default Dialogue: *gasp* sorry. Got stuck in the pod flaps. Whaddya want?
+Default Dialogue: I don't mind being the middle pea.
+Default Dialogue: I'm not the strong foundation, or the face of the business...
+Default Dialogue: I'm just me. Earl. How's it goin'?
+Default Dialogue: Yeah, I'm the top pea around here.
+Default Dialogue: The boys thought I had the right charm to be the face of this operation.
+Default Dialogue: And I mean... are they wrong? *wink*
+Default Dialogue: How can Phil help you today?
+First Interaction: Phil, Earl and Axle, at your service!
+Random Dialogue: How can Phil help you today?
+Random Dialogue: Earl, here. Looking for a tune up?
+Random Dialogue: Mffphffis - UGH! Listen, it's Axle! I need-
+Wearing Heroic Hope: You and fighting-evil-in-the-name-of-good. Like two peas in a pod.
+Wearing Vengeance Jones: Still seeking vengence, huh? Earl can understand that.
+Wearing Ruckus: Mmmff! Mfff - Ruckus? What happened to the Chums?
+
+
+----- NPC: Shuri -----
+Default Dialogue: What can I do for you?
+Default Dialogue: My brother was the Black Panther before me. He was kind, strong, and driven.
+Default Dialogue: After our last encounter with Doom, he almost fell.
+Default Dialogue: So I took on the mantle of Black Panther.
+Default Dialogue: I am grateful my brother survived. I know of great warriors who were not so lucky.
+Default Dialogue: Vibranium is a metal found all over Wakanda.
+Default Dialogue: It's strong, and can absorb and reflect kinetic energy like nothing else.
+Default Dialogue: Though I've heard of another metal here that is quite strong.
+Default Dialogue: Have you heard of nanamantium?
+Default Dialogue: You would not believe how many people call it a 'catsuit.'
+Default Dialogue: The Black Panther is a mantle. A responsibility to protect Wakanda and her people.
+Default Dialogue: It is not a costume.
+Default Dialogue: I miss Wakanda.
+First Interaction: Doom thinks he can stop us. Let's show him he's wrong.
+Random Dialogue: I miss Wakanda.
+Random Dialogue: Nothing can stop us. Not even Doom.
+Random Dialogue: Do not upset me, or I'll show you the claws of Wakanda.
+Wearing War Machine: All those weapons are nothing compared to my claws.
+Wearing Captain Jones: Enjoying the shield? There's nothing quite like vibranium.
+Wearing Hope, Heroic Hope: You really listen to a pool of water? What's that like?
+Wearing Peelverine: I've heard a lot about you. What would win, my vibranium, or your nanamantium?
+Wearing Black Panther: T'Challa! It is good to see you, brother.
+Wearing Iron Man Mk 45: When are you going to let me give you an upgrade?
+
+
+----- NPC: Nisha -----
+Default Dialogue: Ask away. I cannot afford secrets now anyhow.
+Default Dialogue: You mean, if we win against this Doctor Doom?
+Default Dialogue: My estate is gone. Kavel and I have been left with nothing.
+Default Dialogue: But I have my brother, my foil, and my keen mind, so...
+Default Dialogue: We will build a new future, if we have to.
+Default Dialogue: Growing up, Hope was not what you'd call a 'natural leader'.
+Default Dialogue: Once she grew a conscience, she became... unpopular with our peers.
+Default Dialogue: If her family's background wasn't impeccable... ah, but enough about that.
+Default Dialogue: She's growing into leadership now, it seems. She'd better not falter.
+Default Dialogue: Yes, I have... reluctantly... joined Hope's little rebellion.
+Default Dialogue: She has a point. The Society was good to its members. Not so much anyone else.
+Default Dialogue: And Doom offers a compelling shared villain, of course.
+Default Dialogue: I... don't hate the idea of a better, kinder world.
+Default Dialogue: I do not miss The Society... but sometimes I miss knowing the hierarchy of things.
+First Interaction: I am Nisha, newly of The Underground. Much to my chagrin.
+Random Dialogue: I do not miss The Society... but sometimes I miss knowing the hierarchy of things.
+Random Dialogue: I thought the Island could use a strong hand. Doom has proven that analysis... flawed.
+Random Dialogue: This Island is swarming with superheroes. They can be a bit much.
+Random Dialogue: I guess this is the start of my rebellious phase. Hm.
+Wearing Hope, Heroic Hope: I will work with you, Hope. But that does not make us friends.
+Wearing Kavel: Our parents would despise The Underground. That... almost makes this fun.
+Wearing Vengeance Jones: I am sorry about your banana friend. For what that's worth.
+Wearing Oscar: It feels odd to say, but you seem... freer, now that you're on your own.
+Wearing Montague: I've thrown in with The Underground. If you cannot beat them, etc.
+Wearing Medusa: I heard you helped dethrone a god. You seem like someone I should know.
+Wearing Starr Oakley: I'll put down my foil if you'll put down your bow. Allies?
+Wearing Rufus: You're part of The Underground? That's... wonderful...
+Wearing Blair: I'm Nisha. I'm new to The Underground. Which I imagine you'd guessed.
+
+
+----- NPC: Edward Scissorhands -----
+Default Dialogue: ...
+First Interaction: I'm Edward...
+Random Dialogue: ...
+Random Dialogue: Hello.
+Random Dialogue: Hello friend.
+Wearing Edward Scissorhands: You're like me. I'm sorry.
+Default Dialogue: ...
+Default Dialogue: I'm good at cutting plants.
+Default Dialogue: So I cut them into shapes.
+Default Dialogue: For my friends.
+Default Dialogue: Play scissors what?
+
+
+----- NPC: Knightmare -----
+Default Dialogue: How can I help?
+Default Dialogue: Once, I hunted a dozen wraiths, single-handed.
+Default Dialogue: They'd tormented a small town for weeks.
+Default Dialogue: A Shockwave Grenade took care of business!
+Default Dialogue: My favorite prey? 
+Default Dialogue: Anything that creeps in the night.
+Default Dialogue: ESPECIALLY those that terrorize in dreams.
+Default Dialogue: I will stop at nothing to keep the nightmares at bay.
+First Interaction: You've found me. Greetings.
+Random Dialogue: I will stop at nothing to keep the nightmares at bay.
+Random Dialogue: I am at war with the hideous beasts that lurk in the shadows...
+Random Dialogue: Nightmares?? *laugh* I don't fear them. They fear ME.
+Random Dialogue: Hmm... How do I get up there?
+Wearing Peely Bone: A banana skeleton? Now I really have seen everything.
+Wearing Brite Raider: Ugh. Keep your Bitey llamacorn away from me.
+
+
+----- NPC: Rust -----
+Default Dialogue: Yeah, I can spare a clang. What's up?
+Default Dialogue: Sure, he got rid of Megalo Don...
+Default Dialogue: ...but he crushed the spirit of the Wasteland along the way.
+Default Dialogue: He'll pay for that. I'll do whatever it takes to help Hope take him down.
+Default Dialogue: The spirit of the Wasteland blew up with the pipeline.
+Default Dialogue: Sure the sand is still there, but... it's just not the same.
+Default Dialogue: I'll find somewhere else that gives me that rowdy feeling... I just know it.
+Default Dialogue: I miss the thrashin', scrappin' sands...
+First Interaction: The wasteland is gone... in spirit, at least...
+Random Dialogue: I miss the thrashin', scrappin' sands...
+Random Dialogue: This place is so different now.
+Random Dialogue: *sigh* I got sand in my teeth again. Just like old times.
+Wearing Dummy: Doom took down the wasteland. So we gotta take down Doom.
+
+
