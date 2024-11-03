@@ -34,6 +34,8 @@ All the informations are stored in the [NPCS folder](./NPCS/). Every update has 
         - [v31.20](./NPCS/Chapter%205%20Season%204/v31.20/)
         - [v31.30](./NPCS/Chapter%205%20Season%204/v31.30/)
         - [v31.40](./NPCS/Chapter%205%20Season%204/v31.40/)
+    - [Chapter 2: Remix](./NPCS/Chapter%202%20Remix/)
+        - [v32.00](./NPCS/Chapter%202%20Remix/v32.00/) (Bosses only)
 
 ## Authors
 - [ᴅᴊʟᴏʀ3xᴢo](https://twitter.com/djlorenzouasset)
