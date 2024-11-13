@@ -1,0 +1,190 @@
+[
+  {
+    "tagName": "AISpawnerData.Type.Boss.Clyde.Yacht",
+    "displayName": "Meowdas",
+    "shortDescription": "Say hello to buff kitty.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-693-Athena-Commando-M-BuffCat.T-AthenaSoldiers-CID-693-Athena-Commando-M-BuffCat",
+    "dialogues": [
+      {
+        "message": "Hmm... Yes?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'm a little busy. Keep it moving.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "*hiss*...",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Boss.Clyde.OilRig",
+    "displayName": "Dynamo TNTina",
+    "description": "Demolition Specialist. Has a boom bow and knows how to use it!",
+    "shortDescription": "Makes BIG BOOMS!",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-691-Athena-Commando-F-TNTina.T-AthenaSoldiers-CID-691-Athena-Commando-F-TNTina",
+    "dialogues": [
+      {
+        "message": "What's up?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Welcome to the blast zone.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You're blowing up my spot.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Boss.Clyde.CattyCorner",
+    "displayName": "Kit",
+    "shortDescription": "Kit the cat.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/T-Soldier-HID-776-Athena-Commando-M-ProfessorPup.T-Soldier-HID-776-Athena-Commando-M-ProfessorPup",
+    "dialogues": [
+      {
+        "message": "Mrow?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Were we in the same litter?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Keep it movin' kitty cat. I'm on a mission to defend this place from intruders!",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Boss.Clyde.Grotto",
+    "displayName": "Eminem",
+    "shortDescription": "An actual rap deity.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S32/T_AthenaSoldiers_ClayPlug.T_AthenaSoldiers_ClayPlug",
+    "dialogues": [
+      {
+        "message": "Yeah?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Chainsaws and spaghetti. What else?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Just a feeling I've got, like something's about to happen, but I don't know what.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.Clyde.Boss.AdvBoss",
+    "displayName": "Undercover Skye",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-690-Athena-Commando-F-Photographer.T-AthenaSoldiers-CID-690-Athena-Commando-F-Photographer",
+    "dialogues": [
+      {
+        "message": "Adventure calls!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Ooh, I've gotta burn off this excited energy!! Maybe some light pacing'll do the trick...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Have you heard?! Something big is coming!!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Adventure calls!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Come back later. The show in the sky will be legendary.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I've heard the sunset is beautiful out here. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Adventure calls!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "FINS WHERE I CAN SEE 'EM-- oh, you're not the shark I'm looking for.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Gear up and get outta here. And NO BITING!! I'll be watching you...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Adventure calls!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "If you haven't seen any spaghetti or chainsaws... all we can do is gear up and go.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Um... is this where I pick up my free spaghetti with the purchase of any chainsaw?",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Boss.Clyde.Agency",
+    "displayName": "Snoop Dogg",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S32/T_AthenaSoldiers_LemonCartGranite.T_AthenaSoldiers_LemonCartGranite",
+    "dialogues": [
+      {
+        "message": "What's poppin'?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Leave the Snooping around to me. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Welcome to the Doggpound.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Boss.Clyde.Shark",
+    "displayName": "Ice Spice",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S32/T_AthenaSoldiers_BerryTartBrunt.T_AthenaSoldiers_BerryTartBrunt",
+    "dialogues": [
+      {
+        "message": "Grah.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "What are you lookin' at?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Can I help you?",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": []
+  }
+]

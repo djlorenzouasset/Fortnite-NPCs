@@ -1,0 +1,51 @@
+----- NPC: Meowdas -----
+Default Dialogue: Hmm... Yes?
+Default Dialogue: I'm a little busy. Keep it moving.
+Default Dialogue: *hiss*...
+
+
+----- NPC: Dynamo TNTina -----
+Default Dialogue: What's up?
+Default Dialogue: Welcome to the blast zone.
+Default Dialogue: You're blowing up my spot.
+
+
+----- NPC: Kit -----
+Default Dialogue: Mrow?
+Default Dialogue: Were we in the same litter?
+Default Dialogue: Keep it movin' kitty cat. I'm on a mission to defend this place from intruders!
+
+
+----- NPC: Eminem -----
+Default Dialogue: Yeah?
+Default Dialogue: Chainsaws and spaghetti. What else?
+Default Dialogue: Just a feeling I've got, like something's about to happen, but I don't know what.
+
+
+----- NPC: Undercover Skye -----
+Default Dialogue: Adventure calls!
+Default Dialogue: Ooh, I've gotta burn off this excited energy!! Maybe some light pacing'll do the trick...
+Default Dialogue: Have you heard?! Something big is coming!!
+Default Dialogue: Adventure calls!
+Default Dialogue: Come back later. The show in the sky will be legendary.
+Default Dialogue: I've heard the sunset is beautiful out here. 
+Default Dialogue: Adventure calls!
+Default Dialogue: FINS WHERE I CAN SEE 'EM-- oh, you're not the shark I'm looking for.
+Default Dialogue: Gear up and get outta here. And NO BITING!! I'll be watching you...
+Default Dialogue: Adventure calls!
+Default Dialogue: If you haven't seen any spaghetti or chainsaws... all we can do is gear up and go.
+Default Dialogue: Um... is this where I pick up my free spaghetti with the purchase of any chainsaw?
+
+
+----- NPC: Snoop Dogg -----
+Default Dialogue: What's poppin'?
+Default Dialogue: Leave the Snooping around to me. 
+Default Dialogue: Welcome to the Doggpound.
+
+
+----- NPC: Ice Spice -----
+Default Dialogue: Grah.
+Default Dialogue: What are you lookin' at?
+Default Dialogue: Can I help you?
+
+
