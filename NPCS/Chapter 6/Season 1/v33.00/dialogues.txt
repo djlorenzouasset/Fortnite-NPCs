@@ -1,0 +1,253 @@
+----- NPC: Vi -----
+Default Dialogue: What do you need to know?
+Default Dialogue: We made peace with the River Guard a while back... but I don't trust it.
+Default Dialogue: After all, you can stitch up a wound, but the scar remains.
+Default Dialogue: Still. If they've decided to put the war behind us, maybe we can have peace.
+Default Dialogue: I'll believe it when I see it.
+Default Dialogue: Fox Clan used to have magical masks, many ages ago.
+Default Dialogue: A family of artisans from this Island knew the secret to making them. But they got overambitious.
+Default Dialogue: They created dangerous Masks of Power, which caused the Shattering War.
+Default Dialogue: Magic was banished. Masks were shattered. And, of course, Fox Clan was blamed.
+Default Dialogue: Fox Clan have survived a lot of rough times. Made dangerous enemies.
+Default Dialogue: And now, we're back where it all began. Right here.
+Default Dialogue: Demons, magical masks, it's like the old stories are coming to life.
+Default Dialogue: Those stories didn't go great for us, the first time 'round.
+Default Dialogue: Keep your eyes peeled. Enemies might be lurking.
+First Interaction: Greetings from the Fox Clan.
+Random Dialogue: Keep your eyes peeled. Enemies might be lurking.
+Random Dialogue: You never know what stalks the shadows...
+Random Dialogue: Are you on Fox Clan business?
+Wearing Mizuki: Empress. I'm not looking for any trouble.
+Wearing Drift: I told you. You pick up strays, you have to train 'em.
+Wearing Stray: Drift's not here, little kit. Go play somewhere else.
+Wearing Catalyst: I'm hearing rumors of magic masks. That means trouble.
+Wearing Kimiko Five-Tails: I'm worried about these masks, guardian. 
+Wearing Vox Hunter: What are the poets saying about us, Voxy?
+Wearing Daigo: I just hope you're not like your foolish ancestors. 
+
+
+----- NPC: Vengeance Jones -----
+Default Dialogue: What?
+Default Dialogue: Hope and I are looking for something.
+Default Dialogue: ... That's all you're getting.
+Default Dialogue: I guess change doesn't always stick.
+First Interaction: Hey. It's you again.
+Random Dialogue: I guess change doesn't always stick.
+Random Dialogue: I'm on a mission.
+Random Dialogue: When you're in a suspicious mood, everyone seems supicious.
+Random Dialogue: Magic. Huh.
+Wearing Shadow Blade Hope: I like the new look. Very "parkour".
+Wearing Daigo: You're not telling us everything.
+Wearing Kendo: Real life isn't a story, buddy.
+Wearing Jade: Hm. What did curiosity do to the cat again?
+Wearing The Night Rose: Just try me, demon.
+
+
+----- NPC: Daigo -----
+Default Dialogue: Are you sure you're in the right place? I have a specific clientele.
+First Interaction: Hm. What brings someone like... you... to The Thousand Faces?
+Random Dialogue: Are you sure you're in the right place? I have a specific clientele.
+Random Dialogue: 100% off all non-magical masks. We're done with those.
+Wearing Kendo: What do you want?
+Wearing Jade: What's today's adventure then?
+Wearing Hope, Heroic Hope, Shadow Blade Hope: Hm. I don't know you... and I know everyone.
+Wearing Vengeance Jones: Stay out of my business, stranger, and I'll stay out of yours.
+Default Dialogue: What would you like to know?
+Default Dialogue: People cannot cross into the Spirit Realm. Only demons.
+Default Dialogue: I'll admit, I have a burning curiosity to see that world.
+Default Dialogue: What ancient secrets it may be keeping...
+Default Dialogue: But even I can't cross the threshold. Yet.
+Default Dialogue: Kendo styles himself as a warrior of old, but he's just restless and bored.
+Default Dialogue: He seeks some great purpose... Fool. We make our own purpose.
+Default Dialogue: Jade is reckless, but brilliant. Maybe the smartest person I've met, aside from myself.
+Default Dialogue: She'll change this world, if she doesn't destroy herself in the process.
+Default Dialogue: As the eldest son, I inherited the shop from my grandfather.
+Default Dialogue: Once upon a time, we made great, magical Masks of Power.
+Default Dialogue: But my ancestors burned the secrets to crafting them.
+Default Dialogue: I've unlocked rudimentary mask magic, but if I could make a true Mask of Power...
+
+
+----- NPC: Jade -----
+Default Dialogue: What are you curious about?
+Default Dialogue: The sprites are somehow connected to the magic of this Island. It's fascinating.
+Default Dialogue: If you can bring me a sprite, you'll be rewarded. I'd love to see one of those little guys up close!
+Default Dialogue: Everyone says the old stories are about war.
+Default Dialogue: But they aren't. Not really. They're about BALANCE.
+Default Dialogue: When the Island is in balance, things are amazing.
+Default Dialogue: The Island isn't in balance, right now. I want to fix that.
+Default Dialogue: My brother Kendo is a warrior without a teacher.
+Default Dialogue: He loves magic, and stories of noble warriors.
+Default Dialogue: He thinks I'm reckless. I think he's naive. We... argue.
+Default Dialogue: But he's got the purest heart I know. I hope it's enough...
+Default Dialogue: My eldest brother Daigo is a... frustrated genius.
+Default Dialogue: He hates that our family only makes ceremonial, non-magical masks.
+Default Dialogue: The old stories say, magical masks led to the banishment of magic.
+Default Dialogue: He's my favorite person... but he's really stubborn. And maybe dangerous.
+Default Dialogue: This Island is special. It needs protection.
+First Interaction: Hey. I'm Jade. Are you new around here?
+Random Dialogue: This Island is special. It needs protection.
+Random Dialogue: I want to see every nook and cranny of this whole Island!
+Random Dialogue: My brothers don't understand. It's all about balance.
+Random Dialogue: I keep being stalked by demons. Ha! As if that will scare me.
+Random Dialogue: The sprites... I can feel a special connection with them. It's beautiful.
+Wearing Kendo: Stop trying to protect me. I'm in charge of my story, not you.
+Wearing Daigo: They'll tell stories of you someday, brother. Make them good ones.
+Wearing The Night Rose: You deserve your freedom. Everyone does.
+Wearing Helsie: Is that... Helsie?? Wow. It's been ages.
+
+
+----- NPC: Bushranger -----
+Default Dialogue: Friendfriend have question? Bushy have answer... maybe.
+Default Dialogue: Nightday odd in thisplace. Rules different. Nature strange.
+Default Dialogue: Bushy can talk to spritefriends. Help sun come home. Wake up forest!
+Default Dialogue: Bushy always happy to help friendfriend and forest.
+Default Dialogue: Nightday weird here. Bushy can help!
+First Interaction: Bushybushy forest guardian!
+Random Dialogue: Nightday weird here. Bushy can help!
+Random Dialogue: Dayforest has sunshine! Thank the spritefriends!
+Wearing Jade: Bushy protect forest for newfriend Jade!
+Wearing Kendo: Bushy won't let demons mess with forest!
+
+
+----- NPC: Mizuki -----
+Default Dialogue: What has the current brought me, hm?
+First Interaction: The River Guard welcomes you. If you do not try our patience.
+Random Dialogue: What has the current brought me, hm?
+Random Dialogue: Welcome to River Guard's domain. At least, part of it.
+Wearing Kendo: You will not find your purpose here, warrior.
+Wearing Jade: They call you reckless. I prefer relentless, like the tide.
+Wearing Daigo: You swim dark waters, mask maker. Beware they don't drown you.
+Wearing Shadow Blade Hope: What you seek is here, yet... not here. Good luck.
+Wearing Vi: We have no quarrel with the Fox Clan... for now.
+Wearing Stray: Keep your eyes sharp, brother. Darkness stirs beneath the surface.
+Wearing Drift: Watch yourself, little fox.
+Wearing TBD: The heart of the ocean beats within you, dragon warrior.
+Default Dialogue: What would you like to know?
+Default Dialogue: These magical masks stink of old, dangerous magic.
+Default Dialogue: The very magic we waged a war to destroy.
+Default Dialogue: Of course they are useful. But power has a cost.
+Default Dialogue: Feel free to pay it. I, myself, will abstain.
+Default Dialogue: The Fox Clan are not malicious, but... they have made mistakes.
+Default Dialogue: Long ago, their mask maker forged masks of ruinous power.
+Default Dialogue: Even once they realized their folly, it almost tore this Island apart.
+Default Dialogue: Magic was banished, to protect us. And now... it has returned.
+Default Dialogue: Ever since some... unfortunate history, the River Guard keep to ourselves.
+Default Dialogue: Trust, once broken, is not easily mended.
+Default Dialogue: Once upon a time, an ambitious artisan chased power, and a war erupted.
+Default Dialogue: The lessons learned have been forgotten. The reminder will be sharp.
+
+
+----- NPC: Kendo -----
+Default Dialogue: This Island sure is beautiful, isn't it?
+First Interaction: Nice to meet you.
+Random Dialogue: This Island is beautiful. I'm proud to protect it.
+Random Dialogue: Never thought I'd get to see real magic...
+Wearing Daigo: I don't need another lecture, brother.
+Wearing Jade: Be careful, Jade. You're going to get yourself hurt.
+Wearing The Night Rose: What do you want, demon?
+Wearing Shadow Blade Hope: Don't worry, Hope. I have your back.
+Default Dialogue: What would you like to know?
+Default Dialogue: My whole life, I've felt like there is some great purpose awaiting me.
+Default Dialogue: I've always looked up to the warriors of old. Their skill, their honor.
+Default Dialogue: If I'd had a true master, perhaps I could be this Island's protector...
+Default Dialogue: But until then, I guess I'm waiting for my destiny to begin.
+Default Dialogue: Jade's a marvel. A whirlwind of energy and insight.
+Default Dialogue: Nobody knows this Island, or has found as many of its secrets, as Jade.
+Default Dialogue: But she's... reckless. And burdened by a duty she puts on herself.
+Default Dialogue: If she's not careful... but I hate to think about that.
+Default Dialogue: Daigo is my eldest brother, a mask maker of some repute.
+Default Dialogue: He inherited the family mask shop, The Thousand Faces.
+Default Dialogue: He is brilliant... and selfish, and overambitious, and...
+Default Dialogue: We don't get along. But we love each other.
+
+
+----- NPC: Helsie -----
+Default Dialogue: Keep your eyes peeled for... creatures of the night!!
+First Interaction: Heya! How can the High Stakes Club help you out?
+Random Dialogue: Keep your eyes peeled for... creatures of the night!!
+Random Dialogue: Watch out for demons out there!
+Random Dialogue: I'm used to vampires and monsters, but demons?? That's new.
+Random Dialogue: Stake holstered and eyes on a swivel!
+Random Dialogue: Demons, sprites, magic... it's just like in the old stories.
+Random Dialogue: I can't believe we're seeing actual, real magic!!
+Wearing Joni the Red, Joni the Scarlet: We're surrounded by actual magic. How cool is that??
+Wearing Lucien West, Formal Lucien West: Remember to take care of yourself too, Lucien.
+Wearing Jade: Jade!! It's been ages. How've you been?
+Wearing Shadow Blade Hope: High Stakes Club is happy to help with your... artifact search?
+Default Dialogue: What would ya like to know??
+Default Dialogue: The gang's still kicking! Me, Lucien, Joni...
+Default Dialogue: For pretty much forever, we've operated in the shadows.
+Default Dialogue: Nobody believed us that vampires and monsters existed!
+Default Dialogue: But I guess they can't really argue if demons exist when they're so... everywhere.
+
+
+----- NPC: Nyanja -----
+Default Dialogue: Yo.
+First Interaction: Hey.
+Random Dialogue: Yo.
+Random Dialogue: Sup.
+Random Dialogue: You good?
+Random Dialogue: Mrow.
+Random Dialogue: *coughs* Ugh, hairball.
+Wearing Shadow Blade Hope: You been practicing those wall kicks like I showed you?
+Wearing Meowscles: You could probably climb pretty fast with... those arms...
+Wearing Oscar: Uh, wow, you are... definitely a big cat.
+Wearing Meowdas: So, new best friend, what's this about a golden touch?
+Default Dialogue: What's up, big cat?
+Default Dialogue: Every year, both sides of the canyon town race to see who can cross the canyon fastest.
+Default Dialogue: The winner gets free buns for a year. And their side of the canyon gets bragging rights.
+Default Dialogue: Let's say I've won MULTIPLE times...
+Default Dialogue: Twice. I've, uh... I've won twice.
+
+
+----- NPC: Ryūji -----
+Default Dialogue: May the seas always carry you home.
+First Interaction: May the sea dragon keep you.
+Random Dialogue: May the seas always carry you home.
+Random Dialogue: May you be blessed by the sun, the moon and the waves.
+Wearing Kendo: I see the restless warrior in you. You will find your purpose.
+Default Dialogue: What would you like to know?
+Default Dialogue: I am duty-bound to help all creatures of the sea who need assistance.
+Default Dialogue: This great turtle is afflicted with darkness and loneliness both.
+Default Dialogue: If the darkness can be removed... well, I must focus on that first.
+Default Dialogue: But if I could also help this turtle locate his lost love, my duty would be complete.
+Default Dialogue: I carry the heart of the lost sea dragon within me.
+Default Dialogue: What does that mean? Honestly... I am not totally sure.
+Default Dialogue: I am duty-bound to carry out the dragon's oaths, and search for its lost bones.
+Default Dialogue: I am sworn to it, and that purpose gives me comfort.
+
+
+----- NPC: Cinder -----
+Default Dialogue: Call me Cinder. You know, the start of a flame.
+First Interaction: Lets. Burn. SOME. RUBBER!
+Random Dialogue: Call me Cinder. You know, the start of a flame.
+Random Dialogue: I'm a bit of a wildfire.
+Random Dialogue: Burn fast and LIGHT UP THE NIGHT!
+Random Dialogue: I ride by the light of all the bridges I've burned.
+Wearing Malik: Outfit reaction.
+
+
+----- NPC: Shadow Blade Hope -----
+Default Dialogue: What do you want to know?
+Default Dialogue: Jones and I are searching for... something, in this reality.
+Default Dialogue: I can't say much, but it's.. like Pandora's Box. 
+Default Dialogue: That's as much as I can tell you, at least for now.
+Default Dialogue: Because I don't think Jones and I are the only ones looking for it.
+Default Dialogue: Yeah, I'm... trying to figure out who I am. And who I want to be.
+Default Dialogue: Does The Underground define me? Does The Society? My name? My art?
+Default Dialogue: What's out there for me, beyond painting the future and squaring up with megalomaniacal bullies?
+Default Dialogue: I'm, uh... figuring it all out. And Jones is helping.
+Default Dialogue: This is my first time hopping to a new reality with Jones.
+Default Dialogue: I've never been this far from home before. It's... a lot. 
+Default Dialogue: This world is so beautiful and magical and... I'm a little overwhelmed.
+Default Dialogue: I guess every new thing is a little scary at first.
+Default Dialogue: Where could it be...?
+First Interaction: Hey. Been a minute.
+Random Dialogue: Where could it be...?
+Random Dialogue: Keep your eyes out for... those sprite things.
+Random Dialogue: This place is kind of amazing.
+Wearing Vengeance Jones: You're very casual about this whole 'reality-hopping' stuff.
+Wearing Kendo: We make a good team. At least for demon hunting.
+Wearing Daigo: My gut tell me not to trust you. My gut's rarely wrong.
+
+
