@@ -5,6 +5,11 @@
     "specialization": "Scout Specialist",
     "shortDescription": "Always the hunter. Never the hunted.",
     "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/T_AthenaSoldiers_FoxWarriorF.T_AthenaSoldiers_FoxWarriorF",
+    "position": {
+      "x": 64300.0,
+      "y": 55056.0,
+      "z": 3120.0
+    },
     "dialoguesTags": [
       "Conversation.Entry.FoxWarrior.Dialogue",
       "Conversation.Entry.BasicServices",
@@ -200,6 +205,11 @@
     "displayName": "Vengeance Jones",
     "shortDescription": "Iconic renegade on a mission for retribution.",
     "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S28/T-AthenaSoldiers-Character-UndergroundRebel-Fashion.T-AthenaSoldiers-Character-UndergroundRebel-Fashion",
+    "position": {
+      "x": 64360.0,
+      "y": 92584.0,
+      "z": 4008.0
+    },
     "dialoguesTags": [
       "Conversation.Entry.Season33.Weaponexpertise.Tutorial.01",
       "Conversation.Entry.Season33.Weaponexpertise.SMG.Complete.01",
@@ -333,6 +343,11 @@
     "displayName": "Daigo",
     "shortDescription": "Man of a thousand faces. ",
     "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/T_AthenaSoldiers_MistMylar_Claw.T_AthenaSoldiers_MistMylar_Claw",
+    "position": {
+      "x": 14704.0,
+      "y": 70136.0,
+      "z": 4440.0
+    },
     "dialogues": [
       {
         "message": "Are you sure you're in the right place? I have a specific clientele.",
@@ -480,6 +495,11 @@
     "displayName": "Jade",
     "shortDescription": "Discover the Island's myths.",
     "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/T_AthenaSoldiers_PolishedJade_Mind.T_AthenaSoldiers_PolishedJade_Mind",
+    "position": {
+      "x": -64823.816,
+      "y": -16447.797,
+      "z": 1000.0
+    },
     "dialoguesTags": [
       "Conversation.Entry.PolishedJade.Dialogue",
       "Conversation.Entry.BasicServices",
@@ -647,6 +667,11 @@
     "displayName": "Bushranger",
     "shortDescription": "He's one scrappy little tree.",
     "sidePanelIcon": "/NPCLibrary/NPCs/Bushranger/Bushranger/Render/T-AthenaSoldiers-CID-611-AthenaCommando-M-Weepingwoods_04.T-AthenaSoldiers-CID-611-AthenaCommando-M-Weepingwoods_04",
+    "position": {
+      "x": -93400.0,
+      "y": -1468.0,
+      "z": 5464.0
+    },
     "dialoguesTags": [
       "Conversation.Entry.Bushranger.Dialogue",
       "Conversation.Entry.Season22.Narrative.Q12",
@@ -738,6 +763,11 @@
     "specialization": "Supply Specialist",
     "shortDescription": "The depth of the ocean. The rage of the storm.",
     "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-Character-NitroFlow-Royal.T-AthenaSoldiers-Character-NitroFlow-Royal",
+    "position": {
+      "x": -35172.04,
+      "y": -35991.367,
+      "z": 2976.0
+    },
     "dialogues": [
       {
         "message": "What has the current brought me, hm?",
@@ -936,6 +966,11 @@
     "displayName": "Kendo",
     "shortDescription": "A wandering rōnin with a restless spirit.",
     "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/T_AthenaSoldiers_CubicVice.T_AthenaSoldiers_CubicVice",
+    "position": {
+      "x": -64238.55,
+      "y": -17200.281,
+      "z": 1000.0
+    },
     "dialogues": [
       {
         "message": "This Island sure is beautiful, isn't it?",
@@ -1079,6 +1114,11 @@
     "specialization": "Medic Specialist",
     "shortDescription": "Adventure-seeker. Vampire staker. Boba master.",
     "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S23/T-AthenaSoldiers-Character-SharpFang.T-AthenaSoldiers-Character-SharpFang",
+    "position": {
+      "x": -55352.0,
+      "y": 67620.0,
+      "z": 5740.0
+    },
     "dialogues": [
       {
         "message": "Keep your eyes peeled for... creatures of the night!!",
@@ -1223,6 +1263,11 @@
     "displayName": "Nyanja",
     "shortDescription": "Two-tailed trickster.",
     "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/T_AthenaSoldiers_SliceVine_LoopPlum.T_AthenaSoldiers_SliceVine_LoopPlum",
+    "position": {
+      "x": -54592.0,
+      "y": 75404.0,
+      "z": 5132.0
+    },
     "dialogues": [
       {
         "message": "Yo.",
@@ -1346,6 +1391,11 @@
     "displayName": "Ryūji",
     "shortDescription": "Dive into the heart of the dragon.",
     "sidePanelIcon": "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-883-Athena-Commando-M-ChOneJonesy.T-AthenaSoldiers-CID-883-Athena-Commando-M-ChOneJonesy",
+    "position": {
+      "x": -51548.0,
+      "y": -59428.0,
+      "z": 1760.0
+    },
     "dialogues": [
       {
         "message": "May the seas always carry you home.",
@@ -1438,6 +1488,11 @@
     "specialization": "Heavy Specialist",
     "shortDescription": "All it takes is one little spark.",
     "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S30/T-AthenaSoldiers-StrongHibiscus.T-AthenaSoldiers-StrongHibiscus",
+    "position": {
+      "x": 73040.0,
+      "y": -26448.0,
+      "z": 4072.0
+    },
     "dialoguesTags": [
       "Conversation.Entry.BasicServices",
       "Conversation.Entry.NPCLibrary.Quests"
@@ -1504,6 +1559,11 @@
     "displayName": "Shadow Blade Hope",
     "shortDescription": "See through the shadows.",
     "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/T_AthenaSoldiers_IronLilac_Sly.T_AthenaSoldiers_IronLilac_Sly",
+    "position": {
+      "x": 65520.0,
+      "y": 92252.0,
+      "z": 3692.0
+    },
     "dialoguesTags": [
       "Conversation.Entry.IronLilac.Dialogue",
       "Conversation.Entry.Season33.Story.StopMM.06",
