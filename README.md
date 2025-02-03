@@ -21,6 +21,7 @@ All the informations are stored in the [NPCS folder](./NPCS/). Every update has 
             - [v33.00](./NPCS/Chapter%206/Season%201/v33.00/)
             - [v33.10](./NPCS/Chapter%206/Season%201/v33.10/)
             - [v33.20](./NPCS/Chapter%206/Season%201/v33.20/)
+            - [v33.30](./NPCS/Chapter%206/Season%201/v33.30/)
 
 ## Authors
 - [ᴅᴊʟᴏʀ3xᴢo](https://twitter.com/djlorenzouasset)
