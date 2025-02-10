@@ -1,0 +1,565 @@
+[
+  {
+    "tagName": "AISpawnerData.Type.Tandem.MistMylar",
+    "displayName": "Daigo",
+    "shortDescription": "Man of a thousand faces. ",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/T_AthenaSoldiers_MistMylar_Claw.T_AthenaSoldiers_MistMylar_Claw",
+    "position": {
+      "x": 14704.0,
+      "y": 70136.0,
+      "z": 4440.0
+    },
+    "dialogues": [
+      {
+        "message": "Soon, I'll be able to breach the Spirit Realm and save my sister... but that's not enough.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Nothing in this world, or any other, will stop me from saving my sister.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Jade",
+            "characterId": "Character_PolishedJade_Mind",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PolishedJade_Mind.Character_PolishedJade_Mind",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_PolishedJade_Mind_L.T_Soldier_PolishedJade_Mind_L"
+          }
+        ]
+      },
+      {
+        "message": "I have a plan. When things are at their darkest, remember: I know who I am. ",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      },
+      {
+        "message": "When all of this ends... I wonder whether we will be friends, or enemies.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          },
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          },
+          {
+            "displayName": "Shadow Blade Hope",
+            "characterId": "Character_IronLilac_Sly",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_IronLilac_Sly.Character_IronLilac_Sly",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_IronLilac_Sly_L.T_Soldier_IronLilac_Sly_L"
+          }
+        ]
+      },
+      {
+        "message": "I don't know you. I don't trust you. I won't let you touch that Shard.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "Whatever happens, watch over my siblings. You owe me that much.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "The Night Rose",
+            "characterId": "Character_RoseDepth_Seed",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_RoseDepth_Seed.Character_RoseDepth_Seed",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_RoseDepth_Seed_L.T_Soldier_RoseDepth_Seed_L"
+          }
+        ]
+      },
+      {
+        "message": "Try and stop me, demon. I'll enjoy making a fool of you and your master.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shogun X",
+            "characterId": "Character_UnluckyRoll",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UnluckyRoll.Character_UnluckyRoll",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_UnluckyRoll_L.T_Soldier_UnluckyRoll_L"
+          }
+        ]
+      },
+      {
+        "message": "Jade! Jade, I can see you! Look to the sound of my voice!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I failed my sister once. I will not do so again.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Jade",
+            "characterId": "Character_PolishedJade_Mind",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PolishedJade_Mind.Character_PolishedJade_Mind",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_PolishedJade_Mind_L.T_Soldier_PolishedJade_Mind_L"
+          }
+        ]
+      },
+      {
+        "message": "Saving Jade is just the beginning. And, of course, it's on me to save us all.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      },
+      {
+        "message": "I'm responsible for my family, and for this Island. You know the feeling, I suspect.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          },
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          },
+          {
+            "displayName": "Shadow Blade Hope",
+            "characterId": "Character_IronLilac_Sly",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_IronLilac_Sly.Character_IronLilac_Sly",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_IronLilac_Sly_L.T_Soldier_IronLilac_Sly_L"
+          }
+        ]
+      },
+      {
+        "message": "Are you going to lock the shard away, or use it to your own ends?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "You're formidable. In another life, I think we could have been allies. Or... friends.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "The Night Rose",
+            "characterId": "Character_RoseDepth_Seed",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_RoseDepth_Seed.Character_RoseDepth_Seed",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_RoseDepth_Seed_L.T_Soldier_RoseDepth_Seed_L"
+          }
+        ]
+      },
+      {
+        "message": "The darkness within the Spirit Realm is holding your leash. I see it now.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shogun X",
+            "characterId": "Character_UnluckyRoll",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UnluckyRoll.Character_UnluckyRoll",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_UnluckyRoll_L.T_Soldier_UnluckyRoll_L"
+          }
+        ]
+      },
+      {
+        "message": "I can hear its whispers! It knows me, my family, our bloodline. It wants to take me too...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Soon... soon, Jade will be home. Where she belongs.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Jade",
+            "characterId": "Character_PolishedJade_Mind",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PolishedJade_Mind.Character_PolishedJade_Mind",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_PolishedJade_Mind_L.T_Soldier_PolishedJade_Mind_L"
+          }
+        ]
+      },
+      {
+        "message": "The presence in the Spirit Realm, it knows us. Our history. Our blood.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      },
+      {
+        "message": "In the end, it always falls on me to fix everything. The genius. The eldest son.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          },
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          },
+          {
+            "displayName": "Shadow Blade Hope",
+            "characterId": "Character_IronLilac_Sly",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_IronLilac_Sly.Character_IronLilac_Sly",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_IronLilac_Sly_L.T_Soldier_IronLilac_Sly_L"
+          }
+        ]
+      },
+      {
+        "message": "The Shard's power is seductive. Do you think you're up to resisting it?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "I am the only one strong enough to face the darkness in the Spirit Realm.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "The Night Rose",
+            "characterId": "Character_RoseDepth_Seed",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_RoseDepth_Seed.Character_RoseDepth_Seed",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_RoseDepth_Seed_L.T_Soldier_RoseDepth_Seed_L"
+          }
+        ]
+      },
+      {
+        "message": "You've bound The Night Rose... but you're bound too, aren't you?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shogun X",
+            "characterId": "Character_UnluckyRoll",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UnluckyRoll.Character_UnluckyRoll",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_UnluckyRoll_L.T_Soldier_UnluckyRoll_L"
+          }
+        ]
+      },
+      {
+        "message": "The dark presence within the Spirit Realm is powerful. I can feel its malice.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Go away, spirit. You have my sister's face, but not her heart.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Jade",
+            "characterId": "Character_PolishedJade_Mind",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PolishedJade_Mind.Character_PolishedJade_Mind",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_PolishedJade_Mind_L.T_Soldier_PolishedJade_Mind_L"
+          }
+        ]
+      },
+      {
+        "message": "There's something dark within the Spirit Realm... It calls to me.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      },
+      {
+        "message": "Most people don't realize the pressure that comes with being special. The responsibility.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          },
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          },
+          {
+            "displayName": "Shadow Blade Hope",
+            "characterId": "Character_IronLilac_Sly",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_IronLilac_Sly.Character_IronLilac_Sly",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_IronLilac_Sly_L.T_Soldier_IronLilac_Sly_L"
+          }
+        ]
+      },
+      {
+        "message": "Once my sister is rescued, I wonder: what are your plans for the Shard?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "None of them realize, I'm the only one who can handle this power.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "The Night Rose",
+            "characterId": "Character_RoseDepth_Seed",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_RoseDepth_Seed.Character_RoseDepth_Seed",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_RoseDepth_Seed_L.T_Soldier_RoseDepth_Seed_L"
+          }
+        ]
+      },
+      {
+        "message": "It's pathetic, binding another to your service against their will.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shogun X",
+            "characterId": "Character_UnluckyRoll",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UnluckyRoll.Character_UnluckyRoll",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_UnluckyRoll_L.T_Soldier_UnluckyRoll_L"
+          }
+        ]
+      },
+      {
+        "message": "I can feel the power of the Spirit Realm. It's beginning.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Try your illusion on some gullible fool. Jade is in the Spirit Realm... for now.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Jade",
+            "characterId": "Character_PolishedJade_Mind",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PolishedJade_Mind.Character_PolishedJade_Mind",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_PolishedJade_Mind_L.T_Soldier_PolishedJade_Mind_L"
+          }
+        ]
+      },
+      {
+        "message": "When this works, you'll have to start listening to me.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      },
+      {
+        "message": "We're alike, I think. Two people used to holding the world on our shoulders.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          },
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          },
+          {
+            "displayName": "Shadow Blade Hope",
+            "characterId": "Character_IronLilac_Sly",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_IronLilac_Sly.Character_IronLilac_Sly",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_IronLilac_Sly_L.T_Soldier_IronLilac_Sly_L"
+          }
+        ]
+      },
+      {
+        "message": "Why did you come here, stranger? What are you looking for?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "I feel a presence in the Spirit Realm... What is it, demon?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "The Night Rose",
+            "characterId": "Character_RoseDepth_Seed",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_RoseDepth_Seed.Character_RoseDepth_Seed",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_RoseDepth_Seed_L.T_Soldier_RoseDepth_Seed_L"
+          }
+        ]
+      },
+      {
+        "message": "The Night Rose deserves her freedom. And you deserve... a different fate.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shogun X",
+            "characterId": "Character_UnluckyRoll",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UnluckyRoll.Character_UnluckyRoll",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_UnluckyRoll_L.T_Soldier_UnluckyRoll_L"
+          }
+        ]
+      },
+      {
+        "message": "Did my brother send you? Tell him I have a plan, and to not get in my way.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Whatever you are, you're not my sister. Stay out of my way.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Jade",
+            "characterId": "Character_PolishedJade_Mind",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PolishedJade_Mind.Character_PolishedJade_Mind",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_PolishedJade_Mind_L.T_Soldier_PolishedJade_Mind_L"
+          }
+        ]
+      },
+      {
+        "message": "Brother... don't even think about trying to stop me.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      },
+      {
+        "message": "If you're thinking of trying to stop me... don't.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          },
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          },
+          {
+            "displayName": "Shadow Blade Hope",
+            "characterId": "Character_IronLilac_Sly",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_IronLilac_Sly.Character_IronLilac_Sly",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_IronLilac_Sly_L.T_Soldier_IronLilac_Sly_L"
+          }
+        ]
+      },
+      {
+        "message": "You stay out of my way, and I'll stay out of yours.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "Thanks for your assistance. I hope to return the favor.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "The Night Rose",
+            "characterId": "Character_RoseDepth_Seed",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_RoseDepth_Seed.Character_RoseDepth_Seed",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_RoseDepth_Seed_L.T_Soldier_RoseDepth_Seed_L"
+          }
+        ]
+      },
+      {
+        "message": "I'm taking my sister back, demon. Don't get in my way.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shogun X",
+            "characterId": "Character_UnluckyRoll",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UnluckyRoll.Character_UnluckyRoll",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_UnluckyRoll_L.T_Soldier_UnluckyRoll_L"
+          }
+        ]
+      },
+      {
+        "message": "Saving Jade won't be enough. I have to enter the darkness and defeat what lingers there.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "My chaos magic is powered by conflict. Would you like to enter Combat Mode?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I've gifted you some magical weaponry. Now, FIGHT!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Let me know if you change your mind. You could be part of something great.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You're already in Combat Mode. Go on and FIGHT!",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": []
+  }
+]

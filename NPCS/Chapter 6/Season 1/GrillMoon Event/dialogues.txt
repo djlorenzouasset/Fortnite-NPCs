@@ -1,0 +1,56 @@
+----- NPC: Daigo -----
+Default Dialogue: Saving Jade won't be enough. I have to enter the darkness and defeat what lingers there.
+Default Dialogue: My chaos magic is powered by conflict. Would you like to enter Combat Mode?
+Default Dialogue: I've gifted you some magical weaponry. Now, FIGHT!
+Default Dialogue: Let me know if you change your mind. You could be part of something great.
+Default Dialogue: You're already in Combat Mode. Go on and FIGHT!
+
+Default Dialogue: Soon, I'll be able to breach the Spirit Realm and save my sister... but that's not enough.
+Wearing Jade: Nothing in this world, or any other, will stop me from saving my sister.
+Wearing Kendo: I have a plan. When things are at their darkest, remember: I know who I am. 
+Wearing Hope, Heroic Hope, Shadow Blade Hope: When all of this ends... I wonder whether we will be friends, or enemies.
+Wearing Vengeance Jones: I don't know you. I don't trust you. I won't let you touch that Shard.
+Wearing The Night Rose: Whatever happens, watch over my siblings. You owe me that much.
+Wearing Shogun X: Try and stop me, demon. I'll enjoy making a fool of you and your master.
+
+Default Dialogue: Jade! Jade, I can see you! Look to the sound of my voice!
+Wearing Jade: I failed my sister once. I will not do so again.
+Wearing Kendo: Saving Jade is just the beginning. And, of course, it's on me to save us all.
+Wearing Hope, Heroic Hope, Shadow Blade Hope: I'm responsible for my family, and for this Island. You know the feeling, I suspect.
+Wearing Vengeance Jones: Are you going to lock the shard away, or use it to your own ends?
+Wearing The Night Rose: You're formidable. In another life, I think we could have been allies. Or... friends.
+Wearing Shogun X: The darkness within the Spirit Realm is holding your leash. I see it now.
+
+Default Dialogue: I can hear its whispers! It knows me, my family, our bloodline. It wants to take me too...
+Wearing Jade: Soon... soon, Jade will be home. Where she belongs.
+Wearing Kendo: The presence in the Spirit Realm, it knows us. Our history. Our blood.
+Wearing Hope, Heroic Hope, Shadow Blade Hope: In the end, it always falls on me to fix everything. The genius. The eldest son.
+Wearing Vengeance Jones: The Shard's power is seductive. Do you think you're up to resisting it?
+Wearing The Night Rose: I am the only one strong enough to face the darkness in the Spirit Realm.
+Wearing Shogun X: You've bound The Night Rose... but you're bound too, aren't you?
+
+Default Dialogue: The dark presence within the Spirit Realm is powerful. I can feel its malice.
+Wearing Jade: Go away, spirit. You have my sister's face, but not her heart.
+Wearing Kendo: There's something dark within the Spirit Realm... It calls to me.
+Wearing Hope, Heroic Hope, Shadow Blade Hope: Most people don't realize the pressure that comes with being special. The responsibility.
+Wearing Vengeance Jones: Once my sister is rescued, I wonder: what are your plans for the Shard?
+Wearing The Night Rose: None of them realize, I'm the only one who can handle this power.
+Wearing Shogun X: It's pathetic, binding another to your service against their will.
+
+Default Dialogue: I can feel the power of the Spirit Realm. It's beginning.
+Wearing Jade: Try your illusion on some gullible fool. Jade is in the Spirit Realm... for now.
+Wearing Kendo: When this works, you'll have to start listening to me.
+Wearing Hope, Heroic Hope, Shadow Blade Hope: We're alike, I think. Two people used to holding the world on our shoulders.
+Wearing Vengeance Jones: Why did you come here, stranger? What are you looking for?
+Wearing The Night Rose: I feel a presence in the Spirit Realm... What is it, demon?
+Wearing Shogun X: The Night Rose deserves her freedom. And you deserve... a different fate.
+
+Default Dialogue: Did my brother send you? Tell him I have a plan, and to not get in my way.
+Wearing Jade: Whatever you are, you're not my sister. Stay out of my way.
+Wearing Kendo: Brother... don't even think about trying to stop me.
+Wearing Hope, Heroic Hope, Shadow Blade Hope: If you're thinking of trying to stop me... don't.
+Wearing Vengeance Jones: You stay out of my way, and I'll stay out of yours.
+Wearing The Night Rose: Thanks for your assistance. I hope to return the favor.
+Wearing Shogun X: I'm taking my sister back, demon. Don't get in my way.
+
+
