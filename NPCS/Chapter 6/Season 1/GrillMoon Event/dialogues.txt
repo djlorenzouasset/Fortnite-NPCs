@@ -54,3 +54,31 @@ Wearing The Night Rose: Thanks for your assistance. I hope to return the favor.
 Wearing Shogun X: I'm taking my sister back, demon. Don't get in my way.
 
 
+----- NPC: Jade -----
+Default Dialogue: I'll tell you what I can...
+Default Dialogue: I'm not sure what the Gold means...
+Default Dialogue: But I do know what it will bring: greed, fighting, and mayhem. 
+Default Dialogue: I believe that Kendo could be a hero, if the circumstances were right.
+Default Dialogue: But he's untaught, stuck chasing stories of great warriors instead of learning to BE one.
+Default Dialogue: His view of the world is black-and-white. Good and bad. I wish things were that simple.
+Default Dialogue: I hope Kendo can find his destiny... before it finds him.
+Default Dialogue: What Kendos never understood is, Daigos more complicated than just a frustrated genius.
+Default Dialogue: He's always felt this pressure, not just to be the best, but to protect us from the world.
+Default Dialogue: Which, now, means protecting us from the demons and the Spirit Realm.
+Default Dialogue: If Daigo thinks he can solve this alone... he's going to get himself in trouble.
+Default Dialogue: The Spirit Realm… I can barely remember my time there, but it was strange. 
+Default Dialogue: The Spirit Realm wasn’t dark, or evil… but there was a dark presence there.
+Default Dialogue: It knew me. My family. And it wants us, all of us... but especially Daigo.
+Default Dialogue: It has the Shard. We can’t let it take the Island.
+Default Dialogue: I can still feel it. My connection to the Sprites. To the Island.
+First Interaction: Daigo... He saved me from the Spirit Realm. But how?
+Random Dialogue: I can still feel it. My connection to the Sprites. To the Island.
+Random Dialogue: That Shard... It could be the beginning, or end, of everything.
+Random Dialogue: Everything in this world is connected. And I can feel the strings...
+Wearing Kendo: I hope you and Daigo have learned to work together, Kendo.
+Wearing Daigo: You saved me. That's enough. Don't put yourself in more danger.
+Wearing Shadow Blade Hope: I'll do what I can to help you save the shard.
+Wearing Vengeance Jones: You've seen a lot of chaos and trouble, haven't you?
+Wearing Nyanja: BUDDY! I missed you!
+Wearing Helsie: Let's not wait so long before we meet again, okay?
+Wearing The Night Rose: You're free. I'm so happy for you!

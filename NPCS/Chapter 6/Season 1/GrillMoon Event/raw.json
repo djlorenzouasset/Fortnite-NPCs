@@ -561,5 +561,206 @@
     ],
     "services": [],
     "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.PolishedJade",
+    "displayName": "Jade",
+    "shortDescription": "Discover the Island's myths.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/T_AthenaSoldiers_PolishedJade_Mind.T_AthenaSoldiers_PolishedJade_Mind",
+    "position": {
+      "x": -57704.0,
+      "y": 42353.473,
+      "z": 10205.272
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Season33.Story.Chat.01",
+      "Conversation.Entry.PolishedJade.Dialogue",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "I'll tell you what I can...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'm not sure what the Gold means...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But I do know what it will bring: greed, fighting, and mayhem. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I believe that Kendo could be a hero, if the circumstances were right.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But he's untaught, stuck chasing stories of great warriors instead of learning to BE one.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "His view of the world is black-and-white. Good and bad. I wish things were that simple.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I hope Kendo can find his destiny... before it finds him.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "What Kendos never understood is, Daigos more complicated than just a frustrated genius.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "He's always felt this pressure, not just to be the best, but to protect us from the world.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Which, now, means protecting us from the demons and the Spirit Realm.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "If Daigo thinks he can solve this alone... he's going to get himself in trouble.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The Spirit Realm… I can barely remember my time there, but it was strange. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The Spirit Realm wasn’t dark, or evil… but there was a dark presence there.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It knew me. My family. And it wants us, all of us... but especially Daigo.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It has the Shard. We can’t let it take the Island.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I can still feel it. My connection to the Sprites. To the Island.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Daigo... He saved me from the Spirit Realm. But how?",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "I can still feel it. My connection to the Sprites. To the Island.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "That Shard... It could be the beginning, or end, of everything.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Everything in this world is connected. And I can feel the strings...",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I hope you and Daigo have learned to work together, Kendo.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      },
+      {
+        "message": "You saved me. That's enough. Don't put yourself in more danger.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Daigo",
+            "characterId": "Character_MistMylar_Claw",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MistMylar_Claw.Character_MistMylar_Claw",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_MistMylar_ClawMaskON_L.T_Soldier_MistMylar_ClawMaskON_L"
+          }
+        ]
+      },
+      {
+        "message": "I'll do what I can to help you save the shard.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shadow Blade Hope",
+            "characterId": "Character_IronLilac_Sly",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_IronLilac_Sly.Character_IronLilac_Sly",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_IronLilac_Sly_L.T_Soldier_IronLilac_Sly_L"
+          }
+        ]
+      },
+      {
+        "message": "You've seen a lot of chaos and trouble, haven't you?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "BUDDY! I missed you!",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Nyanja",
+            "characterId": "Character_SliceVine_LoopPlum",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SliceVine_LoopPlum.Character_SliceVine_LoopPlum",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_SliceVineLoop_L.T_Soldier_SliceVineLoop_L"
+          }
+        ]
+      },
+      {
+        "message": "Let's not wait so long before we meet again, okay?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Helsie",
+            "characterId": "Character_SharpFang",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SharpFang.Character_SharpFang",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S23/T-Soldier-Hero-SharpFang-L.T-Soldier-Hero-SharpFang-L"
+          }
+        ]
+      },
+      {
+        "message": "You're free. I'm so happy for you!",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "The Night Rose",
+            "characterId": "Character_RoseDepth_Seed",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_RoseDepth_Seed.Character_RoseDepth_Seed",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_RoseDepth_Seed_L.T_Soldier_RoseDepth_Seed_L"
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.PatchUp",
+        "name": "Patch Up",
+        "price": 100,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_medic.T_UI_NPC_medic"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Veiled Precision SMG",
+        "itemId": "WID_SMG_FirePetal_Athena_R",
+        "rarity": "Rare",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/FirePetalWeaponGameplay/Gameplay/FirePetal_SMG/WID_SMG_FirePetal_Athena_R.WID_SMG_FirePetal_Athena_R"
+      }
+    ]
   }
 ]

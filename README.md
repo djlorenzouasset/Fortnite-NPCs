@@ -18,11 +18,7 @@ All the informations are stored in the [NPCS folder](./NPCS/). Every update has 
         - [Chapter 2: Remix](./NPCS/Chapter%205/Chapter%202%20Remix/)
     - [Chapter 6](./NPCS/Chapter%206/)
         - [Season 1](./NPCS/Chapter%206/Season%201/)
-            - [v33.00](./NPCS/Chapter%206/Season%201/v33.00/)
-            - [v33.10](./NPCS/Chapter%206/Season%201/v33.10/)
-            - [v33.20](./NPCS/Chapter%206/Season%201/v33.20/)
-            - [v33.30](./NPCS/Chapter%206/Season%201/v33.30/)
-            - [GrillMoon Event](./NPCS/Chapter%206/Season%201/GrillMoon%20Event/)
+        - [Season 2](./NPCS/Chapter%206/Season%202/)
 
 ## Authors
 - [ᴅᴊʟᴏʀ3xᴢo](https://twitter.com/djlorenzouasset)
