@@ -19,6 +19,7 @@ All the informations are stored in the [NPCS folder](./NPCS/). Every update has 
     - [Chapter 6](./NPCS/Chapter%206/)
         - [Season 1](./NPCS/Chapter%206/Season%201/)
         - [Season 2](./NPCS/Chapter%206/Season%202/)
+            - [v34.00](./NPCS/Chapter%206/Season%202/v34.00/)
 
 ## Authors
 - [ᴅᴊʟᴏʀ3xᴢo](https://twitter.com/djlorenzouasset)
