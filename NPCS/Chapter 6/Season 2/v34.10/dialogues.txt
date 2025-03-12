@@ -1,0 +1,369 @@
+----- NPC: Sub-Zero -----
+Default Dialogue: What is it that you seek?
+Default Dialogue: The Tournament was created by the Elder Gods to suppress the Outworld threat.
+Default Dialogue: It is held once per generation...
+Default Dialogue: ...and it cannot be refused.
+Default Dialogue: If you are chosen to fight for this realm... will you be ready?
+Default Dialogue: Don't distract me from my mission.
+First Interaction: Are you an ally of the Lin Kuei?
+Random Dialogue: Scorpion... I must find him.
+Random Dialogue: Don't distract me from my mission.
+Random Dialogue: Victors write history, and I do not lose.
+
+
+----- NPC: Outlaw Midas -----
+Default Dialogue: They've been calling me the Golden Gunslinger. I... think I like it.
+First Interaction: Did you miss me?
+Random Dialogue: They've been calling me the Golden Gunslinger. I... think I like it.
+Random Dialogue: I suppose they call it "Crime City" for a reason.
+Random Dialogue: Yes?
+Random Dialogue: You're looking at me like you know I'm up to something.
+Wearing Cassidy Quinn: Have you been telling people you're my protege? That's... bold.
+Wearing Jules: I meant to write. I'm sorry.
+Wearing Brutus: I'm so grateful for your loyalty, old friend.
+Wearing Meowscles: (Midas scritches your ears affectionately.)
+Wearing Marigold: I don't know another woman across reality who'd break me out of the Underworld like you did.
+Default Dialogue: I can't promise I'll answer.
+Default Dialogue: We're... old acquaintances. And yes, he's always been a pompous blowhard.
+Default Dialogue: Even when "The Baron" had nothing, he believed the world belonged to him.
+Default Dialogue: I've always been one step ahead of him. And I suspect he's taken that personally over the years.
+Default Dialogue: Ah, well. It can't be helped. Robber kings can either be the best or yield to the best. And Kane will yield.
+Default Dialogue: Oh, it's not altruism, believe me. These people can decide what's best for them just fine.
+Default Dialogue: And these criminals don't want to be governed. Least of all by me.
+Default Dialogue: But we have a singular aligned goal: get Kane out of everyone's way.
+Default Dialogue: It's a tenuous, temporary alliance. But if we can pull this off, everyone wins. Isn't that nice?
+
+
+----- NPC: Joss -----
+Default Dialogue: I sense a question bubbling up...
+Default Dialogue: I think magic is just science we don't understand yet.
+Default Dialogue: We used to think miasmas caused illness, and volcanoes were angry gods...
+Default Dialogue: ...and that the tooth fairy was an actual fairy, not a tiny dentist with boundary issues.
+Default Dialogue: Folks around here think that makes me a buzzkill. But isn't science so much more exciting than magic?
+Default Dialogue: Gold. Symbol: Au. Atomic number: 79. 
+Default Dialogue: It's soft-ish. Inert-esque. A great conductor...
+Default Dialogue: ...and some people spend their whole lives chasing it.
+Default Dialogue: It pays for my beakers and keeps the lights on, but there are more interesting elements out there to study.
+Default Dialogue: Chemistry is EVERYTHING.
+Default Dialogue: Chemistry lets us combine elements in endless permutations to make something new.
+Default Dialogue: Everything on the Island, good or bad, exists because of chemistry.
+Default Dialogue: Who wouldn't want to master something like that?
+Default Dialogue: Don't start any caustic reactions.
+First Interaction: I've got chemical concoctions for all of your robbing-and-stealing needs.
+Random Dialogue: Don't start any caustic reactions.
+Random Dialogue: What's brewing?
+Random Dialogue: It's not magic. It's chemistry.
+Wearing Big Dill: You are a scientific marvel.
+Wearing Outlaw Midas: Nobody helps anybody for free around here. What's your angle?
+Wearing Keisha Cross: Any luck on fixing that heating element for my sample incubator?
+
+
+----- NPC: Big Dill -----
+Default Dialogue: Free your brain from the brine, and speak up.
+Default Dialogue: Why choose just one when you can have two?
+Default Dialogue: I'm the innovator of the Pump & Dump.
+Default Dialogue: Load 'em up with the SMG, then knock 'em down.
+Default Dialogue: In the studio I go by Big Dill.
+Default Dialogue: Outside of the studio, I also go by Big Dill.
+Default Dialogue: Just call me Big Dill. It's easier that way.
+Default Dialogue: It's the scam--um, *business* of the future, man.
+Default Dialogue: You give me Bars. I have your Bars. I spend your Bars.
+Default Dialogue: And you get to have a Dill Bit! 
+Default Dialogue: And you get to attempt to spend it however you want. No refunds.
+Default Dialogue: Stay salty.
+First Interaction: Name's Big Dill.
+Random Dialogue: Stay salty.
+Random Dialogue: I've got that fermentation elation!
+Random Dialogue: This gherk's got the gold.
+Wearing The Brat: There's my Boi!
+Wearing Kendo: What's in the jar, bro? WHAT'S IN THE JAR?!
+Wearing Lil Whip: Respectfully, your flow is absolutely rancid.
+
+
+----- NPC: Skillet -----
+Default Dialogue: If it ain't my favorite Ratso! Back for more?
+First Interaction: Get yer explosives, destructives, and all manner of grenade-u-lators!!
+Random Dialogue: KABOOM!
+Random Dialogue: Short fuse, long fuse, no fuse... whatever you want as long as it 'splodes!
+Wearing Valentina: Today, I'm retired. Ask again tomorrow.
+Wearing Fletcher Kane: Yer house'd look much prettier as a pile'a charred rubble.
+Wearing Outlaw Midas: Whatever yer plannin', it needs more explosives!
+Default Dialogue: Go 'head. I don't bite.
+Default Dialogue: Why are you askin' 'bout my mamma?
+Default Dialogue: YOU BEST SPEAK CAREFULLY, NOW.
+Default Dialogue: ...
+Default Dialogue: THAT'S WHAT I THOUGHT.
+Default Dialogue: I am RETIRED! ish. 
+Default Dialogue: Sure, 'ccasionally I come outta retirement for fun. Heh.
+Default Dialogue: But generally speakin', I'm outta the crime game.
+Default Dialogue: Only good, honest illegal explosives manufacturing for this possum!
+Default Dialogue: What's there to say, except I love 'em?
+Default Dialogue: The smell, the danger, the raw throwability...
+Default Dialogue: Nothin' else compares to a great big KABOOM!
+
+
+----- NPC: Daigo -----
+Default Dialogue: What would you like to know?
+Default Dialogue: People cannot cross into the Spirit Realm. Only demons.
+Default Dialogue: I'll admit, I have a burning curiosity to see that world.
+Default Dialogue: What ancient secrets it may be keeping...
+Default Dialogue: But even I can't cross the threshold. Yet.
+Default Dialogue: Kendo styles himself as a warrior of old, but he's just restless and bored.
+Default Dialogue: He seeks some great purpose... Fool. We make our own purpose.
+Default Dialogue: Jade is reckless, but brilliant. Maybe the smartest person I've met, aside from myself.
+Default Dialogue: She'll change this world, if she doesn't destroy herself in the process.
+Default Dialogue: As the eldest son, I inherited the shop from my grandfather.
+Default Dialogue: Once upon a time, we made great, magical Masks of Power.
+Default Dialogue: But my ancestors burned the secrets to crafting them.
+Default Dialogue: I've unlocked rudimentary mask magic, but if I could make a true Mask of Power...
+Default Dialogue: If you're here to get in my way... don't.
+First Interaction: If you're here to get in my way... don't.
+Wearing Kendo: Just... stay out of my way. For Jade's sake.
+Wearing Hope, Heroic Hope, Shadow Blade Hope: Hm. I don't know you... and I know everyone.
+Wearing Vengeance Jones: Stay out of my business, stranger, and I'll stay out of yours.
+
+
+----- NPC: The Night Rose -----
+Default Dialogue: I'm free. It's been so long, I don't know what to do with myself.
+First Interaction: I can't believe it. I am free of the puppeteer's control.
+Random Dialogue: I'm free. It's been so long, I don't know what to do with myself.
+Random Dialogue: Freedom is... disorienting. But it's worth it.
+Random Dialogue: A great darkness is building... though no-one will listen.
+Wearing Daigo: The Spirit Realm knows your taste now. Be careful.
+Wearing Shadow Blade Hope: I know you want my help... but I need some time.
+Wearing Jade: I'm glad to see you've been rescued. This Island seems to love you.
+Wearing Shogun X: I will never be bound against my will again.
+Default Dialogue: What do you want?
+Default Dialogue: There is a growing darkness at the heart of this Island.
+Default Dialogue: Of course, no-one will listen to a demon. A former enemy.
+Default Dialogue: Dark days are coming. I just hope this Island is ready.
+Default Dialogue: I have my freedom, after centuries of bondage.
+Default Dialogue: But... nobody wants to trust a demon, do they? It's... lonely.
+Default Dialogue: I want to build a life, do something meaningful...
+Default Dialogue: But that will take time. And at least, now, I have that.
+
+
+----- NPC: Cassidy Quinn -----
+Default Dialogue: Got questions? Hit me.
+Default Dialogue: No risk, no reward baby.
+Default Dialogue: And no cool story to impress people with afterwards, either.
+Default Dialogue: Sometimes risking it all is scary, but you can do anything scared.
+Default Dialogue: And whatever happens, you're a little less scared to do it next time.
+Default Dialogue: That arrogant, pompous, TACKY pomeranian...
+Default Dialogue: He thinks he can rule with an iron paw.
+Default Dialogue: But when tyranny bites... we bite back.
+Default Dialogue: When we're through with him, he'll run cryin' back to his kennel.
+Default Dialogue: He's a legend. Literally. I can't believe he's real.
+Default Dialogue: When I was a kid, I dreamt of working with him...
+Default Dialogue: The ultimate criminal. And me, his protege. 
+Default Dialogue: ...Sorry, I got distracted. What did you want?
+Default Dialogue: I'm all in.
+First Interaction: Cassidy Quinn, at your disservice.
+Random Dialogue: I'm all in.
+Random Dialogue: Has fate dealt you a good hand today?
+Random Dialogue: Some people call me the Quinn of Spades. You know, when I ask them to.
+Random Dialogue: Whatever you're planning, deal me in.
+Wearing Keisha Cross: I'll slow down when I'm good and ready for it.
+Wearing Outlaw Midas: You're... Midas!! THE Midas!! Oh... Oh wow....
+Wearing Fletcher Kane: You're not gonna catch me.
+
+
+----- NPC: Vengeance Jones -----
+Default Dialogue: What d'you want?
+Default Dialogue: Hope's trying to figure out who she wants to be.
+Default Dialogue: The luxury of peacetime, I guess. A luxury we won't have forever.
+Default Dialogue: Hope's not some flashy hero type, at heart.
+Default Dialogue: Hope's a leader. And a good leader's worth a hundred heroes.
+Default Dialogue: Truth is, we're here hunting for a Zero Point Shard.
+Default Dialogue: It's powerful. Chaotic. And prone to being misused by villain types.
+Default Dialogue: I've got a lot of experience with the Zero Point, but this is a mess.
+Default Dialogue: The worst part: I don't think this Shard's the only one out there...
+Default Dialogue: Cat's outta the bag. Hope and I are hunting a Zero Point Shard.
+First Interaction: I'm getting too old for this mess.
+Random Dialogue: Cat's outta the bag. Hope and I are hunting a Zero Point Shard.
+Random Dialogue: I'm not afraid of much, but a Zero Point Shard in the wrong hands... Yeesh.
+Random Dialogue: These outlaws are so... rowdy. Hmph.
+Random Dialogue: Keep your eyes peeled and your guns close.
+Wearing Shadow Blade Hope: There's got to be a way to get into that demon world... place.
+Wearing Outlaw Midas: Been a minute, golden king. What're you scheming?
+Wearing Daigo: I thought we could be friends... but I think being enemies would be more fun.
+Wearing Kendo: If Hope gets hurt on your watch, sword boy, you'll learn what my name means.
+
+
+----- NPC: Kendo -----
+Default Dialogue: This Island is special. It needs protection.
+First Interaction: My blade's at your service.
+Random Dialogue: This Island is special. It needs protection.
+Random Dialogue: My family is supposed to protect this Island. Not destroy it.
+Random Dialogue: Crime, chaos... I don't recognize the Island I love anymore.
+Random Dialogue: I will rid this Island of the demons that menace it.
+Wearing Daigo: I know you're planning something foolish, brother. Don't.
+Wearing Jade: I think Daigo's working on one of his... projects.
+Wearing Shadow Blade Hope: Sometimes I feel like nobody on this Island gets me, except you.
+Wearing The Night Rose: You got your freedom. What comes next?
+Wearing Vengeance Jones: I promise, I've got Hope's back. And I know she has mine.
+Wearing Cassidy Quinn: We should spar sometime. Curious to see how that'd go.
+Wearing Joss: How can you not believe in magic?? It's all around you.
+Default Dialogue: How can I help?
+Default Dialogue: I love my family, but I never feel totally relaxed around them.
+Default Dialogue: Hope is different. We just... get each other.
+Default Dialogue: She always has my back. And I have hers. That's a new feeling.
+Default Dialogue: I hope she feels the same way.
+Default Dialogue: You know that feeling you get sometimes, like you're being watched?
+Default Dialogue: I get that feeling every time Daigo's got a new 'project'. Like a sixth sense.
+Default Dialogue: Daigo's projects are always big, bold, and leave a huge mess for the rest of us.
+Default Dialogue: I hope I'm wrong. But I know I'm not.
+Default Dialogue: Jade's home, and everything is... mostly... back to normal.
+Default Dialogue: She's lost some of her recklessness. I thought I'd be relieved, but...
+Default Dialogue: Still, she's exploring her connection to the sprites, and that's beautiful.
+Default Dialogue: I think she's found her destiny. I'm proud, if a little jealous.
+
+
+----- NPC: Brutus -----
+Default Dialogue: You've got questions, I've got redacted answers.
+Default Dialogue: Oh, that place is NOT safe.
+Default Dialogue: If you're headed that way, I can provide backup and muscle.
+Default Dialogue: For a price. Heh.
+Default Dialogue: Everyone thinks they've got the boss pinned down. Understood. Dead to rights.
+Default Dialogue: They never do.
+Default Dialogue: Midas is a complicated, *motivated* person.
+Default Dialogue: But he's always been good to me. And in my mind, he's always been justified to do what he does.
+Default Dialogue: Neither. My allegiance was always to the boss.
+Default Dialogue: I go where he goes. I do what he needs done.
+Default Dialogue: Midas has been good to me over the years. He'll have my loyalty for a lifetime.
+Default Dialogue: You look like you need somethin'.
+First Interaction: You look surprised to see me.
+Random Dialogue: You look like you need somethin'.
+Random Dialogue: You got a message from the Boss?
+Random Dialogue: Where Midas goes, I follow.
+Wearing Outlaw Midas: Boss. Good to have ya back.
+Wearing Meowscles: Good to see ya, Big Cat.
+
+
+----- NPC: Keisha Cross -----
+Default Dialogue: I know just about everybody around here.
+Default Dialogue: You love bikes too?! I swear, I was put on this Island to build 'em and ride 'em.
+Default Dialogue: Cassidy and I used to... "borrow" bikes together all the time.
+Default Dialogue: I've gone legit... mostly. 
+Default Dialogue: But if Cass and I hadn't boosted bikes as kids, who knows what I'd be doing now!
+Default Dialogue: In a place like this, with Kane's thumb pressin' down on all of us...
+Default Dialogue: ...I think of our markets as a community good.
+Default Dialogue: Even outlaws need a place to congregate, kick back, and network, you know?
+Default Dialogue: And the more Bars I make, the more bikes I can build. It's a win-win.
+Default Dialogue: Cassidy's my girl! We grew up together.
+Default Dialogue: She's a thrillseeker. I'm a worrier. What else can I say?
+Default Dialogue: Oh! I guess I could say: if you mess with her...
+Default Dialogue: ...we're going to have a serious, serious problem. Got it?
+Default Dialogue: Howdy, gearhead.
+First Interaction: Us gearheads have one rule: don't cause trouble in the shop.
+Random Dialogue: Howdy, gearhead.
+Random Dialogue: Tech and gear, available here! Ugh, that rhymed.
+Random Dialogue: Welcome back.
+Wearing Cassidy Quinn: You promised you'd stay safe out there, Cass.
+Wearing Fletcher Kane: I don't have the parts to service your car. Sorry.
+Wearing Outlaw Midas: You've got an angle... don't you?
+
+
+----- NPC: Valentina -----
+Default Dialogue: Don't waste my time. What do you need?
+First Interaction: Hey.
+Random Dialogue: Don't waste my time. What do you need?
+Random Dialogue: The world's got a rhythm. Pay attention to it, and you can get anywhere.
+Random Dialogue: I can crack any safe on this Island. Just watch me.
+Wearing Cassidy Quinn: Cassidy Quinn. Always a sight for sore eyes.
+Wearing Big Dill: I like your beats. Your bars are a little... briny.
+Wearing Fletcher Kane: Your security's a joke, Kane. And not even a funny one.
+Wearing Keisha Cross: Your girl Quinn came 'round. You two still runnin' together?
+Wearing Skillet: Skillet! How're the booms?
+Default Dialogue: You've got questions? Hit me.
+Default Dialogue: Crime is like a dance.
+Default Dialogue: A bank job is a ballet: carefully choreographed, everyone in their role. Tense, beautiful.
+Default Dialogue: Safecracking is a bachata: intimate, sensual, dangerous.
+Default Dialogue: Robbing Kane is like a school dance: embarassingly easy if you've got any rhythm.
+
+
+----- NPC: Durrr Taisho -----
+Default Dialogue: Munch on my masterful maki.
+First Interaction: My rolls are Durrr-licious!
+Random Dialogue: Munch on my masterful maki.
+Random Dialogue: Fresh cut fish on rice. What could be better than that?!
+Wearing Fishstick: Don't be afraid, little fish! It impacts your deliciousness.
+Wearing Maki Master: I'd be willing to franchise, if you're interested.
+Wearing Thunder: Gila has thunder rolls. I have lightning rolls. They're completely different products!
+Default Dialogue: What do you need from sashi-me?
+Default Dialogue: Making sushi is a delicate culinary art. 
+Default Dialogue: You have to have the best ingredients and most precise preparation. 
+Default Dialogue: You know what they say: There's nowhere to hide on the sushi plate!
+
+
+----- NPC: Fishstick -----
+Default Dialogue: (Fishstick gives you his full attention.)
+Default Dialogue: (Fishstick mimes a train moving, and then happily walking on.)
+Default Dialogue: (Fishstick mimes a WHOLE LOT OF CHAOS and running off the train in a panic.)
+Default Dialogue: (Fishstick droops dramatically at not being able to get onto the train.)
+Default Dialogue: (Why did he want to get on the train? He mimes cutting sushi and scowls: REVENGE on Durrr Taisho!)
+Default Dialogue: (Fishstick cocks his head in confusion.)
+First Interaction: (Fishstick waves and burbles kindly.)
+Random Dialogue: (Fishstick cocks his head in confusion.)
+Random Dialogue: (Fishstick gives a little wave.)
+Random Dialogue: (Fishstick burbles excitedly.)
+Wearing Fish Thicc: (Fishstick's eyes widen in alarm.)
+Wearing Durrr Taisho: (Fishstick glares with angry intent.)
+
+
+----- NPC: Shadow Blade Hope -----
+Default Dialogue: Haven't seen this many people obsessed with gold since The Society.
+First Interaction: Good to see you again.
+Random Dialogue: Haven't seen this many people obsessed with gold since The Society.
+Random Dialogue: Geez. This Island has gotten... chaotic.
+Random Dialogue: Crime, gold, power struggles... Reminds me of home. Ugh.
+Random Dialogue: Making slow progress on securing the Shard. We NEED a plan.
+Wearing Vengeance Jones: We need a way to breach the Spirit Realm if we want to secure the Shard.
+Wearing Outlaw Midas: I heard stories of you, back home. Everyone said not to trust you.
+Wearing Daigo: I'd really love for us to be allies... if you're willing to give up the Shard.
+Wearing Kendo: Your brother will turn up. Hopefully without any schemes in play.
+Wearing Jade: You're the only one I know who can understand what the Sprites say...
+Wearing The Night Rose: Welcome to the team. Tell me everything you know about the Spirit Realm.
+Default Dialogue: What do you want to know?
+Default Dialogue: Chasing the Shard with Jones has gotten me thinking about how it all started.
+Default Dialogue: I was just some girl trying to fix the world, with the odds against her.
+Default Dialogue: I was scared and over my head, and couldn't ever show it.
+Default Dialogue: Jones took me under his wing. If I met someone like me... I'd like to do that, too.
+Default Dialogue: I never met anyone back home who really 'got' me.
+Default Dialogue: Jones is a great mentor, and we're a great team, but Kendo is different.
+Default Dialogue: Kendo's quiet, and sensitive, and knows what it's like to have a hyper-ambitious older sibling.
+Default Dialogue: He always has my back. I hope he knows I have his back, too.
+Default Dialogue: The Shard seems to be locked away in the Spirit Realm.
+Default Dialogue: Fun fact: Only demons can use the portals, which is... great.
+Default Dialogue: And even if we could get through, it's swarming with enemies.
+Default Dialogue: We need to figure out a plan. And soon.
+
+
+----- NPC: Jade -----
+Default Dialogue: I'll try to help, however I can.
+Default Dialogue: I can't explain my connection to the sprites in words, exactly.
+Default Dialogue: I can understand them. I can feel what they feel. They listen to me.
+Default Dialogue: And... I can feel this great, slow heartbeat in my chest, alongside my own.
+Default Dialogue: I think it's the heartbeat of the Island itself.
+Default Dialogue: I'm worried about Daigo. He's obsessed with the darkness he saw in the Spirit Realm.
+Default Dialogue: He thinks he alone can face it. He's wrong.
+Default Dialogue: If he tries to face the heart of the darkness alone, he will lose. It will take him.
+Default Dialogue: We have to stop him. But I don't know if we can.
+Default Dialogue: The Spirit Realm… I can barely remember my time there, but it was strange. 
+Default Dialogue: The Spirit Realm wasn’t dark, or evil… but there was a dark presence there. 
+Default Dialogue: It knew me. My family's bloodline. And it wants us, all of us... but especially Daigo.
+Default Dialogue: It has the Shard. We can’t let it take the Island.
+Default Dialogue: Magic can be good or bad, but it's always wild.
+First Interaction: Keep an eye out for the sprites. They like to play.
+Random Dialogue: Magic can be good or bad, but it's always wild.
+Random Dialogue: I survived the Spirit Realm and I didn't even get a cool t-shirt.
+Random Dialogue: I think I need a break from adventures for a bit.
+Random Dialogue: This Island is beautiful, and it's my destiny to protect it.
+Random Dialogue: I can feel this deep, magical connection to the sprites and the Island. It's amazing.
+Wearing Kendo: I'm worried about Daigo. Wherever he is...
+Wearing Daigo: I'm worried about you, Daigo. Please... just come home.
+Wearing Shadow Blade Hope: However I can help your quest, I'm happy to.
+Wearing Joss: Trust me. Magic is real... and dangerous.
+Wearing Fletcher Kane: You think you own your wealth... but I think it owns you.
+
+
