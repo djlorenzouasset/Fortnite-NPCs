@@ -1,0 +1,2407 @@
+[
+  {
+    "tagName": "AISpawnerData.Type.Tandem.SprocketPoppy",
+    "displayName": "Sub-Zero",
+    "shortDescription": "The Lin Kuei cryomancer of legend.",
+    "sidePanelIcon": "/SprocketPoppyNPC/NPCs/SprocketPoppy/TAthenaSoldiersSprocketPoppyBoatMask.TAthenaSoldiersSprocketPoppyBoatMask",
+    "position": {
+      "x": -29648.0,
+      "y": 54160.0,
+      "z": 5524.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.DeluxeServices",
+      "Conversation.Entry.SprocketPoppy.Dialogue",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "What is it that you seek?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The Tournament was created by the Elder Gods to suppress the Outworld threat.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It is held once per generation...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "...and it cannot be refused.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "If you are chosen to fight for this realm... will you be ready?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Don't distract me from my mission.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Are you an ally of the Lin Kuei?",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Scorpion... I must find him.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Don't distract me from my mission.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Victors write history, and I do not lose.",
+        "bRandomDialogue": true
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.Hire",
+        "name": "Hire",
+        "price": 100,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.RageDebris",
+    "displayName": "Skillet",
+    "shortDescription": "Splodin' with excitement.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S34/T_AthenaSoldiers_RageDebris_Glasses.T_AthenaSoldiers_RageDebris_Glasses",
+    "position": {
+      "x": -52180.0,
+      "y": 44.0,
+      "z": 6133.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.DeluxeServices",
+      "Conversation.Entry.Expertise.Explosive",
+      "Conversation.Entry.Season34.Expertise.Explosive.Introduction",
+      "Conversation.Entry.Season34.Expertise.Explosive.Finish",
+      "Conversation.Entry.RageDebris.Dialogue",
+      "Conversation.Entry.Season34.Story.P01.Q02",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "Go 'head. I don't bite.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Why are you askin' 'bout my mamma?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "YOU BEST SPEAK CAREFULLY, NOW.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "THAT'S WHAT I THOUGHT.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I am RETIRED! ish. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Sure, 'ccasionally I come outta retirement for fun. Heh.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But generally speakin', I'm outta the crime game.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Only good, honest illegal explosives manufacturing for this possum!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "What's there to say, except I love 'em?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The smell, the danger, the raw throwability...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Nothin' else compares to a great big KABOOM!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "If it ain't my favorite Ratso! Back for more?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Get yer explosives, destructives, and all manner of grenade-u-lators!!",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "KABOOM!",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Short fuse, long fuse, no fuse... whatever you want as long as it 'splodes!",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Today, I'm retired. Ask again tomorrow.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Valentina",
+            "characterId": "Character_RoyalAngst_Tote",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_RoyalAngst_Tote.Character_RoyalAngst_Tote",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_RoyalAngst_Tote_L.T_Soldier_RoyalAngst_Tote_L"
+          }
+        ]
+      },
+      {
+        "message": "Yer house'd look much prettier as a pile'a charred rubble.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Fletcher Kane",
+            "characterId": "Character_SherWolf_Gnash",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SherWolf_Gnash.Character_SherWolf_Gnash",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_Sherwolf_Gnash_L.T_Soldier_Sherwolf_Gnash_L"
+          }
+        ]
+      },
+      {
+        "message": "Whatever yer plannin', it needs more explosives!",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Outlaw Midas",
+            "characterId": "Character_AuraCop_Bullet",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_AuraCop_Bullet.Character_AuraCop_Bullet",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_AuraCop_Bullet_L.T_Soldier_AuraCop_Bullet_L"
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.RiftToGo",
+        "name": "Rift To Go",
+        "price": 300,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Rift.T_UI_NPC_Rift"
+      }
+    ],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.MistMylar",
+    "displayName": "Daigo",
+    "shortDescription": "Man of a thousand faces. ",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/T_AthenaSoldiers_MistMylar_Claw.T_AthenaSoldiers_MistMylar_Claw",
+    "dialogues": [
+      {
+        "message": "If you're here to get in my way... don't.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "If you're here to get in my way... don't.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Just... stay out of my way. For Jade's sake.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      },
+      {
+        "message": "Hm. I don't know you... and I know everyone.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Hope",
+            "characterId": "Character_VoidRedemption_Rebel",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_VoidRedemption_Rebel.Character_VoidRedemption_Rebel",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-VoidRedemption-Rebel-L.T-Soldier-Hero-VoidRedemption-Rebel-L"
+          },
+          {
+            "displayName": "Heroic Hope",
+            "characterId": "Character_BrightDisk",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrightDisk.Character_BrightDisk",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S31/TSoldierBrightDiskL.TSoldierBrightDiskL"
+          },
+          {
+            "displayName": "Shadow Blade Hope",
+            "characterId": "Character_IronLilac_Sly",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_IronLilac_Sly.Character_IronLilac_Sly",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_IronLilac_Sly_L.T_Soldier_IronLilac_Sly_L"
+          }
+        ]
+      },
+      {
+        "message": "Stay out of my business, stranger, and I'll stay out of yours.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "What would you like to know?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "People cannot cross into the Spirit Realm. Only demons.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'll admit, I have a burning curiosity to see that world.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "What ancient secrets it may be keeping...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But even I can't cross the threshold. Yet.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Kendo styles himself as a warrior of old, but he's just restless and bored.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "He seeks some great purpose... Fool. We make our own purpose.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Jade is reckless, but brilliant. Maybe the smartest person I've met, aside from myself.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "She'll change this world, if she doesn't destroy herself in the process.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "As the eldest son, I inherited the shop from my grandfather.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Once upon a time, we made great, magical Masks of Power.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But my ancestors burned the secrets to crafting them.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I've unlocked rudimentary mask magic, but if I could make a true Mask of Power...",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.WartyBrine",
+    "displayName": "Big Dill",
+    "shortDescription": "He's kind of a Big Dill.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S34/T_AthenaSoldiers_WartyBrine_Sus_EyeMask.T_AthenaSoldiers_WartyBrine_Sus_EyeMask",
+    "position": {
+      "x": -55802.0,
+      "y": 16917.0,
+      "z": 5363.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Expertise.DualWield",
+      "Conversation.Entry.Season34.Story.P02.Q03C",
+      "Conversation.Entry.WartyBrine.Dialogue",
+      "Conversation.Entry.Season34.Story.P02.Q03B",
+      "Conversation.Entry.Season34.Expertise.DualWield.Introduction",
+      "Conversation.Entry.Season34.Expertise.DualWield.Finish",
+      "Conversation.Entry.Season34.Story.P02.Q03",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "Free your brain from the brine, and speak up.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Why choose just one when you can have two?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'm the innovator of the Pump & Dump.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Load 'em up with the SMG, then knock 'em down.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "In the studio I go by Big Dill.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Outside of the studio, I also go by Big Dill.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Just call me Big Dill. It's easier that way.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It's the scam--um, *business* of the future, man.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You give me Bars. I have your Bars. I spend your Bars.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "And you get to have a Dill Bit! ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "And you get to attempt to spend it however you want. No refunds.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Stay salty.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Name's Big Dill.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Stay salty.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I've got that fermentation elation!",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "This gherk's got the gold.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "There's my Boi!",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "The Brat",
+            "characterId": "CID_614_Athena_Commando_M_MissingLink",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_614_Athena_Commando_M_MissingLink.CID_614_Athena_Commando_M_MissingLink",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-614-Athena-Commando-M-MissingLink-L.T-Soldier-HID-614-Athena-Commando-M-MissingLink-L"
+          }
+        ]
+      },
+      {
+        "message": "What's in the jar, bro? WHAT'S IN THE JAR?!",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      },
+      {
+        "message": "Respectfully, your flow is absolutely rancid.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Lil Whip",
+            "characterId": "CID_344_Athena_Commando_M_IceCream",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_344_Athena_Commando_M_IceCream.CID_344_Athena_Commando_M_IceCream",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-344-Athena-Commando-M-IceCream-L.T-Soldier-HID-344-Athena-Commando-M-IceCream-L"
+          }
+        ]
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Med-Mist Smoke Grenade",
+        "itemId": "WID_MedCloud",
+        "rarity": "Rare",
+        "price": 0,
+        "sellCount": 1,
+        "objectPath": "/MedCloud/Gameplay/Items/WID_MedCloud.WID_MedCloud"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.IronLilac",
+    "displayName": "Shadow Blade Hope",
+    "shortDescription": "See through the shadows.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/T_AthenaSoldiers_IronLilac_Sly.T_AthenaSoldiers_IronLilac_Sly",
+    "position": {
+      "x": 65024.0,
+      "y": 92288.0,
+      "z": 4140.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.IronLilac.Dialogue",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.Season33.WF.Quest.05.part.04",
+      "Conversation.Entry.Season33.Story.StopMM.06",
+      "Conversation.Entry.Season33.Story.Meet.06",
+      "Conversation.Entry.Season33.Weaponexpertise.Tutorial.01",
+      "Conversation.Entry.Season33.Weaponexpertise.Assaultrifle.Complete.01",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "What do you want to know?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Chasing the Shard with Jones has gotten me thinking about how it all started.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I was just some girl trying to fix the world, with the odds against her.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I was scared and over my head, and couldn't ever show it.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Jones took me under his wing. If I met someone like me... I'd like to do that, too.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I never met anyone back home who really 'got' me.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Jones is a great mentor, and we're a great team, but Kendo is different.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Kendo's quiet, and sensitive, and knows what it's like to have a hyper-ambitious older sibling.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "He always has my back. I hope he knows I have his back, too.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The Shard seems to be locked away in the Spirit Realm.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Fun fact: Only demons can use the portals, which is... great.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "And even if we could get through, it's swarming with enemies.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "We need to figure out a plan. And soon.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Haven't seen this many people obsessed with gold since The Society.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Good to see you again.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Haven't seen this many people obsessed with gold since The Society.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Geez. This Island has gotten... chaotic.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Crime, gold, power struggles... Reminds me of home. Ugh.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Making slow progress on securing the Shard. We NEED a plan.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "We need a way to breach the Spirit Realm if we want to secure the Shard.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "I'd really love for us to be allies... if you're willing to give up the Shard.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Daigo",
+            "characterId": "Character_MistMylar_Claw",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MistMylar_Claw.Character_MistMylar_Claw",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_MistMylar_ClawMaskON_L.T_Soldier_MistMylar_ClawMaskON_L"
+          }
+        ]
+      },
+      {
+        "message": "Your brother will turn up. Hopefully without any schemes in play.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      },
+      {
+        "message": "You're the only one I know who can understand what the Sprites say...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Jade",
+            "characterId": "Character_PolishedJade_Mind",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PolishedJade_Mind.Character_PolishedJade_Mind",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_PolishedJade_Mind_L.T_Soldier_PolishedJade_Mind_L"
+          }
+        ]
+      },
+      {
+        "message": "Welcome to the team. Tell me everything you know about the Spirit Realm.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "The Night Rose",
+            "characterId": "Character_RoseDepth_Seed",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_RoseDepth_Seed.Character_RoseDepth_Seed",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_RoseDepth_Seed_L.T_Soldier_RoseDepth_Seed_L"
+          }
+        ]
+      },
+      {
+        "message": "Your gold-fingered boss. What can you tell me about him?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Keisha Cross",
+            "characterId": "Character_TealMink_Pelt",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_TealMink_Pelt.Character_TealMink_Pelt",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_TealMink_Pelt_L.T_Soldier_TealMink_Pelt_L"
+          }
+        ]
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Collateral Damage Assault Rifle",
+        "itemId": "WID_CQB_AR_R",
+        "rarity": "Rare",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/VividRazorWeaponGameplay/Gameplay/CQBAR/WID_CQB_AR_R.WID_CQB_AR_R"
+      },
+      {
+        "displayName": "Med-Mist Smoke Grenade",
+        "itemId": "WID_MedCloud",
+        "rarity": "Rare",
+        "price": 0,
+        "sellCount": 1,
+        "objectPath": "/MedCloud/Gameplay/Items/WID_MedCloud.WID_MedCloud"
+      },
+      {
+        "displayName": "Shockwave Grenade",
+        "itemId": "Athena_ShockGrenade",
+        "rarity": "Epic",
+        "price": 50,
+        "sellCount": 1,
+        "objectPath": "/Game/Athena/Items/Consumables/ShockwaveGrenade/Athena_ShockGrenade.Athena_ShockGrenade"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.TrafficHat",
+    "displayName": "Joss",
+    "shortDescription": "It's not magic. It's chemistry.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S34/T_AthenaSoldiers_TrafficHat_Boba_Mask.T_AthenaSoldiers_TrafficHat_Boba_Mask",
+    "position": {
+      "x": 11610.0,
+      "y": -63350.0,
+      "z": 2589.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.DeluxeServices",
+      "Conversation.Entry.Expertise.Healing",
+      "Conversation.Entry.Season34.Expertise.Healing.Introduction",
+      "Conversation.Entry.Season34.Expertise.Healing.Finish",
+      "Conversation.Entry.TrafficHat.Dialogue",
+      "Conversation.Entry.Season34.Story.P02.Q02",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "I sense a question bubbling up...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I think magic is just science we don't understand yet.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "We used to think miasmas caused illness, and volcanoes were angry gods...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "...and that the tooth fairy was an actual fairy, not a tiny dentist with boundary issues.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Folks around here think that makes me a buzzkill. But isn't science so much more exciting than magic?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Gold. Symbol: Au. Atomic number: 79. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It's soft-ish. Inert-esque. A great conductor...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "...and some people spend their whole lives chasing it.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It pays for my beakers and keeps the lights on, but there are more interesting elements out there to study.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Chemistry is EVERYTHING.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Chemistry lets us combine elements in endless permutations to make something new.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Everything on the Island, good or bad, exists because of chemistry.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Who wouldn't want to master something like that?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Don't start any caustic reactions.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I've got chemical concoctions for all of your robbing-and-stealing needs.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Don't start any caustic reactions.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "What's brewing?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "It's not magic. It's chemistry.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "You are a scientific marvel.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Big Dill",
+            "characterId": "Character_WartyBrine_Sus",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_WartyBrine_Sus.Character_WartyBrine_Sus",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_WartyBrine_L.T_Soldier_WartyBrine_L"
+          }
+        ]
+      },
+      {
+        "message": "Nobody helps anybody for free around here. What's your angle?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Outlaw Midas",
+            "characterId": "Character_AuraCop_Bullet",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_AuraCop_Bullet.Character_AuraCop_Bullet",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_AuraCop_Bullet_L.T_Soldier_AuraCop_Bullet_L"
+          }
+        ]
+      },
+      {
+        "message": "Any luck on fixing that heating element for my sample incubator?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Keisha Cross",
+            "characterId": "Character_TealMink_Pelt",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_TealMink_Pelt.Character_TealMink_Pelt",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_TealMink_Pelt_L.T_Soldier_TealMink_Pelt_L"
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.RiftToGo",
+        "name": "Rift To Go",
+        "price": 300,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Rift.T_UI_NPC_Rift"
+      }
+    ],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Specialist.Medic.PolishedJade",
+    "displayName": "Jade",
+    "specialization": "Medic Specialist",
+    "shortDescription": "Discover the Island's myths.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/TAthenaSoldiersPolishedJadeMindMelt.TAthenaSoldiersPolishedJadeMindMelt",
+    "position": {
+      "x": 52760.0,
+      "y": 48468.0,
+      "z": 3728.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Season33.Story.Chat.01",
+      "Conversation.Entry.PolishedJade.Dialogue",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "I'll try to help, however I can.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I can't explain my connection to the sprites in words, exactly.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I can understand them. I can feel what they feel. They listen to me.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "And... I can feel this great, slow heartbeat in my chest, alongside my own.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I think it's the heartbeat of the Island itself.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'm worried about Daigo. He's obsessed with the darkness he saw in the Spirit Realm.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "He thinks he alone can face it. He's wrong.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "If he tries to face the heart of the darkness alone, he will lose. It will take him.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "We have to stop him. But I don't know if we can.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The Spirit Realm… I can barely remember my time there, but it was strange. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The Spirit Realm wasn’t dark, or evil… but there was a dark presence there. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It knew me. My family's bloodline. And it wants us, all of us... but especially Daigo.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It has the Shard. We can’t let it take the Island.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Magic can be good or bad, but it's always wild.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Keep an eye out for the sprites. They like to play.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Magic can be good or bad, but it's always wild.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I survived the Spirit Realm and I didn't even get a cool t-shirt.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I think I need a break from adventures for a bit.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "This Island is beautiful, and it's my destiny to protect it.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I can feel this deep, magical connection to the sprites and the Island. It's amazing.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I'm worried about Daigo. Wherever he is...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      },
+      {
+        "message": "I'm worried about you, Daigo. Please... just come home.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Daigo",
+            "characterId": "Character_MistMylar_Claw",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MistMylar_Claw.Character_MistMylar_Claw",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_MistMylar_ClawMaskON_L.T_Soldier_MistMylar_ClawMaskON_L"
+          }
+        ]
+      },
+      {
+        "message": "However I can help your quest, I'm happy to.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shadow Blade Hope",
+            "characterId": "Character_IronLilac_Sly",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_IronLilac_Sly.Character_IronLilac_Sly",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_IronLilac_Sly_L.T_Soldier_IronLilac_Sly_L"
+          }
+        ]
+      },
+      {
+        "message": "Trust me. Magic is real... and dangerous.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Joss",
+            "characterId": "Character_TrafficHat_Boba",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_TrafficHat_Boba.Character_TrafficHat_Boba",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_TrafficHat_Boba_L.T_Soldier_TrafficHat_Boba_L"
+          }
+        ]
+      },
+      {
+        "message": "You think you own your wealth... but I think it owns you.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Fletcher Kane",
+            "characterId": "Character_SherWolf_Gnash",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SherWolf_Gnash.Character_SherWolf_Gnash",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_Sherwolf_Gnash_L.T_Soldier_Sherwolf_Gnash_L"
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.Hire",
+        "name": "Hire",
+        "price": 250,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Holo Twister Assault Rifle",
+        "itemId": "WID_Assault_FirePetal_Mid_Athena_R",
+        "rarity": "Rare",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/FirePetalWeaponGameplay/Gameplay/FirePetal_AR_Mid/WID_Assault_FirePetal_Mid_Athena_R.WID_Assault_FirePetal_Mid_Athena_R"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.CasinoReaper",
+    "displayName": "Cassidy Quinn",
+    "shortDescription": "She's all in.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S34/TAthenaSoldiersCasinoReaperDie.TAthenaSoldiersCasinoReaperDie",
+    "dialogues": [
+      {
+        "message": "I'm all in.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Cassidy Quinn, at your disservice.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "I'm all in.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Has fate dealt you a good hand today?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Some people call me the Quinn of Spades. You know, when I ask them to.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Whatever you're planning, deal me in.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I'll slow down when I'm good and ready for it.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Keisha Cross",
+            "characterId": "Character_TealMink_Pelt",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_TealMink_Pelt.Character_TealMink_Pelt",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_TealMink_Pelt_L.T_Soldier_TealMink_Pelt_L"
+          }
+        ]
+      },
+      {
+        "message": "You're... Midas!! THE Midas!! Oh... Oh wow....",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Outlaw Midas",
+            "characterId": "Character_AuraCop_Bullet",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_AuraCop_Bullet.Character_AuraCop_Bullet",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_AuraCop_Bullet_L.T_Soldier_AuraCop_Bullet_L"
+          }
+        ]
+      },
+      {
+        "message": "You're not gonna catch me.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Fletcher Kane",
+            "characterId": "Character_SherWolf_Gnash",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SherWolf_Gnash.Character_SherWolf_Gnash",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_Sherwolf_Gnash_L.T_Soldier_Sherwolf_Gnash_L"
+          }
+        ]
+      },
+      {
+        "message": "Got questions? Hit me.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "No risk, no reward baby.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "And no cool story to impress people with afterwards, either.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Sometimes risking it all is scary, but you can do anything scared.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "And whatever happens, you're a little less scared to do it next time.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "That arrogant, pompous, TACKY pomeranian...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "He thinks he can rule with an iron paw.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But when tyranny bites... we bite back.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "When we're through with him, he'll run cryin' back to his kennel.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "He's a legend. Literally. I can't believe he's real.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "When I was a kid, I dreamt of working with him...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The ultimate criminal. And me, his protege. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "...Sorry, I got distracted. What did you want?",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Gold Splash",
+        "itemId": "WID_Athena_VividBronco",
+        "rarity": "Rare",
+        "price": 0,
+        "sellCount": 1,
+        "objectPath": "/VividRazorConsumablesGameplay/Gameplay/WID_Athena_VividBronco.WID_Athena_VividBronco"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.DashSurge",
+    "displayName": "Durrr Taisho",
+    "shortDescription": "If you can't take the heat, stay outta the wasabi.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/T_AthenaSoldiers_DashSurge.T_AthenaSoldiers_DashSurge",
+    "dialoguesTags": [
+      "Conversation.Entry.DashSurge.Dialogue",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "What do you need from sashi-me?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Making sushi is a delicate culinary art. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You have to have the best ingredients and most precise preparation. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You know what they say: There's nowhere to hide on the sushi plate!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Munch on my masterful maki.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "My rolls are Durrr-licious!",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Munch on my masterful maki.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Fresh cut fish on rice. What could be better than that?!",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Don't be afraid, little fish! It impacts your deliciousness.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Fishstick",
+            "characterId": "CID_315_Athena_Commando_M_TeriyakiFish",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_315_Athena_Commando_M_TeriyakiFish.CID_315_Athena_Commando_M_TeriyakiFish",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-315-Athena-Commando-M-TeriyakiFish-L.T-Soldier-HID-315-Athena-Commando-M-TeriyakiFish-L"
+          }
+        ]
+      },
+      {
+        "message": "I'd be willing to franchise, if you're interested.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Maki Master",
+            "characterId": "CID_271_Athena_Commando_F_SushiChef",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_271_Athena_Commando_F_SushiChef.CID_271_Athena_Commando_F_SushiChef",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-271-Athena-Commando-F-SushiChef-L.T-Soldier-HID-271-Athena-Commando-F-SushiChef-L"
+          }
+        ]
+      },
+      {
+        "message": "Gila has thunder rolls. I have lightning rolls. They're completely different products!",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Thunder",
+            "characterId": "Character_LocalZilla",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_LocalZilla.Character_LocalZilla",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S24/T-Soldier-Hero-LocalZilla-Night-L.T-Soldier-Hero-LocalZilla-Night-L"
+          }
+        ]
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.RoyalAngst",
+    "displayName": "Valentina",
+    "shortDescription": "Get in, get the goods, and get out with style.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S34/T_AthenaSoldiers_RoyalAngst_Tote.T_AthenaSoldiers_RoyalAngst_Tote",
+    "position": {
+      "x": -95062.516,
+      "y": 16946.408,
+      "z": 4804.0
+    },
+    "dialogues": [
+      {
+        "message": "Don't waste my time. What do you need?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Hey.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Don't waste my time. What do you need?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "The world's got a rhythm. Pay attention to it, and you can get anywhere.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I can crack any safe on this Island. Just watch me.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Cassidy Quinn. Always a sight for sore eyes.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Cassidy Quinn",
+            "characterId": "Character_CasinoReaper_Die",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CasinoReaper_Die.Character_CasinoReaper_Die",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_CasinoReaper_Die_L.T_Soldier_CasinoReaper_Die_L"
+          }
+        ]
+      },
+      {
+        "message": "I like your beats. Your bars are a little... briny.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Big Dill",
+            "characterId": "Character_WartyBrine_Sus",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_WartyBrine_Sus.Character_WartyBrine_Sus",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_WartyBrine_L.T_Soldier_WartyBrine_L"
+          }
+        ]
+      },
+      {
+        "message": "Your security's a joke, Kane. And not even a funny one.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Fletcher Kane",
+            "characterId": "Character_SherWolf_Gnash",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SherWolf_Gnash.Character_SherWolf_Gnash",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_Sherwolf_Gnash_L.T_Soldier_Sherwolf_Gnash_L"
+          }
+        ]
+      },
+      {
+        "message": "Your girl Quinn came 'round. You two still runnin' together?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Keisha Cross",
+            "characterId": "Character_TealMink_Pelt",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_TealMink_Pelt.Character_TealMink_Pelt",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_TealMink_Pelt_L.T_Soldier_TealMink_Pelt_L"
+          }
+        ]
+      },
+      {
+        "message": "Skillet! How're the booms?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Skillet",
+            "characterId": "Character_RageDebris",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_RageDebris.Character_RageDebris",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_RageDebris_Glasses_L.T_Soldier_RageDebris_Glasses_L"
+          }
+        ]
+      },
+      {
+        "message": "You've got questions? Hit me.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Crime is like a dance.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "A bank job is a ballet: carefully choreographed, everyone in their role. Tense, beautiful.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Safecracking is a bachata: intimate, sensual, dangerous.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Robbing Kane is like a school dance: embarassingly easy if you've got any rhythm.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Port-A-Cover",
+        "itemId": "WID_Athena_DeployedCover",
+        "rarity": "Rare",
+        "price": 0,
+        "sellCount": 1,
+        "objectPath": "/DeployedCoverGameplay/Items/WID_Athena_DeployedCover.WID_Athena_DeployedCover"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Specialist.Scout.CubicVice",
+    "displayName": "Kendo",
+    "specialization": "Scout Specialist",
+    "shortDescription": "A wandering rōnin with a restless spirit.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/T_AthenaSoldiers_CubicVice_Veil.T_AthenaSoldiers_CubicVice_Veil",
+    "position": {
+      "x": -89652.0,
+      "y": 90288.0,
+      "z": 9160.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Season33.Weaponexpertise.Melee.Complete.01",
+      "Conversation.Entry.CubicVice.Dialogue",
+      "Conversation.Entry.Season33.Story.MM.06",
+      "Conversation.Entry.Season33.Story.MM.01",
+      "Conversation.Entry.Season33.Story.Confrontation.01",
+      "Conversation.Entry.Season33.Story.StopMM.01",
+      "Conversation.Entry.Season33.Story.Meet.01",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "How can I help?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I love my family, but I never feel totally relaxed around them.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Hope is different. We just... get each other.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "She always has my back. And I have hers. That's a new feeling.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I hope she feels the same way.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You know that feeling you get sometimes, like you're being watched?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I get that feeling every time Daigo's got a new 'project'. Like a sixth sense.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Daigo's projects are always big, bold, and leave a huge mess for the rest of us.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I hope I'm wrong. But I know I'm not.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Jade's home, and everything is... mostly... back to normal.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "She's lost some of her recklessness. I thought I'd be relieved, but...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Still, she's exploring her connection to the sprites, and that's beautiful.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I think she's found her destiny. I'm proud, if a little jealous.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "This Island is special. It needs protection.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "My blade's at your service.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "This Island is special. It needs protection.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "My family is supposed to protect this Island. Not destroy it.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Crime, chaos... I don't recognize the Island I love anymore.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I will rid this Island of the demons that menace it.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I know you're planning something foolish, brother. Don't.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Daigo",
+            "characterId": "Character_MistMylar_Claw",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MistMylar_Claw.Character_MistMylar_Claw",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_MistMylar_ClawMaskON_L.T_Soldier_MistMylar_ClawMaskON_L"
+          }
+        ]
+      },
+      {
+        "message": "I think Daigo's working on one of his... projects.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Jade",
+            "characterId": "Character_PolishedJade_Mind",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PolishedJade_Mind.Character_PolishedJade_Mind",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_PolishedJade_Mind_L.T_Soldier_PolishedJade_Mind_L"
+          }
+        ]
+      },
+      {
+        "message": "Sometimes I feel like nobody on this Island gets me, except you.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shadow Blade Hope",
+            "characterId": "Character_IronLilac_Sly",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_IronLilac_Sly.Character_IronLilac_Sly",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_IronLilac_Sly_L.T_Soldier_IronLilac_Sly_L"
+          }
+        ]
+      },
+      {
+        "message": "You got your freedom. What comes next?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "The Night Rose",
+            "characterId": "Character_RoseDepth_Seed",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_RoseDepth_Seed.Character_RoseDepth_Seed",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_RoseDepth_Seed_L.T_Soldier_RoseDepth_Seed_L"
+          }
+        ]
+      },
+      {
+        "message": "I promise, I've got Hope's back. And I know she has mine.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "We should spar sometime. Curious to see how that'd go.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Cassidy Quinn",
+            "characterId": "Character_CasinoReaper_Die",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CasinoReaper_Die.Character_CasinoReaper_Die",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_CasinoReaper_Die_L.T_Soldier_CasinoReaper_Die_L"
+          }
+        ]
+      },
+      {
+        "message": "How can you not believe in magic?? It's all around you.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Joss",
+            "characterId": "Character_TrafficHat_Boba",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_TrafficHat_Boba.Character_TrafficHat_Boba",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_TrafficHat_Boba_L.T_Soldier_TrafficHat_Boba_L"
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.Hire",
+        "name": "Hire",
+        "price": 250,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Collateral Damage Assault Rifle",
+        "itemId": "WID_CQB_AR_R",
+        "rarity": "Rare",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/VividRazorWeaponGameplay/Gameplay/CQBAR/WID_CQB_AR_R.WID_CQB_AR_R"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.TealMink",
+    "displayName": "Keisha Cross",
+    "shortDescription": "She rules the road.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S34/TAthenaSoldiersTealMinkPelt.TAthenaSoldiersTealMinkPelt",
+    "position": {
+      "x": 36078.86,
+      "y": 52051.76,
+      "z": 2864.704
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.TealMink.Dialogue.BaronEsc"
+    ],
+    "dialogues": [
+      {
+        "message": "Howdy, gearhead.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Us gearheads have one rule: don't cause trouble in the shop.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Howdy, gearhead.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Tech and gear, available here! Ugh, that rhymed.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Welcome back.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "You promised you'd stay safe out there, Cass.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Cassidy Quinn",
+            "characterId": "Character_CasinoReaper_Die",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CasinoReaper_Die.Character_CasinoReaper_Die",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_CasinoReaper_Die_L.T_Soldier_CasinoReaper_Die_L"
+          }
+        ]
+      },
+      {
+        "message": "I don't have the parts to service your car. Sorry.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Fletcher Kane",
+            "characterId": "Character_SherWolf_Gnash",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SherWolf_Gnash.Character_SherWolf_Gnash",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_Sherwolf_Gnash_L.T_Soldier_Sherwolf_Gnash_L"
+          }
+        ]
+      },
+      {
+        "message": "You've got an angle... don't you?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Outlaw Midas",
+            "characterId": "Character_AuraCop_Bullet",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_AuraCop_Bullet.Character_AuraCop_Bullet",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_AuraCop_Bullet_L.T_Soldier_AuraCop_Bullet_L"
+          }
+        ]
+      },
+      {
+        "message": "I know just about everybody around here.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You love bikes too?! I swear, I was put on this Island to build 'em and ride 'em.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Cassidy and I used to... \"borrow\" bikes together all the time.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I've gone legit... mostly. ",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But if Cass and I hadn't boosted bikes as kids, who knows what I'd be doing now!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "In a place like this, with Kane's thumb pressin' down on all of us...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "...I think of our markets as a community good.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Even outlaws need a place to congregate, kick back, and network, you know?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "And the more Bars I make, the more bikes I can build. It's a win-win.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Cassidy's my girl! We grew up together.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "She's a thrillseeker. I'm a worrier. What else can I say?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Oh! I guess I could say: if you mess with her...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "...we're going to have a serious, serious problem. Got it?",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.RiftToGo",
+        "name": "Rift To Go",
+        "price": 300,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Rift.T_UI_NPC_Rift"
+      }
+    ],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Specialist.Supply.RoseDepth",
+    "displayName": "The Night Rose",
+    "specialization": "Supply Specialist",
+    "shortDescription": "A fearsome demon warrior, bound by ancient duty.",
+    "sidePanelIcon": "/NPCLibrary/NPCs/RoseDepth/Renders/TAthenaSoldiersRoseDepthSeedBlush.TAthenaSoldiersRoseDepthSeedBlush",
+    "position": {
+      "x": 90084.0,
+      "y": -66348.0,
+      "z": 7392.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Season33.Story.Confrontation.06",
+      "Conversation.Entry.RoseDepth.Dialogue",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "What do you want?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "There is a growing darkness at the heart of this Island.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Of course, no-one will listen to a demon. A former enemy.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Dark days are coming. I just hope this Island is ready.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I have my freedom, after centuries of bondage.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But... nobody wants to trust a demon, do they? It's... lonely.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I want to build a life, do something meaningful...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But that will take time. And at least, now, I have that.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'm free. It's been so long, I don't know what to do with myself.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I can't believe it. I am free of the puppeteer's control.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "I'm free. It's been so long, I don't know what to do with myself.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Freedom is... disorienting. But it's worth it.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "A great darkness is building... though no-one will listen.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "The Spirit Realm knows your taste now. Be careful.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Daigo",
+            "characterId": "Character_MistMylar_Claw",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MistMylar_Claw.Character_MistMylar_Claw",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_MistMylar_ClawMaskON_L.T_Soldier_MistMylar_ClawMaskON_L"
+          }
+        ]
+      },
+      {
+        "message": "I know you want my help... but I need some time.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shadow Blade Hope",
+            "characterId": "Character_IronLilac_Sly",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_IronLilac_Sly.Character_IronLilac_Sly",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_IronLilac_Sly_L.T_Soldier_IronLilac_Sly_L"
+          }
+        ]
+      },
+      {
+        "message": "I'm glad to see you've been rescued. This Island seems to love you.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Jade",
+            "characterId": "Character_PolishedJade_Mind",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PolishedJade_Mind.Character_PolishedJade_Mind",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_PolishedJade_Mind_L.T_Soldier_PolishedJade_Mind_L"
+          }
+        ]
+      },
+      {
+        "message": "I will never be bound against my will again.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shogun X",
+            "characterId": "Character_UnluckyRoll",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UnluckyRoll.Character_UnluckyRoll",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_UnluckyRoll_L.T_Soldier_UnluckyRoll_L"
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.Hire",
+        "name": "Hire",
+        "price": 250,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Veiled Precision SMG",
+        "itemId": "WID_SMG_FirePetal_Athena_R",
+        "rarity": "Rare",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/FirePetalWeaponGameplay/Gameplay/FirePetal_SMG/WID_SMG_FirePetal_Athena_R.WID_SMG_FirePetal_Athena_R"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.Fishstick",
+    "displayName": "Fishstick",
+    "shortDescription": "Keep far away from Maki Master.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/T-Soldier-HID-315-Athena-Commando-M-TeriyakiFish.T-Soldier-HID-315-Athena-Commando-M-TeriyakiFish",
+    "position": {
+      "x": 9816.0,
+      "y": -40052.0,
+      "z": 2556.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Fishstick.Dialogue",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "(Fishstick gives you his full attention.)",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "(Fishstick mimes a train moving, and then happily walking on.)",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "(Fishstick mimes a WHOLE LOT OF CHAOS and running off the train in a panic.)",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "(Fishstick droops dramatically at not being able to get onto the train.)",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "(Why did he want to get on the train? He mimes cutting sushi and scowls: REVENGE on Durrr Taisho!)",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "(Fishstick cocks his head in confusion.)",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "(Fishstick waves and burbles kindly.)",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "(Fishstick cocks his head in confusion.)",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "(Fishstick gives a little wave.)",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "(Fishstick burbles excitedly.)",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "(Fishstick's eyes widen in alarm.)",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Fish Thicc",
+            "characterId": "Character_BrawnyBass",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_BrawnyBass.Character_BrawnyBass",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S26/T-Soldier-Character-BrawnyBass.T-Soldier-Character-BrawnyBass"
+          }
+        ]
+      },
+      {
+        "message": "(Fishstick glares with angry intent.)",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Durrr Taisho",
+            "characterId": "Character_DashSurge",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_DashSurge.Character_DashSurge",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_DashSurge_L.T_Soldier_DashSurge_L"
+          }
+        ]
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Specialist.Scout.RankedTrooper",
+    "displayName": "Elite Zadie",
+    "specialization": "Scout Specialist",
+    "shortDescription": "Founder of the Elites.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S34/T_AthenaSoldiers_RankedTrooper_Noble.T_AthenaSoldiers_RankedTrooper_Noble",
+    "position": {
+      "x": 109756.0,
+      "y": 91096.0,
+      "z": 1844.0
+    },
+    "dialogues": [
+      {
+        "message": "It takes real excellence to get an invite to the Elites.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Hey. You with the Elites?",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "It takes real excellence to get an invite to the Elites.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "There's the Elites, and then there's everybody else. ",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I'm out here scouting for the best of the best. Maybe that's you.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "What are the Elites? Wouldn't you like to know...",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Real Elites know how to climb the Ranks.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Go on. Shoot.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The Elites are interested in the mysterious power of 'siphon'.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The ability to take your opponent's vitality as your own is compelling.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "If we can unlock the true potential of this mysterious force, The Elites can take competition to a whole new level.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The Elites are an organization made up of the best of the best.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You know the types. Fast, sharp, able to face a hundred foes and come out on top.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "My people watch and rank the true competitors. For the truly elite, they can become... well, Elite.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Everybody else? Well, we need someone to cut our teeth on, don't we?",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.Hire",
+        "name": "Hire",
+        "price": 250,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Outlaw Shotgun",
+        "itemId": "WID_Shotgun_VividRazor_BreakBarrel_Athena_VR",
+        "rarity": "Epic",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/VividRazorWeaponGameplay/Gameplay/SawedOffShotgun/WID_Shotgun_VividRazor_BreakBarrel_Athena_VR.WID_Shotgun_VividRazor_BreakBarrel_Athena_VR"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.UndergroundRebel",
+    "displayName": "Vengeance Jones",
+    "shortDescription": "Iconic renegade on a mission for retribution.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S28/T-AthenaSoldiers-Character-UndergroundRebel-Fashion.T-AthenaSoldiers-Character-UndergroundRebel-Fashion",
+    "position": {
+      "x": 89484.0,
+      "y": -66228.0,
+      "z": 7420.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Season33.Weaponexpertise.Tutorial.01",
+      "Conversation.Entry.Season33.Weaponexpertise.SMG.Complete.01",
+      "Conversation.Entry.Season31.Story.P02.Q07",
+      "Conversation.Entry.UndergroundRebel.Dialogue",
+      "Conversation.Entry.Season30.Story.P01.Q01.UR",
+      "Conversation.Entry.Ch5S1.D3.Q8",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "What d'you want?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Hope's trying to figure out who she wants to be.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The luxury of peacetime, I guess. A luxury we won't have forever.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Hope's not some flashy hero type, at heart.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Hope's a leader. And a good leader's worth a hundred heroes.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Truth is, we're here hunting for a Zero Point Shard.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It's powerful. Chaotic. And prone to being misused by villain types.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I've got a lot of experience with the Zero Point, but this is a mess.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The worst part: I don't think this Shard's the only one out there...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Cat's outta the bag. Hope and I are hunting a Zero Point Shard.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'm getting too old for this mess.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "Cat's outta the bag. Hope and I are hunting a Zero Point Shard.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I'm not afraid of much, but a Zero Point Shard in the wrong hands... Yeesh.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "These outlaws are so... rowdy. Hmph.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Keep your eyes peeled and your guns close.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "There's got to be a way to get into that demon world... place.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Shadow Blade Hope",
+            "characterId": "Character_IronLilac_Sly",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_IronLilac_Sly.Character_IronLilac_Sly",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_IronLilac_Sly_L.T_Soldier_IronLilac_Sly_L"
+          }
+        ]
+      },
+      {
+        "message": "Been a minute, golden king. What're you scheming?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Outlaw Midas",
+            "characterId": "Character_AuraCop_Bullet",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_AuraCop_Bullet.Character_AuraCop_Bullet",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_AuraCop_Bullet_L.T_Soldier_AuraCop_Bullet_L"
+          }
+        ]
+      },
+      {
+        "message": "I thought we could be friends... but I think being enemies would be more fun.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Daigo",
+            "characterId": "Character_MistMylar_Claw",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MistMylar_Claw.Character_MistMylar_Claw",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_MistMylar_ClawMaskON_L.T_Soldier_MistMylar_ClawMaskON_L"
+          }
+        ]
+      },
+      {
+        "message": "If Hope gets hurt on your watch, sword boy, you'll learn what my name means.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.PatchUp",
+        "name": "Patch Up",
+        "price": 100,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_medic.T_UI_NPC_medic"
+      }
+    ],
+    "weapons": [
+      {
+        "displayName": "Holo Twister Assault Rifle",
+        "itemId": "WID_Assault_FirePetal_Mid_Athena_R",
+        "rarity": "Rare",
+        "price": 1000,
+        "sellCount": 1,
+        "objectPath": "/FirePetalWeaponGameplay/Gameplay/FirePetal_AR_Mid/WID_Assault_FirePetal_Mid_Athena_R.WID_Assault_FirePetal_Mid_Athena_R"
+      },
+      {
+        "displayName": "Pulse Scanner",
+        "itemId": "WID_Athena_ThrownMarking",
+        "rarity": "Epic",
+        "price": 0,
+        "sellCount": 1,
+        "objectPath": "/ThrownMarkingGameplay/Items/ThrownObject/WID_Athena_ThrownMarking.WID_Athena_ThrownMarking"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Specialist.Heavy.HenchmanTough",
+    "displayName": "Brutus",
+    "specialization": "Heavy Specialist",
+    "shortDescription": "Don't make him tell you twice. ",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/T-Soldier-HID-692-Athena-Commando-M-HenchmanTough.T-Soldier-HID-692-Athena-Commando-M-HenchmanTough",
+    "position": {
+      "x": 10240.0,
+      "y": -63924.0,
+      "z": 2508.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.DeluxeServices",
+      "Conversation.Entry.HenchmanTough.Dialogue",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "You've got questions, I've got redacted answers.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Oh, that place is NOT safe.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "If you're headed that way, I can provide backup and muscle.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "For a price. Heh.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Everyone thinks they've got the boss pinned down. Understood. Dead to rights.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "They never do.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Midas is a complicated, *motivated* person.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But he's always been good to me. And in my mind, he's always been justified to do what he does.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Neither. My allegiance was always to the boss.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I go where he goes. I do what he needs done.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Midas has been good to me over the years. He'll have my loyalty for a lifetime.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You look like you need somethin'.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You look surprised to see me.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "You look like you need somethin'.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "You got a message from the Boss?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Where Midas goes, I follow.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Boss. Good to have ya back.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Outlaw Midas",
+            "characterId": "Character_AuraCop_Bullet",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_AuraCop_Bullet.Character_AuraCop_Bullet",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_AuraCop_Bullet_L.T_Soldier_AuraCop_Bullet_L"
+          }
+        ]
+      },
+      {
+        "message": "Good to see ya, Big Cat.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Meowscles",
+            "characterId": "CID_693_Athena_Commando_M_BuffCat",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_693_Athena_Commando_M_BuffCat.CID_693_Athena_Commando_M_BuffCat",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-693-Athena-Commando-M-BuffCat-L.T-Soldier-HID-693-Athena-Commando-M-BuffCat-L"
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.Hire",
+        "name": "Hire",
+        "price": 250,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Hire.T_UI_NPC_Hire"
+      }
+    ],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.AuraCop",
+    "displayName": "Outlaw Midas",
+    "shortDescription": "A glittering, SHADOWy gunslinger.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S34/TAthenaSoldiersAuraCopBullet.TAthenaSoldiersAuraCopBullet",
+    "position": {
+      "x": 38406.0,
+      "y": 51713.0,
+      "z": 2181.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.Season34.Story.P05.Q06.01",
+      "Conversation.Entry.Season34.Outlaw.Dialogue.01",
+      "Conversation.Entry.Season34.Story.P03.Q06",
+      "Conversation.Entry.Expertise.Exotic",
+      "Conversation.Entry.Season34.Expertise.Exotic.Finish",
+      "Conversation.Entry.Season34.Expertise.Exotic.Introduction",
+      "Conversation.Entry.AuraCop.Dialogue",
+      "Conversation.Entry.BasicServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "I can't promise I'll answer.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You must have been wondering why I leveraged my influence to prop up a scam like Dill Bits.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Or maybe you've guessed. After all, Kane could never resist the temptation of a quick Bar.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Between the outlaws and this ill-considered investment, Kane's little empire is crumbling.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The best way to defeat an old dog is to come up with some new tricks. And that's always been my specialty.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "We're... old acquaintances. And yes, he's always been a pompous blowhard.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Even when \"The Baron\" had nothing, he believed the world belonged to him.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I've always been one step ahead of him. And I suspect he's taken that personally over the years.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Ah, well. It can't be helped. Robber kings can either be the best or yield to the best. And Kane will yield.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Oh, it's not altruism, believe me. These people can decide what's best for them just fine.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "And these criminals don't want to be governed. Least of all by me.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But we have a singular aligned goal: get Kane out of everyone's way.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It's a tenuous, temporary alliance. But if we can pull this off, everyone wins. Isn't that nice?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "They've been calling me the Golden Gunslinger. I... think I like it.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Did you miss me?",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "They've been calling me the Golden Gunslinger. I... think I like it.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "I suppose they call it \"Crime City\" for a reason.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Yes?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "You're looking at me like you know I'm up to something.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Have you been telling people you're my protege? That's... bold.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Cassidy Quinn",
+            "characterId": "Character_CasinoReaper_Die",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CasinoReaper_Die.Character_CasinoReaper_Die",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S34/T_Soldier_CasinoReaper_Die_L.T_Soldier_CasinoReaper_Die_L"
+          }
+        ]
+      },
+      {
+        "message": "I meant to write. I'm sorry.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Jules",
+            "characterId": "CID_770_Athena_Commando_F_MechanicalEngineer",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_770_Athena_Commando_F_MechanicalEngineer.CID_770_Athena_Commando_F_MechanicalEngineer",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-770-Athena-Commando-F-MechanicalEngineer-L.T-Soldier-HID-770-Athena-Commando-F-MechanicalEngineer-L"
+          }
+        ]
+      },
+      {
+        "message": "I'm so grateful for your loyalty, old friend.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Brutus",
+            "characterId": "CID_692_Athena_Commando_M_HenchmanTough",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_692_Athena_Commando_M_HenchmanTough.CID_692_Athena_Commando_M_HenchmanTough",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-692-Athena-Commando-M-HenchmanTough-L.T-Soldier-HID-692-Athena-Commando-M-HenchmanTough-L"
+          }
+        ]
+      },
+      {
+        "message": "(Midas scritches your ears affectionately.)",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Meowscles",
+            "characterId": "CID_693_Athena_Commando_M_BuffCat",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_693_Athena_Commando_M_BuffCat.CID_693_Athena_Commando_M_BuffCat",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-693-Athena-Commando-M-BuffCat-L.T-Soldier-HID-693-Athena-Commando-M-BuffCat-L"
+          }
+        ]
+      },
+      {
+        "message": "I don't know another woman across reality who'd break me out of the Underworld like you did.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Marigold",
+            "characterId": "CID_A_034_Athena_Commando_F_CatBurglar",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_A_034_Athena_Commando_F_CatBurglar.CID_A_034_Athena_Commando_F_CatBurglar",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-A-034-Athena-Commando-F-CatBurglar-L.T-Soldier-HID-A-034-Athena-Commando-F-CatBurglar-L"
+          }
+        ]
+      },
+      {
+        "message": "Lay low, cambrioleur. I'd prefer our little rapprochement remain a secret.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Montague",
+            "characterId": "Character_DiamondHeart_Chic",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_DiamondHeart_Chic.Character_DiamondHeart_Chic",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-DiamondHeart-Chic-L.T-Soldier-Hero-DiamondHeart-Chic-L"
+          }
+        ]
+      }
+    ],
+    "services": [],
+    "weapons": []
+  }
+]
