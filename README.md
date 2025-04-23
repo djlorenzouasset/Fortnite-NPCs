@@ -24,6 +24,9 @@ All the informations are stored in the [NPCS folder](./NPCS/). Every update has 
             - [v34.20](./NPCS/Chapter%206/Season%202/v34.20/)
             - v34.21 (No new dialogues were added)
             - [v34.30](./NPCS/Chapter%206/Season%202/v34.30/)
+            - [v34.40](./NPCS/Chapter%206/Season%202/v34.40/)
+        - [Season 3](./NPCS/Chapter%206/Season%203/)
+            - v35.00 - Coming May 2, 2025.
 
 ## Authors
 - [ᴅᴊʟᴏʀ3xᴢo](https://twitter.com/djlorenzouasset)
