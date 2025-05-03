@@ -1,0 +1,84 @@
+----- NPC: Wookiee Team Leader -----
+Default Dialogue: *Howls as if to say "Oh, it's you! How have you been?"*
+First Interaction: *Greets you with a welcoming yodel*
+Wearing Han Solo: *Roars approvingly*
+Wearing Darth Vader, Darth Vader Samurai, Emperor Palpatine, General Grievous: *Growls apprehensively*
+Wearing Chewbacca: *Grumbles happily*
+Default Dialogue: *Growls amiably*
+Default Dialogue: *Mumbles in confusion*
+
+
+----- NPC: General Grievous -----
+Default Dialogue: What is it?
+Default Dialogue: One can always spot a fellow collector.
+Default Dialogue: You again. What is it?
+First Interaction: What?!
+Random Dialogue: You again. What is it?
+Random Dialogue: Have you brought me a lightsaber, or are you here to waste my time?
+Wearing Darth Vader, Darth Vader Samurai: ...
+
+Wearing Emperor Palpatine: ...
+Wearing Guff: Get out of my sight.
+
+
+----- NPC: Leia Organa -----
+Default Dialogue: What's up?
+Default Dialogue: You'll find no finer training than what the rebellion offers.
+Default Dialogue: Find them. Become worthy to this great cause.
+Default Dialogue: The rebellion never forgets a friend.
+Default Dialogue: Some secrets are best kept secret. For now.
+Default Dialogue: We're always looking for trustworthy friends.
+Default Dialogue: That's a big quest. I'll share what I know when the time is right. 
+Default Dialogue: What've you heard?
+First Interaction: Have I met you before? You seem... familiar.
+Wearing Han Solo: You look way too pleased with yourself, Han...
+Wearing Luke Skywalker: You were right to trust these people. How can I help?
+Wearing Vengeance Jones: If you play your part, we're more than happy to have you.
+
+
+----- NPC: Han Solo -----
+Default Dialogue: Whaddya want, kid?
+Default Dialogue: It's hard to earn her trust, but she's the only one worth talking to.
+Default Dialogue: You don't give up, do ya?
+First Interaction: Whatever it is you want, I'm not interested.
+Wearing Leia Organa: What did I do now?
+Wearing Luke Skywalker: I figured you'd be logging some flight hours.
+Wearing Wookiee Team Leader: If you're looking for Chewie, I haven't seen him.
+
+
+----- NPC: Poe Dameron -----
+Default Dialogue: Look who it is.
+First Interaction: Well hello.
+Wearing Darth Vader, Darth Vader Samurai: ...
+Wearing General Grievous: ...
+Wearing Emperor Palpatine: ...
+Default Dialogue: How're you holding up?
+Default Dialogue: They tell me to fly and I fly. That's enough for me.
+Default Dialogue: You never know what you're capable of until you give it a shot.
+
+
+----- NPC: Shadow Blade Hope -----
+Default Dialogue: What's up?
+Default Dialogue: If I had to guess, I'd say they're looking for power...
+Default Dialogue: And you know how that ends.
+Default Dialogue: He's brought us all to a dangerous place. I don't know what happens next...
+Default Dialogue: But it's far from over.
+Default Dialogue: How're you holding up?
+First Interaction: I'm glad you're here. This is going to get... interesting.
+Wearing Darth Vader, Darth Vader Samurai, General Grievous: ...
+Wearing Peely: Keep your eyes... peeled. A few of our new friends seem a little curious about you. 
+Wearing Kendo: The threat is not gone... but it may have to wait.
+Wearing Daigo: You're not him. I can tell.
+Wearing Vengeance Jones: We need to learn everything we can. The factions. The ships... everything.
+
+
+----- NPC: Vengeance Jones -----
+Default Dialogue: I hope you're making friends, we're going to need 'em.
+First Interaction: Don't go too far, I might need you.
+Random Dialogue: I hope you're making friends, we're going to need 'em.
+Random Dialogue: Keep your eyes open, I think things are about to get interesting.
+Random Dialogue: Hey.
+Wearing Darth Vader, Darth Vader Samurai, Emperor Palpatine, General Grievous: ...
+Wearing Peely: Just so you know, one of our new friends seems interested in eating you. I'm sure you'll work it out. 
+
+

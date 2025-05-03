@@ -19,14 +19,8 @@ All the informations are stored in the [NPCS folder](./NPCS/). Every update has 
     - [Chapter 6](./NPCS/Chapter%206/)
         - [Season 1](./NPCS/Chapter%206/Season%201/)
         - [Season 2](./NPCS/Chapter%206/Season%202/)
-            - [v34.00](./NPCS/Chapter%206/Season%202/v34.00/)
-            - [v34.10](./NPCS/Chapter%206/Season%202/v34.10/)
-            - [v34.20](./NPCS/Chapter%206/Season%202/v34.20/)
-            - v34.21 (No new dialogues were added)
-            - [v34.30](./NPCS/Chapter%206/Season%202/v34.30/)
-            - [v34.40](./NPCS/Chapter%206/Season%202/v34.40/)
         - [Season 3](./NPCS/Chapter%206/Season%203/)
-            - v35.00 - Coming May 2, 2025.
+            - [v35.00](./NPCS/Chapter%206/Season%203/v35.00/)
 
 ## Authors
 - [ᴅᴊʟᴏʀ3xᴢo](https://twitter.com/djlorenzouasset)
