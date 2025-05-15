@@ -364,7 +364,78 @@
       "y": -47852.0,
       "z": 2080.0
     },
-    "dialogues": [],
+    "dialoguesTags": [
+      "Jethro.Conversation.Entry.SolarWaffle.Dialogue",
+      "Conversation.Entry.Season35.Found.SolarWaffle.01",
+      "Conversation.Entry.JethroServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "How can I help?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Look inside yourself.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The answers will follow.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Some things are best left unspoken...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Why do people keep asking me about this?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "We'll know when it's time. Until then, we all need to train.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "What's going on?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It's good to see you.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "What's going on?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Glad you're back.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Before you ask - we'll be ready.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Leia Organa",
+            "characterId": "Character_DistantEchoCastle",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_DistantEchoCastle.Character_DistantEchoCastle",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S22/T-Soldier-Hero-DistantEchoCastle-L.T-Soldier-Hero-DistantEchoCastle-L"
+          }
+        ]
+      },
+      {
+        "message": "Someone needs to help our new friends work on their aim. I volunteered you.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Han Solo",
+            "characterId": "Character_DistantEchoPilot",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_DistantEchoPilot.Character_DistantEchoPilot",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S22/T-Soldier-Hero-DistantEchoPilot-L.T-Soldier-Hero-DistantEchoPilot-L"
+          }
+        ]
+      }
+    ],
     "services": [
       {
         "tag": "Tandem.Service.PatchUp",

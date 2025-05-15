@@ -46,6 +46,21 @@ Wearing Luke Skywalker: I figured you'd be logging some flight hours.
 Wearing Wookiee Team Leader: If you're looking for Chewie, I haven't seen him.
 
 
+----- NPC: Luke Skywalker -----
+Default Dialogue: How can I help?
+Default Dialogue: Look inside yourself.
+Default Dialogue: The answers will follow.
+Default Dialogue: Some things are best left unspoken...
+Default Dialogue: Why do people keep asking me about this?
+Default Dialogue: We'll know when it's time. Until then, we all need to train.
+Default Dialogue: What's going on?
+First Interaction: It's good to see you.
+Random Dialogue: What's going on?
+Random Dialogue: Glad you're back.
+Wearing Leia Organa: Before you ask - we'll be ready.
+Wearing Han Solo: Someone needs to help our new friends work on their aim. I volunteered you.
+
+
 ----- NPC: Poe Dameron -----
 Default Dialogue: Look who it is.
 First Interaction: Well hello.
