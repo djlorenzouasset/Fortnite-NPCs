@@ -1,0 +1,779 @@
+[
+  {
+    "tagName": "AISpawnerData.Type.Tandem.Jethro.HydraTrumpet",
+    "displayName": "Wookiee Team Leader",
+    "shortDescription": "Growl it out.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S35/T_AthenaSoldiers_HydraTrumpet_CoachSalve.T_AthenaSoldiers_HydraTrumpet_CoachSalve",
+    "position": {
+      "x": 13900.0,
+      "y": 75960.0,
+      "z": 4460.0
+    },
+    "dialogues": [
+      {
+        "message": "*Howls as if to say \"Oh, it's you! How have you been?\"*",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "*Greets you with a welcoming yodel*",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "*Roars approvingly*",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Han Solo",
+            "characterId": "Character_DistantEchoPilot",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_DistantEchoPilot.Character_DistantEchoPilot",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S22/T-Soldier-Hero-DistantEchoPilot-L.T-Soldier-Hero-DistantEchoPilot-L"
+          }
+        ]
+      },
+      {
+        "message": "*Growls apprehensively*",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Darth Vader",
+            "characterId": "CID_A_422_Athena_Commando_M_Realm",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_A_422_Athena_Commando_M_Realm.CID_A_422_Athena_Commando_M_Realm",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-A-422-Athena-Commando-M-Realm-L.T-Soldier-HID-A-422-Athena-Commando-M-Realm-L"
+          },
+          {
+            "displayName": "Darth Vader Samurai",
+            "characterId": "Character_SequinPie",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SequinPie.Character_SequinPie",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_SequinPie_L.T_Soldier_SequinPie_L"
+          },
+          {
+            "displayName": "Emperor Palpatine",
+            "characterId": "Character_ClawPad_Host",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_ClawPad_Host.Character_ClawPad_Host",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S35/T_Soldier_ClawPad_Host_L.T_Soldier_ClawPad_Host_L"
+          },
+          {
+            "displayName": "General Grievous",
+            "characterId": "Character_MuffinLadle_Gas",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MuffinLadle_Gas.Character_MuffinLadle_Gas",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S35/T_Soldier_MuffinLadle_Gas_L.T_Soldier_MuffinLadle_Gas_L"
+          }
+        ]
+      },
+      {
+        "message": "*Grumbles happily*",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Chewbacca",
+            "characterId": "Character_GuineaPig",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_GuineaPig.Character_GuineaPig",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S29/T-Soldier-Hero-GuineaPig-L.T-Soldier-Hero-GuineaPig-L"
+          }
+        ]
+      },
+      {
+        "message": "*Growls amiably*",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "*Mumbles in confusion*",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.Jethro.MuffinLadle",
+    "displayName": "General Grievous",
+    "shortDescription": "Kaleesh cyborg and General of the Separatist droid army.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S35/T_AthenaSoldiers_MuffinLadle_Gas.T_AthenaSoldiers_MuffinLadle_Gas",
+    "position": {
+      "x": 35772.0,
+      "y": 42924.0,
+      "z": 5432.0
+    },
+    "dialogues": [
+      {
+        "message": "You again. What is it?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "What?!",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "You again. What is it?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Have you brought me a lightsaber, or are you here to waste my time?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "...\r\n",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Darth Vader",
+            "characterId": "CID_A_422_Athena_Commando_M_Realm",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_A_422_Athena_Commando_M_Realm.CID_A_422_Athena_Commando_M_Realm",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-A-422-Athena-Commando-M-Realm-L.T-Soldier-HID-A-422-Athena-Commando-M-Realm-L"
+          },
+          {
+            "displayName": "Darth Vader Samurai",
+            "characterId": "Character_SequinPie",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SequinPie.Character_SequinPie",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_SequinPie_L.T_Soldier_SequinPie_L"
+          }
+        ]
+      },
+      {
+        "message": "...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Emperor Palpatine",
+            "characterId": "Character_ClawPad_Host",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_ClawPad_Host.Character_ClawPad_Host",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S35/T_Soldier_ClawPad_Host_L.T_Soldier_ClawPad_Host_L"
+          }
+        ]
+      },
+      {
+        "message": "Get out of my sight.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Guff",
+            "characterId": "CID_752_Athena_Commando_M_Comet",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_752_Athena_Commando_M_Comet.CID_752_Athena_Commando_M_Comet",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-752-Athena-Commando-M-Comet-L.T-Soldier-HID-752-Athena-Commando-M-Comet-L"
+          }
+        ]
+      },
+      {
+        "message": "What is it?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "One can always spot a fellow collector.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Shield Bubble Jr.",
+        "itemId": "Athena_SilverBlazer_Mini_UC",
+        "rarity": "Common",
+        "price": 60,
+        "sellCount": 1,
+        "objectPath": "/ShieldBubble/Gameplay/ShieldBubbleJr/Athena_SilverBlazer_Mini_UC.Athena_SilverBlazer_Mini_UC"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.Jethro.SolarWaffle",
+    "displayName": "Luke Skywalker",
+    "shortDescription": "Force-sensitive farmer and galactic hero.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S22/T-AthenaSoldiers-Character-DistantEchoPro.T-AthenaSoldiers-Character-DistantEchoPro",
+    "position": {
+      "x": -80544.0,
+      "y": -47852.0,
+      "z": 2080.0
+    },
+    "dialoguesTags": [
+      "Jethro.Conversation.Entry.SolarWaffle.Dialogue",
+      "Conversation.Entry.Season35.Found.SolarWaffle.01",
+      "Conversation.Entry.JethroServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "How can I help?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Look inside yourself.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The answers will follow.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Some things are best left unspoken...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Why do people keep asking me about this?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "We'll know when it's time. Until then, we all need to train.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "What's going on?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It's good to see you.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "What's going on?",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Glad you're back.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Before you ask - we'll be ready.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Leia Organa",
+            "characterId": "Character_DistantEchoCastle",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_DistantEchoCastle.Character_DistantEchoCastle",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S22/T-Soldier-Hero-DistantEchoCastle-L.T-Soldier-Hero-DistantEchoCastle-L"
+          }
+        ]
+      },
+      {
+        "message": "Someone needs to help our new friends work on their aim. I volunteered you.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Han Solo",
+            "characterId": "Character_DistantEchoPilot",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_DistantEchoPilot.Character_DistantEchoPilot",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S22/T-Soldier-Hero-DistantEchoPilot-L.T-Soldier-Hero-DistantEchoPilot-L"
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.PatchUp",
+        "name": "Patch Up",
+        "price": 100,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_medic.T_UI_NPC_medic"
+      }
+    ],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.Jethro.TinyBook",
+    "displayName": "Jar Jar Binks",
+    "shortDescription": "Okieday!",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S35/T_AthenaSoldiers_MoleAcornGloam.T_AthenaSoldiers_MoleAcornGloam",
+    "position": {
+      "x": -3348.0,
+      "y": -8468.0,
+      "z": 1672.0
+    },
+    "dialoguesTags": [
+      "Jethro.Conversation.Entry.TinyBook.Dialogue",
+      "Conversation.Entry.Season35.Found.TinyBook.NPC",
+      "Conversation.Entry.JethroServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "Yousa needin' somethin'?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "WHEEEEEE-HOO!!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Yousa like podracing? Meesa know the best one!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Little Annie Skywalker! Heesa podrace with the best of 'em!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "WHOO-HOO-HOO!",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Meesa Jar Jar Binks! Weesa gonna be friends! Okieday?",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "WHOO-HOO-HOO!",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "(Jar Jar blows a raspberry at you.)",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "(Jar Jar's devouring a wriggling frog.)",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Annie?!",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Anakin Skywalker",
+            "characterId": "Character_PlotTwist",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_PlotTwist.Character_PlotTwist",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S24/T-Soldier-Hero-PlotTwist-L.T-Soldier-Hero-PlotTwist-L"
+          }
+        ]
+      }
+    ],
+    "services": [],
+    "weapons": [
+      {
+        "displayName": "Chug Jug",
+        "itemId": "WID_AgileChug",
+        "rarity": "Legendary",
+        "price": 600,
+        "sellCount": 1,
+        "objectPath": "/AgileChugJugGameplay/Gameplay/WID_AgileChug.WID_AgileChug"
+      }
+    ]
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.Jethro.NovaCrab",
+    "displayName": "Han Solo",
+    "shortDescription": "Smuggler. Scoundrel. Scruffy-looking nerf herder.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S22/T-AthenaSoldiers-Character-DistantEchoPilot.T-AthenaSoldiers-Character-DistantEchoPilot",
+    "position": {
+      "x": 75280.0,
+      "y": 89776.0,
+      "z": 1844.0
+    },
+    "dialogues": [
+      {
+        "message": "You don't give up, do ya?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Whatever it is you want, I'm not interested.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "What did I do now?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Leia Organa",
+            "characterId": "Character_DistantEchoCastle",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_DistantEchoCastle.Character_DistantEchoCastle",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S22/T-Soldier-Hero-DistantEchoCastle-L.T-Soldier-Hero-DistantEchoCastle-L"
+          }
+        ]
+      },
+      {
+        "message": "I figured you'd be logging some flight hours.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Luke Skywalker",
+            "characterId": "Character_DistantEchoPro",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_DistantEchoPro.Character_DistantEchoPro",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S22/T-Soldier-Hero-DistantEchoPro-L.T-Soldier-Hero-DistantEchoPro-L"
+          }
+        ]
+      },
+      {
+        "message": "If you're looking for Chewie, I haven't seen him.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Wookiee Team Leader",
+            "characterId": "Character_HydraTrumpetCoach",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_HydraTrumpetCoach.Character_HydraTrumpetCoach",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S35/T_Soldier_HydraTrumpet_Coach_L.T_Soldier_HydraTrumpet_Coach_L"
+          }
+        ]
+      },
+      {
+        "message": "Whaddya want, kid?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "It's hard to earn her trust, but she's the only one worth talking to.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [
+      {
+        "tag": "Tandem.Service.RiftToGo",
+        "name": "Rift To Go",
+        "price": 300,
+        "icon": "/Game/Athena/HUD/Interaction/T_UI_NPC_Rift.T_UI_NPC_Rift"
+      }
+    ],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.Jethro.MarkerDeer",
+    "displayName": "Poe Dameron",
+    "shortDescription": "The finest pilot in the Resistance.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S35/T_AthenaSoldiers_MarkerDeer_Tin.T_AthenaSoldiers_MarkerDeer_Tin",
+    "position": {
+      "x": -79496.0,
+      "y": -80200.0,
+      "z": 1276.0
+    },
+    "dialoguesTags": [
+      "Conversation.Entry.MarkerDeer.TrainingCompleted"
+    ],
+    "dialogues": [
+      {
+        "message": "Look who it is.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Well hello.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Darth Vader",
+            "characterId": "CID_A_422_Athena_Commando_M_Realm",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_A_422_Athena_Commando_M_Realm.CID_A_422_Athena_Commando_M_Realm",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-A-422-Athena-Commando-M-Realm-L.T-Soldier-HID-A-422-Athena-Commando-M-Realm-L"
+          },
+          {
+            "displayName": "Darth Vader Samurai",
+            "characterId": "Character_SequinPie",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SequinPie.Character_SequinPie",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_SequinPie_L.T_Soldier_SequinPie_L"
+          }
+        ]
+      },
+      {
+        "message": "...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "General Grievous",
+            "characterId": "Character_MuffinLadle_Gas",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MuffinLadle_Gas.Character_MuffinLadle_Gas",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S35/T_Soldier_MuffinLadle_Gas_L.T_Soldier_MuffinLadle_Gas_L"
+          }
+        ]
+      },
+      {
+        "message": "...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Emperor Palpatine",
+            "characterId": "Character_ClawPad_Host",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_ClawPad_Host.Character_ClawPad_Host",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S35/T_Soldier_ClawPad_Host_L.T_Soldier_ClawPad_Host_L"
+          }
+        ]
+      },
+      {
+        "message": "How're you holding up?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "They tell me to fly and I fly. That's enough for me.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You never know what you're capable of until you give it a shot.",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.Jethro.SmallDrum",
+    "displayName": "Leia Organa",
+    "shortDescription": "Princess. Senator. Rebel. Icon.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S22/T-AthenaSoldiers-Character-DistantEchoCastle.T-AthenaSoldiers-Character-DistantEchoCastle",
+    "position": {
+      "x": 268.0,
+      "y": -49804.0,
+      "z": 4204.0
+    },
+    "dialogues": [
+      {
+        "message": "What've you heard?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Have I met you before? You seem... familiar.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "You look way too pleased with yourself, Han...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Han Solo",
+            "characterId": "Character_DistantEchoPilot",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_DistantEchoPilot.Character_DistantEchoPilot",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S22/T-Soldier-Hero-DistantEchoPilot-L.T-Soldier-Hero-DistantEchoPilot-L"
+          }
+        ]
+      },
+      {
+        "message": "You were right to trust these people. How can I help?",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Luke Skywalker",
+            "characterId": "Character_DistantEchoPro",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_DistantEchoPro.Character_DistantEchoPro",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S22/T-Soldier-Hero-DistantEchoPro-L.T-Soldier-Hero-DistantEchoPro-L"
+          }
+        ]
+      },
+      {
+        "message": "If you play your part, we're more than happy to have you.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      },
+      {
+        "message": "What's up?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "You'll find no finer training than what the rebellion offers.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Find them. Become worthy to this great cause.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "The rebellion never forgets a friend.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Some secrets are best kept secret. For now.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "We're always looking for trustworthy friends.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "That's a big quest. I'll share what I know when the time is right. ",
+        "bDefaultDialogue": true
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.IronLilac",
+    "displayName": "Shadow Blade Hope",
+    "shortDescription": "See through the shadows.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S33/T_AthenaSoldiers_IronLilac_Sly.T_AthenaSoldiers_IronLilac_Sly",
+    "dialoguesTags": [
+      "Jethro.Conversation.Entry.IronLilac.Dialogue",
+      "Conversation.Entry.JethroServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "What's up?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "If I had to guess, I'd say they're looking for power...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "And you know how that ends.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "He's brought us all to a dangerous place. I don't know what happens next...",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "But it's far from over.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "How're you holding up?",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "I'm glad you're here. This is going to get... interesting.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Darth Vader",
+            "characterId": "CID_A_422_Athena_Commando_M_Realm",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_A_422_Athena_Commando_M_Realm.CID_A_422_Athena_Commando_M_Realm",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-A-422-Athena-Commando-M-Realm-L.T-Soldier-HID-A-422-Athena-Commando-M-Realm-L"
+          },
+          {
+            "displayName": "Darth Vader Samurai",
+            "characterId": "Character_SequinPie",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SequinPie.Character_SequinPie",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_SequinPie_L.T_Soldier_SequinPie_L"
+          },
+          {
+            "displayName": "General Grievous",
+            "characterId": "Character_MuffinLadle_Gas",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MuffinLadle_Gas.Character_MuffinLadle_Gas",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S35/T_Soldier_MuffinLadle_Gas_L.T_Soldier_MuffinLadle_Gas_L"
+          }
+        ]
+      },
+      {
+        "message": "Keep your eyes... peeled. A few of our new friends seem a little curious about you. ",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Peely",
+            "characterId": "CID_349_Athena_Commando_M_Banana",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_349_Athena_Commando_M_Banana.CID_349_Athena_Commando_M_Banana",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-349-Athena-Commando-M-Banana-L.T-Soldier-HID-349-Athena-Commando-M-Banana-L"
+          }
+        ]
+      },
+      {
+        "message": "The threat is not gone... but it may have to wait.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Kendo",
+            "characterId": "Character_CubicVice_Dual",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_CubicVice_Dual.Character_CubicVice_Dual",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_CubicVice_L.T_Soldier_CubicVice_L"
+          }
+        ]
+      },
+      {
+        "message": "You're not him. I can tell.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Daigo",
+            "characterId": "Character_MistMylar_Claw",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MistMylar_Claw.Character_MistMylar_Claw",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_MistMylar_ClawMaskON_L.T_Soldier_MistMylar_ClawMaskON_L"
+          }
+        ]
+      },
+      {
+        "message": "I don't know if our new friends need us... but I can't just sit back and watch.",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Vengeance Jones",
+            "characterId": "Character_UndergroundRebel_Fashion",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_UndergroundRebel_Fashion.Character_UndergroundRebel_Fashion",
+            "heroDefinition": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-UnderGroundRebel-Fashion-L.T-Soldier-Hero-UnderGroundRebel-Fashion-L"
+          }
+        ]
+      }
+    ],
+    "services": [],
+    "weapons": []
+  },
+  {
+    "tagName": "AISpawnerData.Type.Tandem.UndergroundRebel",
+    "displayName": "Vengeance Jones",
+    "shortDescription": "Iconic renegade on a mission for retribution.",
+    "sidePanelIcon": "/OfferCatalog/Textures/BattleRoyale/FeaturedItems/Outfit/S28/T-AthenaSoldiers-Character-UndergroundRebel-Fashion.T-AthenaSoldiers-Character-UndergroundRebel-Fashion",
+    "dialoguesTags": [
+      "Conversation.Entry.JethroServices",
+      "Conversation.Entry.NPCLibrary.Quests"
+    ],
+    "dialogues": [
+      {
+        "message": "I hope you're making friends, we're going to need 'em.",
+        "bDefaultDialogue": true
+      },
+      {
+        "message": "Don't go too far, I might need you.",
+        "bFirstInteractionDialogue": true
+      },
+      {
+        "message": "I hope you're making friends, we're going to need 'em.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Keep your eyes open, I think things are about to get interesting.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "Hey.",
+        "bRandomDialogue": true
+      },
+      {
+        "message": "...",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Darth Vader",
+            "characterId": "CID_A_422_Athena_Commando_M_Realm",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_A_422_Athena_Commando_M_Realm.CID_A_422_Athena_Commando_M_Realm",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-A-422-Athena-Commando-M-Realm-L.T-Soldier-HID-A-422-Athena-Commando-M-Realm-L"
+          },
+          {
+            "displayName": "Darth Vader Samurai",
+            "characterId": "Character_SequinPie",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_SequinPie.Character_SequinPie",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S33/T_Soldier_SequinPie_L.T_Soldier_SequinPie_L"
+          },
+          {
+            "displayName": "Emperor Palpatine",
+            "characterId": "Character_ClawPad_Host",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_ClawPad_Host.Character_ClawPad_Host",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S35/T_Soldier_ClawPad_Host_L.T_Soldier_ClawPad_Host_L"
+          },
+          {
+            "displayName": "General Grievous",
+            "characterId": "Character_MuffinLadle_Gas",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/Character_MuffinLadle_Gas.Character_MuffinLadle_Gas",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S35/T_Soldier_MuffinLadle_Gas_L.T_Soldier_MuffinLadle_Gas_L"
+          }
+        ]
+      },
+      {
+        "message": "Just so you know, one of our new friends seems interested in eating you. I'm sure you'll work it out. ",
+        "bRequireCharacters": true,
+        "requiredCharacters": [
+          {
+            "displayName": "Peely",
+            "characterId": "CID_349_Athena_Commando_M_Banana",
+            "objectDefinition": "/BRCosmetics/Athena/Items/Cosmetics/Characters/CID_349_Athena_Commando_M_Banana.CID_349_Athena_Commando_M_Banana",
+            "heroDefinition": "/BRCosmetics/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-349-Athena-Commando-M-Banana-L.T-Soldier-HID-349-Athena-Commando-M-Banana-L"
+          }
+        ]
+      }
+    ],
+    "services": [],
+    "weapons": []
+  }
+]
