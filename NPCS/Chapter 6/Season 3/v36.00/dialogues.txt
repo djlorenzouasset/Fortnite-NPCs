@@ -1,0 +1,410 @@
+----- NPC: Robin -----
+Default Dialogue: What do you want to know?
+Default Dialogue: I've noticed things, sure.
+Default Dialogue: But if Hope and Jones don't want me revealing their secrets...
+Default Dialogue: They're trying to do the right thing with this Academy.
+Default Dialogue: Even if they're being bankrolled by someone I wouldn't trust.
+Default Dialogue: Supernova Academy brought me in to help train these new heroes.
+Default Dialogue: They're rough around the edges, but they've got promise.
+Default Dialogue: If they can learn to work together, maybe they can do this.
+Default Dialogue: Who do you think I am?
+Default Dialogue: I'm Tim Drake. Yeah, the smart one.
+Default Dialogue: Probably the best fit to help kick these heroes into shape.
+Default Dialogue: Being a new hero is a lot of work. I hope they're ready.
+Default Dialogue: If you have to ask which Robin I am, you don't deserve to know.
+First Interaction: Hey. I'm Robin.
+Random Dialogue: If you have to ask which Robin I am, you don't deserve to know.
+Random Dialogue: Superheroes. A supervillain with an evil plan. Sounds familiar.
+Random Dialogue: That Mask Maker is going down.
+Wearing TBD, Rebirth Raven: Dick's not around right now. Just me.
+
+
+----- NPC: Haylee Skye -----
+Default Dialogue: How can I help?
+Default Dialogue: It's a medium iced latte with a protein booster, a cinnamon swizzle stick...
+Default Dialogue: ...and an egg. 
+Default Dialogue: Yes, I stir a poached egg into my latte! It's healthy, delicious, and time-efficient!!
+Default Dialogue: Did Ziggy tell you about the egg thing? He never lets me live it down!
+Default Dialogue: There's nothing like bein' the beast!
+Default Dialogue: It makes me feel powerful, sure. But also gives me this deep sense of... peace?
+Default Dialogue: No anxiety, no doubt. Just the raging, perfect storm.
+Default Dialogue: It's the most exhausting and exhilarating sport I've ever done.
+Default Dialogue: Most athletes get to swap on and off the field during the game. Not cheerleaders!
+Default Dialogue: We're out there the whole time, flipping, flying, and cheering at the top of our lungs.
+Default Dialogue: It's hard work, but pepping up the crowd... nothing beats it!
+Default Dialogue: I'm all about the team.
+First Interaction: Ready? Okay!
+Random Dialogue: 5! 6! 7! 8!
+Random Dialogue: I'm all about the team.
+Random Dialogue: The only way through all of this? Teamwork.
+Wearing Lightrider: You still up to teach me how to surf?
+Wearing Synthwave: You're always on beat.
+Wearing Ziggy: Keepin' it slow, Zig? Take your time!
+Wearing Haylee Skye: It's like looking in a big, fleshy mirror.
+Wearing Killswitch: C'mon, join the cheer squad with me! Let's be backflip buddies!
+Wearing The Night Rose: You gotta teach me how to fight like you!!
+Wearing Vengeance Jones: You have sad dad energy. Um, but in a good way!
+Wearing Shadow Blade Hope: Hi, Hope!
+Wearing Superman: Let me know how I can help. I'm here for the team.
+Wearing Robin: Robin, Raven, Nighthawk... what is it with heroes and bird names?
+
+
+----- NPC: Outlaw Midas -----
+Default Dialogue: What would you like to know, hm?
+Default Dialogue: It would be unwise to assume that those unseen are absent, my friend.
+Default Dialogue: I would not abandon those who kept the faith during my... untimely incarceration.
+Default Dialogue: My agents know their assignments. Here, or otherwise.
+Default Dialogue: In the end, as always, I'll get what I want.
+Default Dialogue: I'm not going to lie to you, I'm intrigued by the Zero Point Shard.
+Default Dialogue: A source of power like that carries serious potential.
+Default Dialogue: But I'll tell you what I told Jones and Hope.
+Default Dialogue: There's no point arguing about its eventual fate before we get our hands on it.
+Default Dialogue: Fletcher Kane was always a grasping little poodle, even when we first knew each other.
+Default Dialogue: We were entangled, once, but our perspectives diverged quite violently.
+Default Dialogue: He's always been more bark than bite, poor thing.
+Default Dialogue: I could say I'm sad to see him go, but even I'm not that good of a liar.
+Default Dialogue: I've always done my best work from the SHADOWs.
+First Interaction: You already know who I am.
+Random Dialogue: I've always done my best work from the SHADOWs.
+Random Dialogue: Welcome to Utopia City. I may have aided in funding its construction.
+Random Dialogue: Grand plans require unusual allies.
+Random Dialogue: Kane is dealt with. Next, his mask maker.
+Wearing Shadow Blade Hope: We have a common goal, despite our differing motives.
+Wearing Vengeance Jones: No hard feelings, hm? Let's leave the past in the past.
+Wearing Daigo: Your recklessness has cost you greatly. My... sympathies.
+Wearing Fletcher Kane: Remember this, Kane: You lost the moment you came for me.
+Wearing Skillet: I know it's not your forte, but let's keep our continued dealings quiet.
+Wearing Cassidy Quinn: You want to be my protégé? I'll give you a chance to earn it.
+Wearing Big Dill: Happy doing business with you, Dillinger.
+Wearing Morgan Myst: And why, little bird, are you watching me so carefully?
+Wearing Jules: I hope you're finding a warmer life, outside of my shadow.
+Wearing Marigold: No matter what happens, you and I will always stand side by side.
+Wearing Brutus: Keep me apprised of the crew's movements, Brutus.
+Wearing Valentina: You're the best at what you do, and I accept nothing less.
+Wearing Joss: Good luck finding a scientific explanation for the golden curse.
+Wearing Keisha Cross: Your friend Cassidy shows real potential, if she's willing to ante up.
+
+
+----- NPC: The Night Rose -----
+Default Dialogue: No-one on this Island would survive five minutes in the Spirit Realm.
+First Interaction: I am The Night Rose. If you haven't heard of me, it's because you are beneath my notice.
+Random Dialogue: No one on this Island would survive five minutes in the Spirit Realm.
+Random Dialogue: I have my freedom. There is little else I could ask for.
+Random Dialogue: I'm now the Tactics instructor for Supernova Academy. It's... interesting.
+Wearing Lightrider: You're arrogant, Lightrider. I respect it, but tactically it makes you useless.
+Wearing Synthwave: I will teach you ruthlessness if it's the final thing I do.
+Wearing Ziggy: Come to class, lizard. I miss the snacks.
+Wearing Haylee Skye: You cannot rely wholly on the Beast's brawn. Use your brains.
+Wearing Morgan Myst: Morgan, your instincts are good. Stop constantly second-guessing them.
+Wearing Killswitch: Over-preparation is almost as deadly as under-preparation.
+Wearing Vengeance Jones: Have you figured out how we will access the Shard?
+Wearing Kendo: You helped me secure my freedom. I owe you the greatest of debts.
+Wearing Shadow Blade Hope: You helped me secure my freedom. I owe you the greatest of debts.
+Wearing Daigo: You helped me secure my freedom. I owe you the greatest of debts.
+Wearing Robin: Robin, I could use your tactical mind on my next team exercise...
+Wearing Superman: Hello, Superman.
+Default Dialogue: What would you like to know?
+Default Dialogue: These 'heroes' will need to work hard to stand any chance against the demons.
+Default Dialogue: They'll need to learn teamwork, tactics, mastery of their powers...
+Default Dialogue: I have my doubts. But I will do my part.
+Default Dialogue: The Spirit Realm is not a place of evil... but there is darkness there.
+Default Dialogue: The Spirit Realm is not a place of evil... but there is darkness there.
+Default Dialogue: The Spirit Realm is not a place of evil... but there is darkness there.
+Default Dialogue: The Spirit Realm is not a place of evil... but there is darkness there.
+Default Dialogue: Hope asked if I would teach at her fledgling Academy. I said yes.
+Default Dialogue: These 'heroes' will need my guidance to deal with threats from the Spirit Realm.
+Default Dialogue: Combat isn't about strength and weakness. It's about tactics.
+Default Dialogue: Mobility, adaptability, leverage. All more important than having the bigger gun.
+
+
+----- NPC: Lightrider -----
+Default Dialogue: Teamwork's not really my thing, but... I'm learning.
+First Interaction: Hey. I'm Lightrider. The only Supernova worth paying attention to.
+Random Dialogue: Teamwork's not really my thing, but... I'm learning.
+Random Dialogue: You're talking to a real-life superhero. You're welcome.
+Wearing Synthwave: Look, Synth, you're nice, but we're teammates, not friends.
+Wearing Ziggy: You need to take things more seriously, Ziggy.
+Wearing Haylee Skye: Come on, bring out the beast. I'll still win.
+Wearing Morgan Myst: You'll never be a leader if you don't embrace your powers.
+Wearing Killswitch: We could race, but we both already know I'd win.
+Wearing The Night Rose: The only "tactic" I need is being faster than everyone else.
+Wearing Vengeance Jones: I want to be the best of the best. Always.
+Wearing Shadow Blade Hope: I don't need any touchy-feely advice about teamwork or burnout, thanks.
+Wearing Superman: Lightrider. Remember the name.
+Wearing Robin: Please don't tell me you're here to give me homework.
+Default Dialogue: I guess I have a minute. What's up?
+Default Dialogue: They're fine. Morgan's more powerful than she thinks.
+Default Dialogue: Killswitch is a tryhard, Synthwave's too friendly, Haylee's overconfident.
+Default Dialogue: Killswitch is a tryhard, Synthwave's too friendly, Haylee's overconfident.
+Default Dialogue: In the end, the only one I depend on is myself.
+Default Dialogue: It's good to have a place to practice with my powers, I guess.
+Default Dialogue: Hope's a bit 'teamwork' and 'feelings' oriented for my taste.
+Default Dialogue: And Night Rose is condescending. Does she think she's smarter than me?
+Default Dialogue: Jones, though. He's cool. Love his aesthetic.
+Default Dialogue: It's all in the name: Light. Rider. I ride light. Easy.
+Default Dialogue: Specifically, I surf on waves of pure rezz energy.`
+Default Dialogue: What's 'rezz energy'? I don't know, do I look like a scientist?
+
+
+----- NPC: Morgan Myst -----
+Default Dialogue: Yeah, I'm Morgan Myst. I'm with The Supernovas.
+First Interaction: Hey... I'm Morgan.
+Random Dialogue: Yeah, I'm Morgan Myst. I'm with The Supernovas.
+Random Dialogue: I'm one of The Supernovas. The, uh... superhero team?
+Random Dialogue: ... Hi.
+Random Dialogue: Oh, just save the world? No pressure...
+Random Dialogue: Oh, just save the world? No pressure...
+Wearing Lightrider: See you in training, yeah?
+Wearing Synthwave: Please, no more EDM playlists. PLEASE.
+Wearing Ziggy: Hey, Zig.
+Wearing Haylee Skye: Thanks for the advice, but I don't exactly have an 'inner beast'...
+Wearing Killswitch: If you want to do any extra training, I'm in.
+Wearing The Night Rose: I'll take any extra training you've got. I have to be strong enough.
+Wearing Vengeance Jones: How exactly does this whole 'travelling across realities' stuff work?
+Wearing Outlaw Midas: What are you up to...?
+Wearing Shadow Blade Hope: I know you believe in me. That doesn't make me believe in myself.
+Wearing Daigo: If you're recruiting for some competing supervillain school or something... No thanks.
+Wearing Mercenary Kor: What do you even stand for, besides yourself?
+Wearing Skillet: No offense, but why are you always skulking around listening to people?
+Default Dialogue: I'll help if I can.
+Default Dialogue: I mean, we've got two famous superheroes, a lieutenant of the Spirit Realm, and two reality-hopping legends.
+Default Dialogue: I feel a little out of my league with them, sometimes.
+Default Dialogue: I really want to buckle down and master these powers, to prove them right.
+Default Dialogue: I want to earn my place beside these other heroes, if I can.
+Default Dialogue: If you tell anyone I said this, I'll deny it, but...
+Default Dialogue: Honestly, every single one of them deserves to be here.
+Default Dialogue: They're hard-working, smart, genuine heroes.
+Default Dialogue: I'll do whatever I can to help them protect this Island.
+Default Dialogue: You're the one who stabilized my shadow proxies, right? Thanks.
+Default Dialogue: Hope said she knew someone who could help. I guess that's you.
+Default Dialogue: She keeps saying I have 'potential'. Whatever that means.
+
+
+----- NPC: Killswitch -----
+Default Dialogue: What do you need?
+Default Dialogue: They're a good crew. But we NEED to learn teamwork.
+Default Dialogue: Synth's great at keeping people from burning out, but she lacks focus.
+Default Dialogue: Lightrider's not a team player, Morgan needs a confidence boost. Ziggy's a slacker.
+Default Dialogue: Lightrider's not a team player, Morgan needs a confidence boost. Ziggy's a slacker.
+Default Dialogue: The Academy is everything I've trained my whole life for.
+Default Dialogue: The Night Rose is a tactical genius, Hope fought Doctor Doom...
+Default Dialogue: And Jones, he's seen some stuff. He's a legend.
+Default Dialogue: Plus Robin and THE Superman? I feel like I won the lottery.
+Default Dialogue: My cybernetics got extra juice from a burst of some weird energy.
+Default Dialogue: That plus hard work equals superhero, I guess.
+Default Dialogue: My whole life, I've always worked harder, trained longer, fought to be recognized.
+Default Dialogue: Feels good... and kinda weird... to finally be noticed.
+Default Dialogue: This world doesn't go easy on you, so never go easy on the world.
+First Interaction: I'm Killswitch, of The Supernovas. I'm sure you've heard of us.
+Random Dialogue: This world doesn't go easy on you, so never go easy on the world.
+Random Dialogue: You gotta fight for every inch of progress, or you'll end up going in circles. Did that... make sense?
+Random Dialogue: Always follow your dreams... but be ready to beat 'em in one-on-one combat.
+Random Dialogue: You don't have to be the best. Just work the hardest.
+Random Dialogue: They call me a one man army. Go on. Guess why.
+Wearing Lightrider: Cooperation over competition, LR. We're a TEAM.
+Wearing Synthwave: I'll sleep when I'm eliminated. 'Til then, I train.
+Wearing Ziggy: You better not be slacking off on my watch, Zig.
+Wearing Haylee Skye: There she is! The BEAST! Or should I say, the GOAT?
+Wearing Morgan Myst: Keep training, Morgan. The confidence will come.
+Wearing The Night Rose: Finished my tactics assignment, ma'am. I, uh, went a little over wordcount.
+Wearing Vengeance Jones: Sir.
+Wearing Shadow Blade Hope: Our team's a mess, ma'am, but with training we'll be unstoppable.
+Wearing Robin: You know, Batman's kinda my personal hero.
+Wearing Superman: Oh, uhhh... Hi. Er. Hello, sir.
+
+
+----- NPC: Ziggy -----
+Default Dialogue: It's good to be green.
+First Interaction: It's Z to the I to the G-G-Y.
+Random Dialogue: It's good to be green.
+Random Dialogue: I hope you're here to relax.
+Random Dialogue: Keep it chill and we won't have any problems.
+Wearing Lightrider: I've always got time for a fellow board enthusiast.
+Wearing Synthwave: That lo-fi playlist you made me was so chill... I forgot to even turn it on. 
+Wearing Haylee Skye: What's up, Eggsy?
+Wearing Morgan Myst: Are you SURE you don't like "Morgue-Ann" as a nickname?
+Wearing Killswitch: You seem tense. Like, all the time.
+Wearing The Night Rose: (gulps nervously) Oh, um... hi...
+Wearing Vengeance Jones: Your little scarf is looking extra confident today.
+Wearing Shadow Blade Hope: HOPE! HOPE! HOPE! HOPE!
+Default Dialogue: What can this lil' lizard do for you?
+Default Dialogue: It's a bit like being you, except you're you and I'm me.
+Default Dialogue: How you feel about being you? That's about how I feel about being me.
+Default Dialogue: We're all just clinging to this sun-drenched rock hurtling through space, man.
+Default Dialogue: Whether you're doin' it as a lizard, or a... you, you're doin' it right.
+Default Dialogue: I wasn't sure I had what it takes to be a hero initially.
+Default Dialogue: But then I started studying with the Night Rose and she's... so cool...
+Default Dialogue: Just looking at her makes me want to be a better lizard.
+Default Dialogue: ...Oh, and the other mentors are great too! I like them all EQUALLY. Be cool okay?
+Default Dialogue: Haylee's my best friend in the whole world.
+Default Dialogue: She's friendly, and funny, and weird. All the best people are.
+Default Dialogue: Did you know she puts an entire poached egg in her morning latte? It's "efficient," apparently.
+Default Dialogue: What a freak. I love her.
+
+
+----- NPC: Vengeance Jones -----
+Default Dialogue: What do you want?
+First Interaction: Hey. Still around, I see. Good.
+Random Dialogue: What do you want?
+Random Dialogue: Vengeance isn't a literal thing. It's a state of mind.
+Random Dialogue: I guess I teach superheroes now. Hmph.
+Wearing Ziggy: You bring snacks into my class, you pay the Snack Tax.
+Wearing Haylee Skye: We're still figuring out if you and the Beast get different grades...
+Wearing Morgan Myst: Hope believes in you. That means something.
+Wearing The Night Rose: I wish our plan to save the Shard didn't involve so much... social interaction.
+Wearing Killswitch: You want more homework? Fine. Go get me a coffee. Black.
+Wearing Shadow Blade Hope: I had my doubts about the Academy, but when you're right, you're right.
+Wearing Lightrider: I get the cool loner thing, but you're part of a TEAM.
+Wearing Superman: You're giving us all a lot to live up to. That's a good thing.
+Default Dialogue: What?
+Default Dialogue: I'll do anything I have to, to keep the Shard safe.
+Default Dialogue: I'll do anything I have to, to keep the Shard safe.
+Default Dialogue: I'll do anything I have to, to keep the Shard safe.
+Default Dialogue: They're green, but they're alright.
+Default Dialogue: We'll kick 'em into shape.
+Default Dialogue: They need a leader, though. Someone to inspire them.
+Default Dialogue: It's not gonna be me, tell you that much.
+Default Dialogue: This whole thing was Hope's idea.
+Default Dialogue: Find promising candidates, fight the Mask Maker, get the Shard back.
+Default Dialogue: Easy-peasy. As if anything ever goes that way.
+
+
+----- NPC: Shadow Blade Hope -----
+Default Dialogue: What's up?
+Default Dialogue: Jones has been pretty grumpy with Kendo.
+Default Dialogue: I think he's looking out for me, since Kendo and I have become closer.
+Default Dialogue: Jones doesn't have to worry. My main focus is finding the Shard.
+Default Dialogue: I can't afford to let anything else distract me.
+Default Dialogue: I'm used to standing up to powerful bullies, but my gut's in a knot.
+Default Dialogue: It just doesn't make sense. Daigo wanted to save the Island. Not... this.
+Default Dialogue: And these Spires, what are they? What is he doing with them?
+Default Dialogue: We're missing something. I know we are.
+Default Dialogue: Still having those visions of doom, yup. 
+Default Dialogue: Thankfully not visions of Doom, capital D. Not a reunion I ever want to have.
+Default Dialogue: My visions are vague, but whatever Daigo's doing... we dont want him to succeed.
+Default Dialogue: Or else, this Island might be - again, lower case D - doomed.
+Default Dialogue: This 'saving the world' stuff just gets more and more complicated...
+First Interaction: Hey. Good to see you.
+Random Dialogue: Saving the world just keeps getting more complicated. Glad we're getting more allies together.
+Random Dialogue: I still can't believe Jones and I started a school for superheroes.
+Random Dialogue: Be careful of those Spires. They're dangerous.
+Wearing Lightrider: Teamwork is, uh, kind of central to being part of a superhero team.
+Wearing Synthwave: Synthwave, remember: keep everything balanced, alright?
+Wearing Ziggy: So, Ziggy, are you coming to training... at all... this week?
+Wearing Haylee Skye: Haylee, you can't cut in line at the cafeteria because "the Beast is hungry".
+Wearing Morgan Myst: I believe you are way more capable than you think, Morgan.
+Wearing Killswitch: I appreciate the respect, but don't call me ma'am.
+Wearing The Night Rose: Night Rose, go a little easier on 'em. These heroes aren't soldiers. Or demons.
+Wearing Vengeance Jones: I don't like that we still don't know how powerful these Shards are...
+Wearing Outlaw Midas: Shh. We shouldn't talk too much in public.
+Wearing Kendo: Oh, hey. I was hoping I'd get to see you today.
+Wearing Jade: The Island feels... off, right? Those Spires are doing... something.
+Wearing Daigo: What happened to 'saving the Island', Daigo? What changed?
+Wearing Mercenary Kor: You should ask around about Fletcher Kane, Daigo's last 'lieutenant'. Good luck.
+Wearing Superman: Thank you for helping with the heroes. You're everything people said.
+Wearing Robin: We appreciate your help at the Academy. You're a good teacher.
+
+
+----- NPC: Kendo -----
+Default Dialogue: I've never felt more lost.
+First Interaction: My blade's at your service, if you need it.
+Random Dialogue: I've never felt more lost.
+Random Dialogue: My brother is a traitor. What do I do now?
+Random Dialogue: Every time I catch my breath, a new crisis hits.
+Random Dialogue: This world moves so fast. I can't keep up.
+Wearing Daigo: I'll never forgive you for your betrayal. Never.
+Wearing Jade: Don't be foolish, Jade. Daigo has turned his back on us.
+Wearing Shadow Blade Hope: What do you see, when you look at me? A hero, or a failure?
+Wearing Morgan Myst: If Hope sees potential in you, you should listen.
+Wearing The Night Rose: Do you think my brother... No, there's no way.
+Wearing Vengeance Jones: If my brother truly has betrayed us... do what you must.
+Wearing Mercenary Kor: What is it you want? Money, power, an even fancier coat?
+Default Dialogue: How can I help?
+Default Dialogue: I don't know what the future holds.
+Default Dialogue: Hope and Jones and these Supernovas will confront my brother.
+Default Dialogue: And they'll win, or they won't.
+Default Dialogue: I suspect either will lead to an unhappy ending.
+Default Dialogue: I've always known Daigo was ruthless...
+Default Dialogue: I never thought he was a villain.
+Default Dialogue: I've been a fool. Of course he'd turn his back on us for power.
+Default Dialogue: I've been so naïve. That stops now.
+Default Dialogue: Jade still thinks Daigo will return to us.
+Default Dialogue: After everything she's been through... I understand.
+Default Dialogue: She clings to hope beyond reason. She needs to.
+Default Dialogue: But Daigo has abandoned us. For good.
+
+
+----- NPC: Superman -----
+Default Dialogue: I will share what I can.
+Default Dialogue: I have seen many villanous schemes in my time. This is no different.
+Default Dialogue: I wish we knew more about this Mask Maker's aims.
+Default Dialogue: I have heard he was a hero, in his own way, before he fell to darkness.
+Default Dialogue: I hope we can help set him, and this Island, back on the right path.
+Default Dialogue: I have heard he was a hero, in his own way, before he fell to darkness.
+Default Dialogue: I have heard he was a hero, in his own way, before he fell to darkness.
+Default Dialogue: I have heard he was a hero, in his own way, before he fell to darkness.
+Default Dialogue: I have heard he was a hero, in his own way, before he fell to darkness.
+Default Dialogue: Honestly, I'm not sure how I got here.
+Default Dialogue: I believe I fell through one of your "rifts" and found myself on this Island.
+Default Dialogue: While it is accidental, I am happy to help however I can.
+Default Dialogue: Innocent people need protecting. 
+First Interaction: Pleased to meet you. They call me Superman.
+Random Dialogue: Defending truth, tolerance, and justice. That's what I'm about.
+Random Dialogue: Innocent people need protecting. 
+Random Dialogue: The least we can do, in this world, is be kind to one another.
+Wearing Clark Kent: Have we... met...?
+
+
+----- NPC: Jade -----
+Default Dialogue: What do you need to know?
+Default Dialogue: The Sprites are restless.
+Default Dialogue: Those Spires... I think they're doing something to the Island.
+Default Dialogue: Whatever it is... it's bad.
+Default Dialogue: I don't think Daigo has betrayed us... but Kendo won't LISTEN to me.
+Default Dialogue: That dark presence in the Spirit Realm, it wanted Daigo. It wanted all of us.
+Default Dialogue: What if it's done something to Daigo? What if it's all my fault?
+Default Dialogue: We have to save him. We have to.
+Default Dialogue: This Island is so special. We have to protect it.
+First Interaction: Heya. Beautiful day, huh?
+Random Dialogue: This Island is so special. We have to protect it.
+Random Dialogue: All of this is happening because Daigo saved me from the Spirit Realm...
+Wearing Daigo: This isn't you. I know it.
+Wearing Kendo: I think Daigo needs our help. This isn't like him.
+Wearing Shadow Blade Hope: What you're doing, with the heroes, is really great.
+Wearing Nyanja: Buddy!! How've you been??
+Wearing The Night Rose: I'm glad to see you using your freedom for something good.
+Wearing Vengeance Jones: The Shard is dangerous, sure... but are you sure you're the one who should protect it?
+Wearing Helsie: I'd like to meet those friends of yours someday, Helsie.
+Wearing Vi: Where was Fox Clan when I was taken? At least Daigo DID something.
+Wearing Mizuki: Daigo isn't like our ancestor. I promise, he's different.
+
+
+----- NPC: Synthwave -----
+Default Dialogue: What do you need?
+Default Dialogue: You know, being part of a superhero squad is kind of like being in a band.
+Default Dialogue: Everybody's got their 'thing'. A band made up of all drums or all guitars would get a bit samey, right?
+Default Dialogue: Supernova Academy is amazing! The tech, the campus, the VIBE??
+Default Dialogue: The instructors all have their specialties, too.
+Default Dialogue: Night Rose teaches tactics, Robin helps us train our powers, Hope teaches teamwork...
+Default Dialogue: Jones... Well, I'm sure he's got special projects he's focused on.
+Default Dialogue: I've always had a special connection with music.
+Default Dialogue: Before all this, I was a DJ, musician, the works.
+Default Dialogue: Now, I've got these amazing powers, and I know I gotta do good with them.
+Default Dialogue: After  all, why have superpowers and not try to help people??
+Default Dialogue: It's a beautiful day to be a superhero.
+First Interaction: Hey there! You can call me Synthwave.
+Random Dialogue: Doesn't a day like this make you wanna throw on a playlist and dance?
+Random Dialogue: Doesn't a day like this make you wanna dance?
+Random Dialogue: Listen to the rhythm inside you, and you'll know what to do.
+Random Dialogue: Yeah, I'm one of The Supernovas! Saving the Island and all that.
+Wearing Lightrider: You're super impressive, LR. But remember: you gotta be part of the team, too.
+Wearing Ziggy: Lookin' good, Zig! 
+Wearing Haylee Skye: If it isn't the BEAST, my girl Haylee! Bring it in.
+Wearing Morgan Myst: You're a hero, Morgan. Just... embrace it!
+Wearing Killswitch: Wanna play Bugblaster IV in the common room after training? Zig's bringing snacks!
+Wearing The Night Rose: Been working on my formations all morning, ma'am.
+Wearing Shadow Blade Hope: I think Morgan could use one of your pep talks. With extra pep.
+Wearing Superman: Oh my. You're a legend!
+Wearing Robin: So, is Batman always that brooding, or does he lighten up sometimes?
+
+
